@@ -1,441 +1,434 @@
-DRUG_NAME	STRUCT_ID	TARGET_NAME	ACCESSION	ACT_VALUE	ACT_UNIT	ACT_TYPE	ACT_SOURCE	RELATION	ORGANISM	strain_type
-aminopterin	21	Dihydrofolate reductase	P00381	8.3		IC50	CHEMBL	=	Lactobacillus casei	acid-fast
-aminopterin	21	Dihydrofolate reductase	B0BL08	7.96		IC50	CHEMBL	=	Escherichia coli	gram-negative
-fluorouracil	26	Uracil phosphoribosyltransferase	P0A8F0	4.89		Ki	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-azaribine	27	Orotidine 5'-phosphate decarboxylase	O26232	4.96		Ki	CHEMBL	=	Methanothermobacter thermautotrophicus (strain ATCC 29096 / DSM 1053 / JCM 10044 / NBRC 100330 / Delta H)	gram-positive
-acarbose	39	Alpha-amylase	P94451	6.47		Ki	CHEMBL	=	Geobacillus stearothermophilus	gram-positive
-acetazolamide	56	Carbonic anhydrase	O24855	7.7		Ki	CHEMBL	=	Helicobacter pylori (strain ATCC 700392 / 26695)	gram-negative
-acetazolamide	56	Carbonic anhydrase	Q50565	4.92		Ki	CHEMBL	=	Methanothermobacter thermautotrophicus (strain ATCC 29096 / DSM 1053 / JCM 10044 / NBRC 100330 / Delta H)	gram-positive
-acetazolamide	56	Probable transmembrane carbonic anhydrase (Carbonate dehydratase) (Carbonic dehydratase); Transmembrane carbonic anhydrase	P96878	7.92		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-acetazolamide	56	Beta-carbonic anhydrase 1	P9WPJ7	6.6		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-acetazolamide	56	Carbonic anhydrase 2	P9WPJ9	8.05		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-acetazolamide	56	Carbonic anhydrase	Q9HVB9	7.12		Ki	CHEMBL	=	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1)	gram-negative
-acetazolamide	56	Carbonic anhydrase, alpha family	Q31FD6	8.37		Ki	CHEMBL	=	Hydrogenovibrio crunogenus (strain XCL-2)	gram-negative
-acetazolamide	56	Carbonate dehydratase	B2V8E3	8.35		Ki	CHEMBL	=	Sulfurihydrogenibium sp. (strain YO3AOP1)	gram-negative
-acetohydroxamic acid	58	Urease subunit beta	Q0PXQ5	4.76		IC50	CHEMBL	=	Helicobacter pylori	gram-negative
-racecadotril	60	Thermolysin	P00800	5.02		IC50	CHEMBL	=	Bacillus thermoproteolyticus	gram-positive
-adenosine phosphate	92	Ketopantoate reductase	P0A9J4	2.2		Ki	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-alexidine	113	Beta-lactamase	Q932Y6	5.28		IC50	CHEMBL	=	Pseudomonas aeruginosa	gram-negative
-allopurinol	124	Shiga toxin subunit A	Q9FBI2	4.62		IC50	CHEMBL	=	Shigella dysenteriae	gram-negative
-aminoquinuride	174	Lethal factor	P15917	6.3		Ki	CHEMBL	=	Bacillus anthracis	gram-positive
-aminoquinuride	174	Botulinum neurotoxin type A	P10845	5.14		IC50	CHEMBL	=	Clostridium botulinum	gram-positive
-amiodarone	176	Lethal factor	P15917	5.46		IC50	CHEMBL	=	Bacillus anthracis	gram-positive
-aztreonam	279	Peptidoglycan synthase FtsI	P0AD68	5.736		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-aztreonam	279	Penicillin-binding protein 1A	Q07806	5.48		IC50	CHEMBL	=	Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228)	gram-negative
-aztreonam	279	Penicillin-binding protein 1A	P02918	5.317		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-aztreonam	279	Penicillin-binding protein 1B	P02919	4.317		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-aztreonam	279	Beta-lactamase	A2RP81	5.7		Ki	CHEMBL	=	Citrobacter freundii	gram-negative
-aztreonam	279	Beta-lactamase	A4ZYU9	7.49		IC50	CHEMBL	=	Escherichia coli	gram-negative
-aztreonam	279	AmpC	Q83TT7	7.22		IC50	CHEMBL	=	Escherichia coli	gram-negative
-aztreonam	279	Efflux transporter; SugE	Q3S5C3	8.22		IC50	CHEMBL	=	Salmonella newport	gram-negative
-aztreonam	279	Beta-lactamase	Q48435	8.22		IC50	CHEMBL	=	Klebsiella pneumoniae	gram-negative
-aztreonam	279	Beta-lactamase	B2ZTR6	8.15		Ki	CHEMBL	=	Acinetobacter baumannii	gram-negative
-aztreonam	279	Beta-lactamase	D6NSM8	5.52		Ki	CHEMBL	=	Acinetobacter baumannii	gram-negative
-bacitracin	281	Undecaprenyl-diphosphatase	P60932	5.25		IC50	CHEMBL	=	Escherichia coli	gram-negative
-benzyl benzoate	335	Beta-lactamase	P00811	4.05		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-bepridil	342	Lethal factor	P15917	5.32		IC50	CHEMBL	=	Bacillus anthracis	gram-positive
-bortezomib	391	Beta-carbonic anhydrase 1	P9WPJ7	5.14		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-brinzolamide	396	Carbonic anhydrase	O24855	6.68		Ki	CHEMBL	=	Helicobacter pylori (strain ATCC 700392 / 26695)	gram-negative
-brinzolamide	396	Probable transmembrane carbonic anhydrase (Carbonate dehydratase) (Carbonic dehydratase); Transmembrane carbonic anhydrase	P96878	6.7		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-brinzolamide	396	Beta-carbonic anhydrase 1	P9WPJ7	6.08		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-brinzolamide	396	Carbonic anhydrase 2	P9WPJ9	6.9		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-brinzolamide	396	Carbonic anhydrase, alpha family	Q31FD6	8.38		Ki	CHEMBL	=	Hydrogenovibrio crunogenus (strain XCL-2)	gram-negative
-brinzolamide	396	Carbonate dehydratase	B2V8E3	7.91		Ki	CHEMBL	=	Sulfurihydrogenibium sp. (strain YO3AOP1)	gram-negative
-brodimoprim	398	Dihydrofolate reductase	P0ABQ4	8.18		Ki	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-brodimoprim	398	Dihydrofolate reductase	P00381	7.95		Ki	CHEMBL	=	Lactobacillus casei	acid-fast
-brodimoprim	398	Dihydrofolate reductase	B0BL08	8.53		IC50	CHEMBL	=	Escherichia coli	gram-negative
-brodimoprim	398	Dihydrofolate reductase	Q8Z9J9	8.18		Ki	CHEMBL	=	Salmonella typhi	gram-negative
-captopril	484	Succinyl-diaminopimelate desuccinylase	P44514	5.74		Ki	CHEMBL	=	Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)	gram-negative
-captopril	484	Beta-lactamase	Q79MP6	5.62		Ki	CHEMBL	=	Pseudomonas aeruginosa	gram-negative
-captopril	484	Beta-lactamase II	Q93T40	4.75		Ki	CHEMBL	=	Bacillus anthracis	gram-positive
-cefotaxime	546	Peptidoglycan synthase FtsI	P0AD68	6.244		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-cefotaxime	546	Penicillin-binding protein 1A	P02918	6.512		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-cefotaxime	546	Penicillin-binding protein 1B	P02919	5.659		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-cefotaxime	546	Beta-lactamase	B2ZTR6	6.3		Ki	CHEMBL	=	Acinetobacter baumannii	gram-negative
-cefotaxime	546	Beta-lactamase	D6NSM8	5.6		Ki	CHEMBL	=	Acinetobacter baumannii	gram-negative
-cefotaxime	546	Penicillin-binding protein 2	P0AD65	4.617		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-cefoxitin	550	Beta-lactamase	A2RP81	6.85		Ki	CHEMBL	=	Citrobacter freundii	gram-negative
-cefoxitin	550	Beta-lactamase	B2ZTR6	7.0		Ki	CHEMBL	=	Acinetobacter baumannii	gram-negative
-cefoxitin	550	Beta-lactamase	D6NSM8	6.3		Ki	CHEMBL	=	Acinetobacter baumannii	gram-negative
-cefsulodin	558	Penicillin-binding protein 1A	P02918	6.522		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-cefsulodin	558	Penicillin-binding protein 1B	P02919	5.328		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-ceftazidime	559	Peptidoglycan synthase FtsI	P0AD68	6.261		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-ceftazidime	559	Penicillin-binding protein 1A	P02918	6.534		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-ceftazidime	559	Penicillin-binding protein 1B	P02919	4.96		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-ceftriaxone	564	Peptidoglycan synthase FtsI	P0AD68	6.142		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-ceftriaxone	564	Penicillin-binding protein 1A	P02918	6.513		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-ceftriaxone	564	Penicillin-binding protein 1B	P02919	5.744		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-ceftriaxone	564	Penicillin-binding protein 2	P0AD65	6.213		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-celecoxib	568	Carbonic anhydrase	Q50565	4.41		Ki	CHEMBL	=	Methanothermobacter thermautotrophicus (strain ATCC 29096 / DSM 1053 / JCM 10044 / NBRC 100330 / Delta H)	gram-positive
-celecoxib	568	Probable transmembrane carbonic anhydrase (Carbonate dehydratase) (Carbonic dehydratase); Transmembrane carbonic anhydrase	P96878	5.11		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-celecoxib	568	Beta-carbonic anhydrase 1	P9WPJ7	4.99		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-celecoxib	568	Carbonic anhydrase 2	P9WPJ9	6.15		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-celecoxib	568	Carbonic anhydrase, alpha family	Q31FD6	6.01		Ki	CHEMBL	=	Hydrogenovibrio crunogenus (strain XCL-2)	gram-negative
-celecoxib	568	Carbonate dehydratase	B2V8E3	8.16		Ki	CHEMBL	=	Sulfurihydrogenibium sp. (strain YO3AOP1)	gram-negative
-chloroxine	611	Botulinum neurotoxin type A	P10845	4.94		IC50	CHEMBL	=	Clostridium botulinum	gram-positive
-ciprofloxacin	659	DNA topoisomerase 4 subunit A	P0AFI2	5.602		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-ciprofloxacin	659	DNA topoisomerase 4 subunit A	Q45066	5.658		IC50	WOMBAT-PK	=	Bacillus subtilis (strain 168)	gram-positive
-ciprofloxacin	659	DNA topoisomerase 4 subunit A	P0C1U9	6.0		IC50	WOMBAT-PK	=	Staphylococcus aureus	gram-positive
-ciprofloxacin	659	DNA gyrase subunit A	P9WG47	6.2		IC50	WOMBAT-PK	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-ciprofloxacin	659	DNA gyrase subunit A	P0AES4	5.75		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-clavulanic acid	669	Beta-lactamase TEM	P62593	10.187		IC50	WOMBAT-PK	=	Escherichia coli	gram-negative
-clavulanic acid	669	Beta-lactamase	P00811	7.82		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-clavulanic acid	669	Beta-lactamase	Q59401	4.0		IC50	CHEMBL	=	Enterobacter cloacae	gram-negative
-clavulanic acid	669	Beta-lactamase SHV-1	P0AD63	7.55		IC50	CHEMBL	=	Escherichia coli	gram-negative
-clavulanic acid	669	Beta-lactamase OXA-1	P13661	5.49		IC50	CHEMBL	=	Escherichia coli	gram-negative
-clavulanic acid	669	Beta-lactamase	P24735	6.1		IC50	CHEMBL	=	Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228)	gram-negative
-clavulanic acid	669	Beta-lactamase	A4KCT8	8.05		IC50	CHEMBL	=	Citrobacter gillenii	gram-negative
-clavulanic acid	669	Beta-lactamase	A1E3K9	7.15		IC50	CHEMBL	=	Escherichia coli	gram-negative
-clavulanic acid	669	Beta-lactamase	A8RR46	7.07		IC50	CHEMBL	=	Bacillus clausii	gram-positive
-clavulanic acid	669	Carbapenem-hydrolizing beta-lactamase SFC-1	Q6JP75	4.14		IC50	CHEMBL	=	Serratia fonticola	gram-negative
-clavulanic acid	669	Carbepenem-hydrolyzing beta-lactamase KPC	Q9F663	4.96		Ki	CHEMBL	=	Klebsiella pneumoniae	gram-negative
-clavulanic acid	669	Beta-lactamase	A2RP81	7.17		IC50	CHEMBL	=	Citrobacter freundii	gram-negative
-clavulanic acid	669	Beta-lactamase	Q9EXV5	8.05		IC50	CHEMBL	=	Escherichia coli	gram-negative
-clavulanic acid	669	Beta-lactamase SHV-1	P0AD64	6.77		IC50	CHEMBL	=	Klebsiella pneumoniae	gram-negative
-clavulanic acid	669	Beta-lactamase	Q6GWS8	5.07		IC50	CHEMBL	=	Escherichia coli	gram-negative
-clavulanic acid	669	Beta-lactamase GES-13	D1MIX9	7.0		IC50	CHEMBL	=	Pseudomonas aeruginosa	gram-negative
-clavulanic acid	669	Beta-lactamase	A0ZX81	5.76		IC50	CHEMBL	=	Klebsiella pneumoniae	gram-negative
-clavulanic acid	669	Beta-lactamase	Q4TVR4	7.7		IC50	CHEMBL	=	Klebsiella pneumoniae	gram-negative
-clavulanic acid	669	Class D beta-lactamase	Q50H31	5.7		IC50	CHEMBL	=	Brachyspira pilosicoli	gram-negative
-clavulanic acid	669	Beta-lactamase	Q2XPY6	8.0		IC50	CHEMBL	=	Salmonella enterica subsp. enterica serovar Westhampton	gram-negative
-clavulanic acid	669	Beta-lactamase SHV-5	P0A3M1	4.6		Ki	CHEMBL	=	Klebsiella pneumoniae	gram-negative
-clavulanic acid	669	Beta-lactamase	D2SSQ3	7.0		IC50	CHEMBL	=	Pseudomonas aeruginosa	gram-negative
-clavulanic acid	669	Beta-lactamase	Q3SAW3	7.0		IC50	CHEMBL	=	Pseudomonas aeruginosa	gram-negative
-clavulanic acid	669	Beta-lactamase	Q670S6	7.44		IC50	CHEMBL	=	Pseudomonas luteola	gram-negative
-clioquinol	681	Botulinum neurotoxin type A	P10845	4.69		IC50	CHEMBL	=	Clostridium botulinum	gram-positive
-clodronic acid	690	Type IV secretion-like conjugative transfer relaxase protein TraI	B1LRJ1	8.52		Ki	CHEMBL	=	Escherichia coli	gram-negative
-clotrimazole	719	Beta-lactamase	P00811	4.7		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-cloxacillin	720	Beta-lactamase TEM	P62593	4.89		Ki	CHEMBL	=	Escherichia coli	gram-negative
-cloxacillin	720	Beta-lactamase	A4ZYU9	7.59		IC50	CHEMBL	=	Escherichia coli	gram-negative
-cloxacillin	720	Efflux transporter; SugE	Q3S5C3	8.4		IC50	CHEMBL	=	Salmonella newport	gram-negative
-cloxacillin	720	Beta-lactamase	Q48435	8.4		IC50	CHEMBL	=	Klebsiella pneumoniae	gram-negative
-cloxacillin	720	Beta-lactamase TEM	P62594	4.89		Ki	WOMBAT-PK	=	Salmonella typhi	gram-negative
-cycloguanil	754	Dihydrofolate reductase	P00381	4.76		Ki	CHEMBL	=	Lactobacillus casei	acid-fast
-cycloguanil	754	Dihydrofolate reductase	B0BL08	5.99		Ki	CHEMBL	=	Escherichia coli	gram-negative
-dapsone	782	Dihydropteroate synthase 1	P0C0X1	5.9		IC50	WOMBAT-PK	=	Mycobacterium leprae (strain TN)	acid-fast
-dasatinib	785	Quinolone resistance protein NorA	P0A0J7	4.94		IC50	CHEMBL	=	Staphylococcus aureus	gram-positive
-delavirdine	799	Beta-lactamase	P00811	4.05		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-dichlorphenamide	864	Carbonic anhydrase	O24855	6.423		Ki	WOMBAT-PK	=	Helicobacter pylori (strain ATCC 700392 / 26695)	gram-negative
-dichlorphenamide	864	Beta-carbonic anhydrase 1	P9WPJ7	6.06		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-dichlorphenamide	864	Carbonic anhydrase 2	P9WPJ9	5.7		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-dichlorphenamide	864	Carbonic anhydrase, alpha family	Q31FD6	7.61		Ki	CHEMBL	=	Hydrogenovibrio crunogenus (strain XCL-2)	gram-negative
-dichlorphenamide	864	Carbonate dehydratase	B2V8E3	8.07		Ki	CHEMBL	=	Sulfurihydrogenibium sp. (strain YO3AOP1)	gram-negative
-dicoumarol	867	ATP phosphoribosyltransferase	P9WMN1	4.22		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-disulfiram	928	Bifunctional protein GlmU	P9WMN3	4.07		IC50	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-dorzolamide	949	Carbonic anhydrase	O24855	5.37		Ki	CHEMBL	=	Helicobacter pylori (strain ATCC 700392 / 26695)	gram-negative
-dorzolamide	949	Carbonic anhydrase	Q50565	4.51		Ki	CHEMBL	=	Methanothermobacter thermautotrophicus (strain ATCC 29096 / DSM 1053 / JCM 10044 / NBRC 100330 / Delta H)	gram-positive
-dorzolamide	949	Probable transmembrane carbonic anhydrase (Carbonate dehydratase) (Carbonic dehydratase); Transmembrane carbonic anhydrase	P96878	6.86		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-dorzolamide	949	Beta-carbonic anhydrase 1	P9WPJ7	6.13		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-dorzolamide	949	Carbonic anhydrase 2	P9WPJ9	7.0		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-dorzolamide	949	Carbonic anhydrase, alpha family	Q31FD6	8.15		Ki	CHEMBL	=	Hydrogenovibrio crunogenus (strain XCL-2)	gram-negative
-dorzolamide	949	Carbonate dehydratase	B2V8E3	8.1		Ki	CHEMBL	=	Sulfurihydrogenibium sp. (strain YO3AOP1)	gram-negative
-doxorubicin	960	Type-2 restriction enzyme HindIII	P43870	4.02		IC50	CHEMBL	=	Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)	gram-negative
-doxorubicin	960	Type-2 restriction enzyme ScaI	O52691	4.6		IC50	CHEMBL	=	Streptomyces caespitosus	gram-positive
-doxycycline	961	Tetracycline resistance protein, class B	P02980	5.04		IC50	WOMBAT-PK	=	Escherichia coli	gram-negative
-econazole	983	Beta-lactamase	P00811	4.6		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-edatrexate	986	Dihydrofolate reductase	P00381	8.42		IC50	CHEMBL	=	Lactobacillus casei	acid-fast
-edetic acid	987	Beta-lactamase	Q79MP6	4.55		IC50	CHEMBL	=	Pseudomonas aeruginosa	gram-negative
-edetic acid	987	Beta-lactamase VIM-1; Class B carbapenemase VIM-1; Metallo-beta-lactamase; Metallo-beta-lactamase VIM-1; Metallobeta-lactamase; VIM-1; VIM-1 metallo-beta lactamase; VIM-1 metallo-beta-lactamase; VIM-1	Q9XAY4	5.03		IC50	CHEMBL	=	Pseudomonas aeruginosa	gram-negative
-ergotamine	1043	Adenylate cyclase	O32393	4.15		IC50	CHEMBL	=	Arthrospira platensis	gram-negative
-ethoxzolamide	1089	Carbonic anhydrase	O24855	6.81		Ki	CHEMBL	=	Helicobacter pylori (strain ATCC 700392 / 26695)	gram-negative
-ethoxzolamide	1089	Carbonic anhydrase	Q50565	5.27		Ki	CHEMBL	=	Methanothermobacter thermautotrophicus (strain ATCC 29096 / DSM 1053 / JCM 10044 / NBRC 100330 / Delta H)	gram-positive
-ethoxzolamide	1089	Beta-carbonic anhydrase 1	P9WPJ7	5.99		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-ethoxzolamide	1089	Carbonic anhydrase 2	P9WPJ9	7.57		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-ethoxzolamide	1089	Carbonic anhydrase, alpha family	Q31FD6	8.39		Ki	CHEMBL	=	Hydrogenovibrio crunogenus (strain XCL-2)	gram-negative
-ethoxzolamide	1089	Carbonate dehydratase	B2V8E3	8.03		Ki	CHEMBL	=	Sulfurihydrogenibium sp. (strain YO3AOP1)	gram-negative
-etidronic acid	1098	Type IV secretion-like conjugative transfer relaxase protein TraI	B1LRJ1	8.52		Ki	CHEMBL	=	Escherichia coli	gram-negative
-fendiline	1148	Transcriptional activator protein luxR	P12746	4.04		IC50	CHEMBL	=	Aliivibrio fischeri	gram-negative
-fleroxacin	1177	DNA gyrase subunit A	P0AES4	4.79		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-fosfomycin	1243	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	P0A749	7.0		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-fosfomycin	1243	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	Q9HVW7	4.98		IC50	CHEMBL	=	Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228)	gram-negative
-fulvestrant	1255	Beta-lactamase TEM	P62593	4.25		IC50	CHEMBL	=	Escherichia coli	gram-negative
-fulvestrant	1255	Beta-lactamase TEM	P62593	4.25		IC50	CHEMBL	=	Escherichia coli	gram-negative
-furosemide	1258	Holo-[acyl-carrieir-protein] synthase	P96618	4.9		IC50	CHEMBL	=	Bacillus subtilis (strain 168)	gram-positive
-gatifloxacin	1280	DNA topoisomerase 4 subunit A	P0C1U9	5.92		IC50	CHEMBL	=	Staphylococcus aureus	gram-positive
-gatifloxacin	1280	DNA gyrase subunit A	P9WG47	5.03		IC50	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-gatifloxacin	1280	DNA gyrase	P0AES4|P0AES6	6.3		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-gefitinib	1282	Quinolone resistance protein NorA	P0A0J7	5.01		IC50	CHEMBL	=	Staphylococcus aureus	gram-positive
-gemifloxacin	1286	DNA topoisomerase 4 subunit A	P0C1U9	6.52		IC50	CHEMBL	=	Staphylococcus aureus	gram-positive
-glutamic acid	1310	Glutamate racemase	Q03469	4.55		Ki	CHEMBL	=	Lactobacillus fermentum	acid-fast
-glutamic acid	1310	Glutamate racemase	P56068	5.24		Ki	CHEMBL	=	Helicobacter pylori (strain ATCC 700392 / 26695)	gram-negative
-gossypol	1328	Beta-lactamase	P00811	4.34		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-hydrochlorothiazide	1385	Carbonic anhydrase, alpha family	Q31FD6	6.53		Ki	CHEMBL	=	Hydrogenovibrio crunogenus (strain XCL-2)	gram-negative
-hydrochlorothiazide	1385	Carbonate dehydratase	B2V8E3	8.14		Ki	CHEMBL	=	Sulfurihydrogenibium sp. (strain YO3AOP1)	gram-negative
-imipenem	1426	Penicillin-binding protein 4	Q5D1E9	7.3		IC50	WOMBAT-PK	=	Staphylococcus aureus	gram-positive
-imipenem	1426	Penicillin-binding protein 1	A1KS91	7.0		IC50	WOMBAT-PK	=	Neisseria meningitidis serogroup C / serotype 2a (strain ATCC 700532 / DSM 15464 / FAM18)	gram-negative
-imipenem	1426	Beta-lactamase	A2RP81	7.22		Ki	CHEMBL	=	Citrobacter freundii	gram-negative
-imipenem	1426	Beta-lactamase GES-13	D1MIX9	6.82		IC50	CHEMBL	=	Pseudomonas aeruginosa	gram-negative
-isoniazid	1497	Enoyl-[acyl-carrier-protein] reductase [NADH]	P9WGR1	5.08		IC50	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-isoniazid	1497	Dihydrofolate reductase	P9WNX1	9.0		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-kanamycin	1519	3-oxoacyl-[acyl-carrier-protein] synthase 3	P0A6R0	5.17		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-bekanamycin	1520	3-oxoacyl-[acyl-carrier-protein] synthase 3	C3TDZ2	5.2		IC50	CHEMBL	=	Escherichia coli	gram-negative
-bekanamycin	1520	3-oxoacyl-[acyl-carrier-protein] synthase 3	P0A6R0	5.25		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-lamotrigine	1540	Dihydrofolate reductase	B0BL08	4.82		Ki	CHEMBL	=	Escherichia coli	gram-negative
-levofloxacin	1569	DNA gyrase subunit A	P9WG47	4.28		IC50	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-lomefloxacin	1594	DNA gyrase subunit A	P43700	5.15		IC50	WOMBAT-PK	=	Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)	gram-negative
-mafenide	1624	Carbonic anhydrase	O24855	6.08		Ki	CHEMBL	=	Helicobacter pylori (strain ATCC 700392 / 26695)	gram-negative
-mafenide	1624	Carbonic anhydrase	Q50565	4.55		Ki	CHEMBL	=	Methanothermobacter thermautotrophicus (strain ATCC 29096 / DSM 1053 / JCM 10044 / NBRC 100330 / Delta H)	gram-positive
-mafenide	1624	Probable transmembrane carbonic anhydrase (Carbonate dehydratase) (Carbonic dehydratase); Transmembrane carbonic anhydrase	P96878	5.13		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-mafenide	1624	Beta-carbonic anhydrase 1	P9WPJ7	5.06		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-mafenide	1624	Carbonic anhydrase 2	P9WPJ9	4.51		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-mafenide	1624	Carbonic anhydrase, alpha family	Q31FD6	6.7		Ki	CHEMBL	=	Hydrogenovibrio crunogenus (strain XCL-2)	gram-negative
-mafenide	1624	Carbonate dehydratase	B2V8E3	6.46		Ki	CHEMBL	=	Sulfurihydrogenibium sp. (strain YO3AOP1)	gram-negative
-mecillinam	1648	Penicillin-binding protein 2	P0AD65	7.035		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-methazolamide	1741	Carbonic anhydrase	O24855	6.77		Ki	CHEMBL	=	Helicobacter pylori (strain ATCC 700392 / 26695)	gram-negative
-methazolamide	1741	Carbonic anhydrase	Q50565	4.49		Ki	CHEMBL	=	Methanothermobacter thermautotrophicus (strain ATCC 29096 / DSM 1053 / JCM 10044 / NBRC 100330 / Delta H)	gram-positive
-methazolamide	1741	Probable transmembrane carbonic anhydrase (Carbonate dehydratase) (Carbonic dehydratase); Transmembrane carbonic anhydrase	P96878	6.25		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-methazolamide	1741	Beta-carbonic anhydrase 1	P9WPJ7	6.11		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-methazolamide	1741	Carbonic anhydrase 2	P9WPJ9	6.18		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-methazolamide	1741	Carbonic anhydrase, alpha family	Q31FD6	7.58		Ki	CHEMBL	=	Hydrogenovibrio crunogenus (strain XCL-2)	gram-negative
-methazolamide	1741	Carbonate dehydratase	B2V8E3	8.09		Ki	CHEMBL	=	Sulfurihydrogenibium sp. (strain YO3AOP1)	gram-negative
-meticillin	1744	NH(3)-dependent NAD(+) synthetase	P18843	5.5		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-methotrexate	1751	Dihydrofolate reductase	P00381	8.89		IC50	CHEMBL	=	Lactobacillus casei	acid-fast
-methotrexate	1751	Thymidylate synthase	P00469	4.4		IC50	CHEMBL	=	Lactobacillus casei	acid-fast
-methotrexate	1751	Dihydrofolate reductase	B0BL08	10.68		Ki	CHEMBL	=	Escherichia coli	gram-negative
-methotrexate	1751	Thymidylate synthase	C3SWJ7	5.74		IC50	CHEMBL	=	Escherichia coli	gram-negative
-methotrexate	1751	Dihydrofolate reductase	P0A017	9.0		Ki	CHEMBL	=	Staphylococcus aureus	gram-positive
-methotrexate	1751	Dihydrofolate reductase	P9WNX1	8.08		IC50	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-methotrexate	1751	Dihydrofolate reductase	Q81R22	7.91		IC50	CHEMBL	=	Bacillus anthracis	gram-positive
-methotrexate	1751	Dihydrofolate reductase	P00380	8.85		IC50	CHEMBL	=	Enterococcus faecium	gram-positive
-miconazole	1800	Beta-lactamase	P00811	4.4		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-minocycline	1813	Tetracycline resistance protein, class B	P02980	5.638		IC50	WOMBAT-PK	=	Escherichia coli	gram-negative
-latamoxef	1851	Peptidoglycan synthase FtsI	P0AD68	5.938		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-latamoxef	1851	Penicillin-binding protein 1A	P02918	6.716		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-latamoxef	1851	Penicillin-binding protein 1B	P02919	4.637		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-moxifloxacin	1854	DNA topoisomerase 4 subunit A	P0C1U9	6.1		IC50	CHEMBL	=	Staphylococcus aureus	gram-positive
-moxifloxacin	1854	DNA gyrase subunit A	P9WG47	5.04		IC50	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-moxifloxacin	1854	DNA gyrase	P0AES4|P0AES6	6.52		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-mupirocin	1857	Isoleucine--tRNA ligase	P00956	8.6		Ki	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-mupirocin	1857	Isoleucine--tRNA ligase	P56690	7.22		Ki	CHEMBL	=	Thermus thermophilus	gram-negative
-naftifine	1872	Dehydrosqualene desaturase	O07855	6.53		IC50	CHEMBL	=	Staphylococcus aureus (strain Newman)	gram-positive
-framycetin	1896	Lethal factor	P15917	6.3		Ki	CHEMBL	=	Bacillus anthracis	gram-positive
-nicardipine	1909	Beta-lactamase	P00811	4.7		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-nicardipine	1909	Quinolone resistance protein NorA	P0A0J7	4.64		IC50	CHEMBL	=	Staphylococcus aureus	gram-positive
-nitazoxanide	1943	Pyruvate-flavodoxin oxidoreductase	Q0P8E1	4.98		Ki	CHEMBL	=	Campylobacter jejuni subsp. jejuni serotype O:2	gram-negative
-norfloxacin	1967	DNA topoisomerase 4 subunit A	P0AFI2	5.29		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-norfloxacin	1967	DNA topoisomerase 4 subunit A	P0C1U9	5.46		IC50	CHEMBL	=	Staphylococcus aureus	gram-positive
-norfloxacin	1967	DNA gyrase subunit A	P9WG47	4.28		IC50	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-norfloxacin	1967	DNA gyrase subunit A	P0AES4	6.05		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-novobiocin	1974	DNA gyrase subunit B	P0AES6	6.81		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-novobiocin	1974	DNA gyrase subunit B	P0A4L9	7.43		IC50	CHEMBL	=	Streptococcus pneumoniae serotype 4 (strain ATCC BAA-334 / TIGR4)	gram-positive
-novobiocin	1974	ParE	Q7X1P7	5.69		IC50	CHEMBL	=	Streptococcus pneumoniae	gram-positive
-novobiocin	1974	DNA gyrase	P0AES4|P0AES6	7.0		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-novobiocin	1974	DNA gyrase subunit B	P0C559	6.7		IC50	CHEMBL	=	Mycobacterium smegmatis	acid-fast
-novobiocin	1974	DNA gyrase subunit B	P0A0K8	6.9		IC50	CHEMBL	=	Staphylococcus aureus	gram-positive
-novobiocin	1974	DNULL gyrase subunit B	A0QNE0	7.34		IC50	CHEMBL	=	Mycolicibacterium smegmatis	acid-fast
-novobiocin	1974	DNULL gyrase subunit B	C3SLN3	8.15		Ki	CHEMBL	=	Escherichia coli	gram-negative
-ofloxacin	1981	DNA gyrase subunit A	P0AES4	5.28		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-oseltamivir	2001	Sialidase	P10481	9.0		IC50	CHEMBL	=	Clostridium perfringens	gram-positive
-paclitaxel	2044	Botulinum neurotoxin type A	P10845	5.28		IC50	CHEMBL	=	Clostridium botulinum	gram-positive
-paroxetine	2068	Quinolone resistance protein NorA	P0A0J7	5.15		IC50	CHEMBL	=	Staphylococcus aureus	gram-positive
-pefloxacin	2071	DNA gyrase subunit A	P0AES4	6.785		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-pefloxacin	2071	DNA gyrase subunit B	P0AES6	6.785		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-pemetrexed	2073	Thymidylate synthase	P0A884	4.82		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-pemetrexed	2073	Dihydrofolate reductase	P00381	5.64		IC50	CHEMBL	=	Lactobacillus casei	acid-fast
-pemetrexed	2073	Thymidylate synthase	P00469	6.26		Ki	CHEMBL	=	Lactobacillus casei	acid-fast
-pemetrexed	2073	Dihydrofolate reductase	B0BL08	5.64		IC50	CHEMBL	=	Escherichia coli	gram-negative
-pemetrexed	2073	Thymidylate synthase	C3SWJ7	5.96		IC50	CHEMBL	=	Escherichia coli	gram-negative
-pemetrexed	2073	Thymidylate synthase (EC 2.1.1.45) (TS) (TSase)	E2QDN0	4.12		IC50	CHEMBL	=	Escherichia coli	gram-negative
-penicillamine	2081	Succinyl-diaminopimelate desuccinylase	P44514	4.3		IC50	CHEMBL	=	Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)	gram-negative
-benzylpenicillin	2082	Beta-lactamase TEM	P62593	4.7		Ki	CHEMBL	=	Escherichia coli	gram-negative
-benzylpenicillin	2082	Beta-lactamase	P05364	5.44		IC50	CHEMBL	=	Enterobacter cloacae	gram-negative
-benzylpenicillin	2082	Beta-lactamase	P05364	5.44		IC50	CHEMBL	=	Enterobacter cloacae	gram-negative
-phenolphthalein	2135	Thymidylate synthase	P0A884	5.33		Ki	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-phenolphthalein	2135	Thymidylate synthase	P00469	5.33		Ki	CHEMBL	=	Lactobacillus casei	acid-fast
-phenolphthalein	2135	Thymidylate synthase	Q834R3	5.85		Ki	CHEMBL	=	Enterococcus faecalis (strain ATCC 700802 / V583)	gram-positive
-pimethixene	2169	Transcriptional activator protein luxR	P12746	4.25		IC50	CHEMBL	=	Aliivibrio fischeri	gram-negative
-piperacillin	2187	Beta-lactamase	A2RP81	6.7		Ki	CHEMBL	=	Citrobacter freundii	gram-negative
-pyrimethamine	2332	Dihydrofolate reductase	B0BL08	8.92		Ki	CHEMBL	=	Escherichia coli	gram-negative
-mepacrine	2338	Bacterial DNA-directed RNA polymerase	P0A7Z4|P0A800|P0A8T7|P0A8V2	4.7		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-raltitrexed	2353	Thymidylate synthase	P0A884	5.244		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-raltitrexed	2353	Thymidylate synthase	P00469	5.1		IC50	CHEMBL	=	Lactobacillus casei	acid-fast
-raltitrexed	2353	Dihydrofolate reductase	B0BL08	4.64		IC50	CHEMBL	=	Escherichia coli	gram-negative
-raltitrexed	2353	Thymidylate synthase	C3SWJ7	5.28		IC50	CHEMBL	=	Escherichia coli	gram-negative
-reserpine	2370	Quinolone resistance protein NorA	P0A0J7	5.15		IC50	CHEMBL	=	Staphylococcus aureus	gram-positive
-rifabutin	2376	DNA-directed RNA polymerase subunit beta	P9WGY9	8.0		Ki	WOMBAT-PK	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-rifampicin	2377	Enoyl-[acyl-carrier-protein] reductase [NADH]	P9WGR1	7.52		IC50	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-secnidazole	2427	3-oxoacyl-[acyl-carrier-protein] synthase 3	C3TDZ2	4.55		IC50	CHEMBL	=	Escherichia coli	gram-negative
-sertraline	2436	Transcriptional activator protein luxR	P12746	4.57		IC50	CHEMBL	=	Aliivibrio fischeri	gram-negative
-sitagliptin	2448	Dipeptidyl peptidase IV	O31048	4.75		IC50	CHEMBL	=	Porphyromonas gingivalis	gram-negative
-sulbactam	2492	Beta-lactamase	P00807	5.19		IC50	CHEMBL	=	Staphylococcus aureus	gram-positive
-sulbactam	2492	Beta-lactamase TEM	P62593	6.1		Ki	CHEMBL	=	Escherichia coli	gram-negative
-sulbactam	2492	Beta-lactamase	P00811	4.18		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-sulbactam	2492	Beta-lactamase SHV-1	P0AD63	5.41		IC50	CHEMBL	=	Escherichia coli	gram-negative
-sulbactam	2492	Beta-lactamase	P05364	6.0		IC50	CHEMBL	=	Enterobacter cloacae	gram-negative
-sulbactam	2492	Beta-lactamase OXA-1	P13661	4.66		IC50	CHEMBL	=	Escherichia coli	gram-negative
-sulbactam	2492	Beta-lactamase	P24735	4.57		IC50	CHEMBL	=	Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228)	gram-negative
-sulbactam	2492	Beta-lactamase	A1E3K9	5.21		IC50	CHEMBL	=	Escherichia coli	gram-negative
-sulbactam	2492	Beta-lactamase	A8RR46	7.12		IC50	CHEMBL	=	Bacillus clausii	gram-positive
-sulbactam	2492	Carbapenem-hydrolizing beta-lactamase SFC-1	Q6JP75	4.64		IC50	CHEMBL	=	Serratia fonticola	gram-negative
-sulbactam	2492	Beta-lactamase GES-13	D1MIX9	6.43		IC50	CHEMBL	=	Pseudomonas aeruginosa	gram-negative
-sulbactam	2492	Class D beta-lactamase	Q50H31	4.92		IC50	CHEMBL	=	Brachyspira pilosicoli	gram-negative
-sulbactam	2492	Beta-lactamase	Q7X575	5.62		IC50	CHEMBL	=	Escherichia coli	gram-negative
-sulbactam	2492	Beta-lactamase	Q0VTR6	5.95		IC50	CHEMBL	=	Acinetobacter pittii	gram-negative
-sulbactam	2492	Beta-lactamase	Q0VTR8	5.11		IC50	CHEMBL	=	Acinetobacter pittii	gram-negative
-sulbactam	2492	Beta-lactamase	D5HSX5	5.4		IC50	CHEMBL	=	Aeromonas allosaccharophila	gram-negative
-sulbactam	2492	Beta-lactamase TEM	P62594	6.1		Ki	WOMBAT-PK	=	Salmonella typhi	gram-negative
-sulbactam	2492	ADC-18 protein	Q0VTS0	4.93		IC50	CHEMBL	=	Acinetobacter pittii	gram-negative
-sulbactam	2492	Beta-lactamase 1	P00809	4.6		IC50	CHEMBL	=	Bacillus cereus	gram-positive
-sulbactam	2492	Beta-lactamase	D2SSQ3	5.52		IC50	CHEMBL	=	Pseudomonas aeruginosa	gram-negative
-sulbactam	2492	Beta-lactamase	Q3SAW3	5.52		IC50	CHEMBL	=	Pseudomonas aeruginosa	gram-negative
-sulconazole	2495	Beta-lactamase	P00811	4.85		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-sulfamethoxazole	2514	Dihydropteroate synthase	P0AC13	5.33		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-sulfanilamide	2521	Carbonic anhydrase	O24855	6.37		Ki	CHEMBL	=	Helicobacter pylori (strain ATCC 700392 / 26695)	gram-negative
-sulfanilamide	2521	Carbonic anhydrase	Q50565	4.24		Ki	CHEMBL	=	Methanothermobacter thermautotrophicus (strain ATCC 29096 / DSM 1053 / JCM 10044 / NBRC 100330 / Delta H)	gram-positive
-sulfanilamide	2521	Probable transmembrane carbonic anhydrase (Carbonate dehydratase) (Carbonic dehydratase); Transmembrane carbonic anhydrase	P96878	5.2		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-sulfanilamide	2521	Beta-carbonic anhydrase 1	P9WPJ7	5.03		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-sulfanilamide	2521	Carbonic anhydrase 2	P9WPJ9	4.53		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-sulfanilamide	2521	Carbonic anhydrase, alpha family	Q31FD6	6.2		Ki	CHEMBL	=	Hydrogenovibrio crunogenus (strain XCL-2)	gram-negative
-sulfanilamide	2521	Carbonate dehydratase	B2V8E3	6.19		Ki	CHEMBL	=	Sulfurihydrogenibium sp. (strain YO3AOP1)	gram-negative
-sulfathiazole	2527	Dihydropteroate synthase	P0AC13	5.6		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-sulfathiazole	2527	Transcriptional activator protein LasR	P25084	5.05		IC50	CHEMBL	=	Pseudomonas aeruginosa	gram-negative
-sulpiride	2537	Carbonic anhydrase	O24855	6.75		Ki	CHEMBL	=	Helicobacter pylori (strain ATCC 700392 / 26695)	gram-negative
-sulpiride	2537	Beta-carbonic anhydrase 1	P9WPJ7	5.64		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-sulpiride	2537	Carbonic anhydrase 2	P9WPJ9	6.58		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-sulpiride	2537	Carbonic anhydrase, alpha family	Q31FD6	6.06		Ki	CHEMBL	=	Hydrogenovibrio crunogenus (strain XCL-2)	gram-negative
-sulpiride	2537	Carbonate dehydratase	B2V8E3	7.17		Ki	CHEMBL	=	Sulfurihydrogenibium sp. (strain YO3AOP1)	gram-negative
-sultiame	2540	Beta-carbonic anhydrase 1	P9WPJ7	5.29		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-sultiame	2540	Carbonic anhydrase 2	P9WPJ9	6.18		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-sultiame	2540	Carbonic anhydrase, alpha family	Q31FD6	6.37		Ki	CHEMBL	=	Hydrogenovibrio crunogenus (strain XCL-2)	gram-negative
-sultiame	2540	Carbonate dehydratase	B2V8E3	8.11		Ki	CHEMBL	=	Sulfurihydrogenibium sp. (strain YO3AOP1)	gram-negative
-tamoxifen	2561	Transcriptional activator protein luxR	P12746	4.4		IC50	CHEMBL	=	Aliivibrio fischeri	gram-negative
-tazobactam	2572	Beta-lactamase	P00808	6.29		IC50	CHEMBL	=	Bacillus licheniformis	gram-positive
-tazobactam	2572	Beta-lactamase	P00807	6.527		IC50	WOMBAT-PK	=	Staphylococcus aureus	gram-positive
-tazobactam	2572	Beta-lactamase TEM	P62593	6.602		IC50	WOMBAT-PK	=	Escherichia coli	gram-negative
-tazobactam	2572	Beta-lactamase	P00811	7.824		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-tazobactam	2572	Beta-lactamase	Q59401	5.47		IC50	CHEMBL	=	Enterobacter cloacae	gram-negative
-tazobactam	2572	Beta-lactamase SHV-1	P0AD63	6.65		IC50	CHEMBL	=	Escherichia coli	gram-negative
-tazobactam	2572	Beta-lactamase 1	P10424	6.524		IC50	DRUG MATRIX	=	Bacillus cereus	gram-positive
-tazobactam	2572	IMI-1; IMI-1 carbapenemase	Q46991	7.52		IC50	CHEMBL	=	Enterobacter cloacae	gram-negative
-tazobactam	2572	Beta-lactamase	P05364	7.0		IC50	CHEMBL	=	Enterobacter cloacae	gram-negative
-tazobactam	2572	Beta-lactamase	Q6W9J1	7.22		IC50	CHEMBL	=	Enterobacter cloacae	gram-negative
-tazobactam	2572	Beta-lactamase	P24735	6.09		IC50	CHEMBL	=	Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228)	gram-negative
-tazobactam	2572	Beta-lactamase	P94958	6.72		IC50	CHEMBL	=	Morganella morganii	gram-negative
-tazobactam	2572	Beta-lactamase	P05193	6.03		IC50	CHEMBL	=	Citrobacter freundii	gram-negative
-tazobactam	2572	Beta-lactamase	A4KCT8	7.4		IC50	CHEMBL	=	Citrobacter gillenii	gram-negative
-tazobactam	2572	Beta-lactamase	A1E3K9	8.0		IC50	CHEMBL	=	Escherichia coli	gram-negative
-tazobactam	2572	Beta-lactamase	A8RR46	8.4		IC50	CHEMBL	=	Bacillus clausii	gram-positive
-tazobactam	2572	Carbapenem-hydrolizing beta-lactamase SFC-1	Q6JP75	5.16		IC50	CHEMBL	=	Serratia fonticola	gram-negative
-tazobactam	2572	Carbepenem-hydrolyzing beta-lactamase KPC	Q9F663	4.13		Ki	CHEMBL	=	Klebsiella pneumoniae	gram-negative
-tazobactam	2572	Beta-lactamase	A2RP81	7.02		IC50	CHEMBL	=	Citrobacter freundii	gram-negative
-tazobactam	2572	Beta-lactamase	Q9EXV5	8.7		IC50	CHEMBL	=	Escherichia coli	gram-negative
-tazobactam	2572	Beta-lactamase SHV-1	P0AD64	6.96		IC50	CHEMBL	=	Klebsiella pneumoniae	gram-negative
-tazobactam	2572	Beta-lactamase	Q6GWS8	6.62		IC50	CHEMBL	=	Escherichia coli	gram-negative
-tazobactam	2572	Beta-lactamase GES-13	D1MIX9	7.22		IC50	CHEMBL	=	Pseudomonas aeruginosa	gram-negative
-tazobactam	2572	Beta-lactamase	A0ZX81	7.1		IC50	CHEMBL	=	Klebsiella pneumoniae	gram-negative
-tazobactam	2572	Class D beta-lactamase	Q50H31	6.8		IC50	CHEMBL	=	Brachyspira pilosicoli	gram-negative
-tazobactam	2572	Beta-lactamase	B8R6A5	6.3		IC50	CHEMBL	=	Burkholderia cenocepacia	gram-negative
-tazobactam	2572	Beta-lactamase	Q2XPY6	8.66		IC50	CHEMBL	=	Salmonella enterica subsp. enterica serovar Westhampton	gram-negative
-tazobactam	2572	Beta-lactamase	D2SSQ3	5.7		IC50	CHEMBL	=	Pseudomonas aeruginosa	gram-negative
-tazobactam	2572	Beta-lactamase	Q3SAW3	5.7		IC50	CHEMBL	=	Pseudomonas aeruginosa	gram-negative
-tazobactam	2572	Beta-lactamase	Q670S6	7.4		IC50	CHEMBL	=	Pseudomonas luteola	gram-negative
-terfenadine	2600	Transcriptional activator protein luxR	P12746	4.04		IC50	CHEMBL	=	Aliivibrio fischeri	gram-negative
-tetroxoprim	2615	Dihydrofolate reductase	P0ABQ4	8.35		Ki	WOMBAT-PK	=	Escherichia coli (strain K12)	gram-negative
-tetroxoprim	2615	Dihydrofolate reductase	P00381	6.26		Ki	CHEMBL	=	Lactobacillus casei	acid-fast
-tetroxoprim	2615	Dihydrofolate reductase	B0BL08	7.74		IC50	CHEMBL	=	Escherichia coli	gram-negative
-tetroxoprim	2615	Dihydrofolate reductase	Q8Z9J9	8.35		Ki	CHEMBL	=	Salmonella typhi	gram-negative
-thiabendazole	2621	Methionine aminopeptidase	P0AE18	6.33		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-tiocarlide	2673	Epoxide hydrolase EphE; Hydrolase, alpha/beta hydrolase fold family	O69638	7.66		IC50	CHEMBL	=	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	acid-fast
-topiramate	2706	Carbonic anhydrase	O24855	6.76		Ki	CHEMBL	=	Helicobacter pylori (strain ATCC 700392 / 26695)	gram-negative
-topiramate	2706	Carbonic anhydrase	Q50565	4.63		Ki	CHEMBL	=	Methanothermobacter thermautotrophicus (strain ATCC 29096 / DSM 1053 / JCM 10044 / NBRC 100330 / Delta H)	gram-positive
-topiramate	2706	Probable transmembrane carbonic anhydrase (Carbonate dehydratase) (Carbonic dehydratase); Transmembrane carbonic anhydrase	P96878	5.52		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-topiramate	2706	Beta-carbonic anhydrase 1	P9WPJ7	6.21		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-topiramate	2706	Carbonic anhydrase 2	P9WPJ9	6.32		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-topiramate	2706	Carbonic anhydrase, alpha family	Q31FD6	6.11		Ki	CHEMBL	=	Hydrogenovibrio crunogenus (strain XCL-2)	gram-negative
-topiramate	2706	Carbonate dehydratase	B2V8E3	8.18		Ki	CHEMBL	=	Sulfurihydrogenibium sp. (strain YO3AOP1)	gram-negative
-trifluridine	2743	Thymidylate kinase	P9WKE1	4.01		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-trimethoprim	2755	Dihydrofolate reductase	P0ABQ4	5.57		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-trimethoprim	2755	Dihydrofolate reductase	P00381	6.88		Ki	CHEMBL	=	Lactobacillus casei	acid-fast
-trimethoprim	2755	Dihydrofolate reductase	O30463	6.72		IC50	CHEMBL	=	Mycobacterium avium	gram-positive
-trimethoprim	2755	Dihydrofolate reductase	B0BL08	8.89		Ki	CHEMBL	=	Escherichia coli	gram-negative
-trimethoprim	2755	Dihydrofolate reductase	P0A017	8.92		Ki	CHEMBL	=	Staphylococcus aureus	gram-positive
-trimethoprim	2755	Dihydrofolate reductase	P04174	6.35		IC50	CHEMBL	=	Neisseria gonorrhoeae	gram-negative
-trimethoprim	2755	Dihydrofolate reductase	Q59487	6.35		IC50	CHEMBL	=	Lactococcus lactis subsp. lactis (strain IL1403)	gram-positive
-trimethoprim	2755	Dihydrofolate reductase	Q81R22	4.62		Ki	CHEMBL	=	Bacillus anthracis	gram-positive
-trimethoprim	2755	Dihydrofolate reductase type 1	P00382	6.3		IC50	CHEMBL	=	Escherichia coli	gram-negative
-trimethoprim	2755	Dihydrofolate reductase	Q8Z9J9	8.08		Ki	CHEMBL	=	Salmonella typhi	gram-negative
-trimethoprim	2755	Dihydrofolate reductase	Q54801	4.38		IC50	CHEMBL	=	Streptococcus pneumoniae serotype 4 (strain ATCC BAA-334 / TIGR4)	gram-positive
-trimetrexate	2757	Dihydrofolate reductase	P0ABQ4	8.0		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-trimetrexate	2757	Dihydrofolate reductase	P00381	7.57		IC50	CHEMBL	=	Lactobacillus casei	acid-fast
-trimetrexate	2757	Dihydrofolate reductase	O30463	8.82		IC50	CHEMBL	=	Mycobacterium avium	gram-positive
-trimetrexate	2757	Dihydrofolate reductase	B0BL08	8.15		IC50	CHEMBL	=	Escherichia coli	gram-negative
-ubenimex	2787	Bacterial leucyl aminopeptidase	Q01693	8.8		Ki	CHEMBL	=	Vibrio proteolyticus	gram-negative
-valdecoxib	2799	Carbonic anhydrase	Q50565	4.21		Ki	CHEMBL	=	Methanothermobacter thermautotrophicus (strain ATCC 29096 / DSM 1053 / JCM 10044 / NBRC 100330 / Delta H)	gram-positive
-valdecoxib	2799	Probable transmembrane carbonic anhydrase (Carbonate dehydratase) (Carbonic dehydratase); Transmembrane carbonic anhydrase	P96878	5.11		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-valdecoxib	2799	Beta-carbonic anhydrase 1	P9WPJ7	4.89		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-valdecoxib	2799	Carbonic anhydrase 2	P9WPJ9	6.17		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-valdecoxib	2799	Carbonic anhydrase, alpha family	Q31FD6	6.28		Ki	CHEMBL	=	Hydrogenovibrio crunogenus (strain XCL-2)	gram-negative
-valdecoxib	2799	Carbonate dehydratase	B2V8E3	8.28		Ki	CHEMBL	=	Sulfurihydrogenibium sp. (strain YO3AOP1)	gram-negative
-vancomycin	2807	D-alanyl-D-alanine dipeptidase	Q06241	4.21		Ki	CHEMBL	=	Enterococcus faecium	gram-positive
-vancomycin	2807	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	P17443	5.0		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-voriconazole	2846	Lanosterol 14-alpha demethylase	P9WPP9	5.844		MIC	WOMBAT-PK	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-zidovudine	2861	Thymidylate kinase	P9WKE1	4.55		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-zoledronic acid	2868	Farnesyl diphosphate synthase	P22939	5.96		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-zonisamide	2872	Carbonic anhydrase	O24855	6.66		Ki	CHEMBL	=	Helicobacter pylori (strain ATCC 700392 / 26695)	gram-negative
-zonisamide	2872	Probable transmembrane carbonic anhydrase (Carbonate dehydratase) (Carbonic dehydratase); Transmembrane carbonic anhydrase	P96878	6.68		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-zonisamide	2872	Beta-carbonic anhydrase 1	P9WPJ7	4.54		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-zonisamide	2872	Carbonic anhydrase 2	P9WPJ9	6.06		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-zonisamide	2872	Carbonic anhydrase, alpha family	Q31FD6	6.39		Ki	CHEMBL	=	Hydrogenovibrio crunogenus (strain XCL-2)	gram-negative
-zonisamide	2872	Carbonate dehydratase	B2V8E3	6.85		Ki	CHEMBL	=	Sulfurihydrogenibium sp. (strain YO3AOP1)	gram-negative
-broxuridine	3042	Thymidylate kinase	P9WKE1	5.3		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-chlorquinaldol	3095	Botulinum neurotoxin type A	P10845	5.0		IC50	CHEMBL	=	Clostridium botulinum	gram-positive
-oxyquinoline	3290	Bacterial leucyl aminopeptidase	Q01693	6.8		Ki	CHEMBL	=	Vibrio proteolyticus	gram-negative
-methionine	3347	S-ribosylhomocysteine lyase	O34667	4.21		Ki	CHEMBL	=	Bacillus subtilis (strain 168)	gram-positive
-quercetin	3514	Beta-lactamase	P00811	5.4		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-quercetin	3514	Beta-lactamase	P05364	4.07		IC50	CHEMBL	=	Enterobacter cloacae	gram-negative
-quercetin	3514	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI	P0AEK4	4.7		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-quercetin	3514	Sialidase	P10481	5.77		IC50	CHEMBL	=	Clostridium perfringens	gram-positive
-quercetin	3514	Malate dehydrogenase	P10584	5.22		IC50	CHEMBL	=	Thermus thermophilus	gram-negative
-quercetin	3514	D-alanine--D-alanine ligase	Q1CTD3	5.37		Ki	CHEMBL	=	Helicobacter pylori (strain HPAG1)	gram-negative
-quercetin	3514	D-alanylalanine synthetase	P07862	4.7		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-quercetin	3514	Beta-lactamase	P05364	4.07		IC50	CHEMBL	=	Enterobacter cloacae	gram-negative
-rutoside	3535	Sialidase	P10481	4.51		IC50	CHEMBL	=	Clostridium perfringens	gram-positive
-thiram	3601	Bifunctional protein GlmU	P9WMN3	4.05		IC50	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-triclocarban	3630	Epoxide hydrolase; Epoxide hydrolase EphB	P95276	6.66		IC50	CHEMBL	=	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	acid-fast
-triclosan	3631	Enoyl-[acyl-carrier-protein] reductase [NADH]	P9WGR1	6.7		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-triclosan	3631	Enoyl-[acyl-carrier-protein] reductase [NADPH] FabI	Q6GI75	7.15		IC50	CHEMBL	=	Staphylococcus aureus (strain MRSA252)	gram-positive
-triclosan	3631	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI	P0AEK4	6.37		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-triclosan	3631	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI	P54616	6.3		IC50	CHEMBL	=	Bacillus subtilis (strain 168)	gram-positive
-triclosan	3631	Enoyl-[acyl-carrier-protein] reductase [NADPH]	Q9RMI3	7.23		IC50	CHEMBL	=	Staphylococcus aureus	gram-positive
-triclosan	3631	Enoyl-[acyl-carrier-protein] reductase [NULLDH]	M9TGV3	6.7		Ki	CHEMBL	=	Mycobacterium tuberculosis	acid-fast
-vildagliptin	3642	Dipeptidyl peptidase IV	O31048	7.77		Ki	CHEMBL	=	Porphyromonas gingivalis	gram-negative
-kojic acid	3977	Tyrosinase	B2ZB02	4.28		IC50	CHEMBL	=	Bacillus megaterium	gram-positive
-minodronic acid	4074	Farnesyl diphosphate synthase	P22939	5.96		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-linagliptin	4175	Dipeptidyl peptidase IV	O31048	5.0		IC50	CHEMBL	=	Porphyromonas gingivalis	gram-negative
-neomycin	4247	Lethal factor	P15917	6.3		Ki	CHEMBL	=	Bacillus anthracis	gram-positive
-phenol	4266	Probable transmembrane carbonic anhydrase (Carbonate dehydratase) (Carbonic dehydratase); Transmembrane carbonic anhydrase	P96878	4.1		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-phenol	4266	Beta-carbonic anhydrase 1	P9WPJ7	4.19		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-benzathine benzylpenicillin	4347	Beta-lactamase TEM	P62593	4.7		Ki	CHEMBL	=	Escherichia coli	gram-negative
-ceftobiprole medocaril	4402	MecA	Q7DHH4	5.49		IC50	CHEMBL	=	Staphylococcus aureus	gram-positive
-fenbendazole	4536	Beta-lactamase 1	P10424	5.222		IC50	DRUG MATRIX	=	Bacillus cereus	gram-positive
-iclaprim	4573	Dihydrofolate reductase	B0BL08	8.15		IC50	CHEMBL	=	Escherichia coli	gram-negative
-iclaprim	4573	Dihydrofolate reductase	P0A017	10.1		Ki	CHEMBL	=	Staphylococcus aureus	gram-positive
-rose bengal	4637	Beta-lactamase	P00811	6.33		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-rose bengal	4637	Protein translocase subunit SecA 1	O06446	6.3		IC50	CHEMBL	=	Staphylococcus aureus	gram-positive
-rose bengal	4637	Protein translocase subunit SecA 2	Q2FUW6	5.7		IC50	CHEMBL	=	Staphylococcus aureus	gram-positive
-thioctic acid	4732	Bifunctional protein GlmU	P9WMN3	5.41		IC50	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	acid-fast
-thiomersal	4733	Beta-lactamase	Q932Y6	4.77		IC50	CHEMBL	=	Pseudomonas aeruginosa	gram-negative
-bedaquiline	4741	ATP synthase subunit c	Q5TIX5	8.6		IC50	CHEMBL	=	Mycobacterium smegmatis	acid-fast
-peramivir	4823	Sialidase	P10481	4.4		IC50	CHEMBL	=	Clostridium perfringens	gram-positive
-tipiracil	4893	Thymidine phosphorylase	P07650	7.7		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-avibactam	4946	Penicillin-binding protein 2	P0AD65	6.23		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-avibactam	4946	Penicillin-binding protein 2	P0AD65	6.23		IC50	CHEMBL	=	Escherichia coli (strain K12)	gram-negative
-migalastat	5110	Beta-galactosidase	Q8VNN2	4.89		Ki	CHEMBL	=	Escherichia coli	gram-negative
-relebactam	5342	Beta-lactamase	Q8RL90	6.33		IC50	CHEMBL	=	Pseudomonas aeruginosa	gram-negative
-relebactam	5342	Beta-lactamase	Q2PUH3	6.4		IC50	SCIENTIFIC LITERATURE	=	Klebsiella pneumoniae	gram-negative
-relebactam	5342	Beta-lactamase	Q9X5A7	6.33		IC50	SCIENTIFIC LITERATURE	=	Stenotrophomonas maltophilia	gram-negative
-relebactam	5342	Beta-lactamase	Q93LQ9	6.64		IC50	SCIENTIFIC LITERATURE	=	Klebsiella pneumoniae	gram-negative
-relebactam	5342	Beta-lactamase	Q93DC4	6.59		IC50	SCIENTIFIC LITERATURE	=	Klebsiella pneumoniae	gram-negative
-relebactam	5342	Beta-lactamase	B1PL86	6.04		IC50	SCIENTIFIC LITERATURE	=	Klebsiella pneumoniae	gram-negative
-cefiderocol	5352	Peptidoglycan synthase FtsI	P0AD68	7.4		IC50	SCIENTIFIC LITERATURE	=	Escherichia coli (strain K12)	gram-negative
-cefiderocol	5352	Penicillin-binding protein 1A	Q07806	6.07		IC50	SCIENTIFIC LITERATURE	=	Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228)	gram-negative
-cefiderocol	5352	Penicillin-binding protein 1A	P02918	5.48		IC50	SCIENTIFIC LITERATURE	=	Escherichia coli (strain K12)	gram-negative
-cefiderocol	5352	Penicillin-binding protein 1B	P02919	5.47		IC50	SCIENTIFIC LITERATURE	=	Escherichia coli (strain K12)	gram-negative
-cefiderocol	5352	Penicillin-binding protein 1A	G1C775	5.98		IC50	SCIENTIFIC LITERATURE	=	Acinetobacter baumannii	gram-negative
-cefiderocol	5352	Penicillin-binding protein 1B	A6T4V3	5.46		IC50	SCIENTIFIC LITERATURE	=	Klebsiella pneumoniae subsp. pneumoniae (strain ATCC 700721 / MGH 78578)	gram-negative
-cefiderocol	5352	Peptidoglycan D,D-transpeptidase MrdA	H4I819	5.66		IC50	SCIENTIFIC LITERATURE	=	Escherichia coli DEC1B	gram-negative
-cefiderocol	5352	Peptidoglycan D,D-transpeptidase MrdA	A0A0W8ASI8	7.2		IC50	SCIENTIFIC LITERATURE	=	Klebsiella pneumoniae	gram-negative
-cefiderocol	5352	Peptidoglycan D,D-transpeptidase FtsI	A6T4M7	7.21		IC50	SCIENTIFIC LITERATURE	=	Klebsiella pneumoniae subsp. pneumoniae (strain ATCC 700721 / MGH 78578)	gram-negative
-cefiderocol	5352	Peptidoglycan D,D-transpeptidase FtsI	G3XD46	7.22		IC50	SCIENTIFIC LITERATURE	=	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1)	gram-negative
-cefiderocol	5352	Peptidoglycan D,D-transpeptidase FtsI	D0CCM7	6.17		IC50	SCIENTIFIC LITERATURE	=	Acinetobacter baumannii (strain ATCC 19606 / DSM 30007 / CIP 70.34 / JCM 6841 / NBRC 109757 / NCIMB 12457 / NCTC 12156 / 81)	gram-negative
-cefiderocol	5352	Penicillin-binding protein 4	A0A5E6DR09	5.44		IC50	SCIENTIFIC LITERATURE	=	Klebsiella pneumoniae	gram-negative
+DRUG_NAME	STRUCT_ID	TARGET_NAME	ACCESSION	ACT_VALUE	ACT_UNIT	ACT_TYPE	ACT_SOURCE	RELATION	ORGANISM	SMILES	InChIKey	strain_type
+aminopterin	21	Dihydrofolate reductase	P00381	8.3		IC50	CHEMBL	=	Lactobacillus casei	NC1=NC2=NC=C(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)N=C2C(N)=N1	TVZGACDUOSZQKY-LBPRGKRZSA-N	acid-fast
+aminopterin	21	Dihydrofolate reductase	B0BL08	7.96		IC50	CHEMBL	=	Escherichia coli	NC1=NC2=NC=C(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)N=C2C(N)=N1	TVZGACDUOSZQKY-LBPRGKRZSA-N	gram-negative
+fluorouracil	26	Uracil phosphoribosyltransferase	P0A8F0	4.89		Ki	CHEMBL	=	Escherichia coli (strain K12)	FC1=CNC(=O)NC1=O	GHASVSINZRGABV-UHFFFAOYSA-N	gram-negative
+azaribine	27	Orotidine 5'-phosphate decarboxylase	O26232	4.96		Ki	CHEMBL	=	Methanothermobacter thermautotrophicus (strain ATCC 29096 / DSM 1053 / JCM 10044 / NBRC 100330 / Delta H)	CC(=O)OC[C@H]1O[C@H]([C@H](OC(C)=O)[C@@H]1OC(C)=O)N1N=CC(=O)NC1=O	QQOBRRFOVWGIMD-OJAKKHQRSA-N	gram-positive
+acarbose	39	Alpha-amylase	P94451	6.47		Ki	CHEMBL	=	Geobacillus stearothermophilus	C[C@H]1O[C@H](O[C@@H]2[C@@H](CO)O[C@H](O[C@@H]3[C@@H](CO)OC(O)[C@H](O)[C@H]3O)[C@H](O)[C@H]2O)[C@H](O)[C@@H](O)[C@@H]1N[C@H]1C=C(CO)[C@@H](O)[C@H](O)[C@H]1O	XUFXOAAUWZOOIT-UGEKTDRHSA-N	gram-positive
+acetazolamide	56	Carbonic anhydrase	O24855	7.7		Ki	CHEMBL	=	Helicobacter pylori (strain ATCC 700392 / 26695)	CC(=O)NC1=NN=C(S1)S(N)(=O)=O	BZKPWHYZMXOIDC-UHFFFAOYSA-N	gram-negative
+acetazolamide	56	Carbonic anhydrase	Q50565	4.92		Ki	CHEMBL	=	Methanothermobacter thermautotrophicus (strain ATCC 29096 / DSM 1053 / JCM 10044 / NBRC 100330 / Delta H)	CC(=O)NC1=NN=C(S1)S(N)(=O)=O	BZKPWHYZMXOIDC-UHFFFAOYSA-N	gram-positive
+acetazolamide	56	Probable transmembrane carbonic anhydrase (Carbonate dehydratase) (Carbonic dehydratase); Transmembrane carbonic anhydrase	P96878	7.92		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CC(=O)NC1=NN=C(S1)S(N)(=O)=O	BZKPWHYZMXOIDC-UHFFFAOYSA-N	acid-fast
+acetazolamide	56	Beta-carbonic anhydrase 1	P9WPJ7	6.6		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CC(=O)NC1=NN=C(S1)S(N)(=O)=O	BZKPWHYZMXOIDC-UHFFFAOYSA-N	acid-fast
+acetazolamide	56	Carbonic anhydrase 2	P9WPJ9	8.05		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CC(=O)NC1=NN=C(S1)S(N)(=O)=O	BZKPWHYZMXOIDC-UHFFFAOYSA-N	acid-fast
+acetazolamide	56	Carbonic anhydrase	Q9HVB9	7.12		Ki	CHEMBL	=	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1)	CC(=O)NC1=NN=C(S1)S(N)(=O)=O	BZKPWHYZMXOIDC-UHFFFAOYSA-N	gram-negative
+acetazolamide	56	Carbonic anhydrase, alpha family	Q31FD6	8.37		Ki	CHEMBL	=	Hydrogenovibrio crunogenus (strain XCL-2)	CC(=O)NC1=NN=C(S1)S(N)(=O)=O	BZKPWHYZMXOIDC-UHFFFAOYSA-N	gram-negative
+acetazolamide	56	Carbonate dehydratase	B2V8E3	8.35		Ki	CHEMBL	=	Sulfurihydrogenibium sp. (strain YO3AOP1)	CC(=O)NC1=NN=C(S1)S(N)(=O)=O	BZKPWHYZMXOIDC-UHFFFAOYSA-N	gram-negative
+acetohydroxamic acid	58	Urease subunit beta	Q0PXQ5	4.76		IC50	CHEMBL	=	Helicobacter pylori	CC(=O)NO	RRUDCFGSUDOHDG-UHFFFAOYSA-N	gram-negative
+racecadotril	60	Thermolysin	P00800	5.02		IC50	CHEMBL	=	Bacillus thermoproteolyticus	CC(=O)SCC(CC1=CC=CC=C1)C(=O)NCC(=O)OCC1=CC=CC=C1	ODUOJXZPIYUATO-UHFFFAOYSA-N	gram-positive
+adenosine phosphate	92	Ketopantoate reductase	P0A9J4	2.2		Ki	CHEMBL	=	Escherichia coli (strain K12)	NC1=NC=NC2=C1N=CN2[C@@H]1O[C@H](COP(O)(O)=O)[C@@H](O)[C@H]1O	UDMBCSSLTHHNCD-KQYNXXCUSA-N	gram-negative
+alexidine	113	Beta-lactamase	Q932Y6	5.28		IC50	CHEMBL	=	Pseudomonas aeruginosa	CCCCC(CC)CNC(=N)NC(=N)NCCCCCCNC(=N)NC(=N)NCC(CC)CCCC	LFVVNPBBFUSSHL-UHFFFAOYSA-N	gram-negative
+allopurinol	124	Shiga toxin subunit A	Q9FBI2	4.62		IC50	CHEMBL	=	Shigella dysenteriae	OC1=NC=NC2=C1C=NN2	OFCNXPDARWKPPY-UHFFFAOYSA-N	gram-negative
+aminoquinuride	174	Lethal factor	P15917	6.3		Ki	CHEMBL	=	Bacillus anthracis	CC1=NC2=CC=C(NC(=O)NC3=CC=C4N=C(C)C=C(N)C4=C3)C=C2C(N)=C1	HOUSDILKOJMENG-UHFFFAOYSA-N	gram-positive
+aminoquinuride	174	Botulinum neurotoxin type A	P10845	5.14		IC50	CHEMBL	=	Clostridium botulinum	CC1=NC2=CC=C(NC(=O)NC3=CC=C4N=C(C)C=C(N)C4=C3)C=C2C(N)=C1	HOUSDILKOJMENG-UHFFFAOYSA-N	gram-positive
+amiodarone	176	Lethal factor	P15917	5.46		IC50	CHEMBL	=	Bacillus anthracis	CCCCC1=C(C(=O)C2=CC(I)=C(OCCN(CC)CC)C(I)=C2)C2=C(O1)C=CC=C2	IYIKLHRQXLHMJQ-UHFFFAOYSA-N	gram-positive
+aztreonam	279	Peptidoglycan synthase FtsI	P0AD68	5.736		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	C[C@H]1[C@H](NC(=O)C(=N/OC(C)(C)C(O)=O)\C2=CSC(N)=N2)C(=O)N1S(O)(=O)=O	WZPBZJONDBGPKJ-VEHQQRBSSA-N	gram-negative
+aztreonam	279	Penicillin-binding protein 1A	Q07806	5.48		IC50	CHEMBL	=	Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228)	C[C@H]1[C@H](NC(=O)C(=N/OC(C)(C)C(O)=O)\C2=CSC(N)=N2)C(=O)N1S(O)(=O)=O	WZPBZJONDBGPKJ-VEHQQRBSSA-N	gram-negative
+aztreonam	279	Penicillin-binding protein 1A	P02918	5.317		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	C[C@H]1[C@H](NC(=O)C(=N/OC(C)(C)C(O)=O)\C2=CSC(N)=N2)C(=O)N1S(O)(=O)=O	WZPBZJONDBGPKJ-VEHQQRBSSA-N	gram-negative
+aztreonam	279	Penicillin-binding protein 1B	P02919	4.317		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	C[C@H]1[C@H](NC(=O)C(=N/OC(C)(C)C(O)=O)\C2=CSC(N)=N2)C(=O)N1S(O)(=O)=O	WZPBZJONDBGPKJ-VEHQQRBSSA-N	gram-negative
+aztreonam	279	Beta-lactamase	A2RP81	5.7		Ki	CHEMBL	=	Citrobacter freundii	C[C@H]1[C@H](NC(=O)C(=N/OC(C)(C)C(O)=O)\C2=CSC(N)=N2)C(=O)N1S(O)(=O)=O	WZPBZJONDBGPKJ-VEHQQRBSSA-N	gram-negative
+aztreonam	279	Beta-lactamase	A4ZYU9	7.49		IC50	CHEMBL	=	Escherichia coli	C[C@H]1[C@H](NC(=O)C(=N/OC(C)(C)C(O)=O)\C2=CSC(N)=N2)C(=O)N1S(O)(=O)=O	WZPBZJONDBGPKJ-VEHQQRBSSA-N	gram-negative
+aztreonam	279	AmpC	Q83TT7	7.22		IC50	CHEMBL	=	Escherichia coli	C[C@H]1[C@H](NC(=O)C(=N/OC(C)(C)C(O)=O)\C2=CSC(N)=N2)C(=O)N1S(O)(=O)=O	WZPBZJONDBGPKJ-VEHQQRBSSA-N	gram-negative
+aztreonam	279	Efflux transporter; SugE	Q3S5C3	8.22		IC50	CHEMBL	=	Salmonella newport	C[C@H]1[C@H](NC(=O)C(=N/OC(C)(C)C(O)=O)\C2=CSC(N)=N2)C(=O)N1S(O)(=O)=O	WZPBZJONDBGPKJ-VEHQQRBSSA-N	gram-negative
+aztreonam	279	Beta-lactamase	Q48435	8.22		IC50	CHEMBL	=	Klebsiella pneumoniae	C[C@H]1[C@H](NC(=O)C(=N/OC(C)(C)C(O)=O)\C2=CSC(N)=N2)C(=O)N1S(O)(=O)=O	WZPBZJONDBGPKJ-VEHQQRBSSA-N	gram-negative
+aztreonam	279	Beta-lactamase	B2ZTR6	8.15		Ki	CHEMBL	=	Acinetobacter baumannii	C[C@H]1[C@H](NC(=O)C(=N/OC(C)(C)C(O)=O)\C2=CSC(N)=N2)C(=O)N1S(O)(=O)=O	WZPBZJONDBGPKJ-VEHQQRBSSA-N	gram-negative
+aztreonam	279	Beta-lactamase	D6NSM8	5.52		Ki	CHEMBL	=	Acinetobacter baumannii	C[C@H]1[C@H](NC(=O)C(=N/OC(C)(C)C(O)=O)\C2=CSC(N)=N2)C(=O)N1S(O)(=O)=O	WZPBZJONDBGPKJ-VEHQQRBSSA-N	gram-negative
+benzyl benzoate	335	Beta-lactamase	P00811	4.05		IC50	CHEMBL	=	Escherichia coli (strain K12)	O=C(OCC1=CC=CC=C1)C1=CC=CC=C1	SESFRYSPDFLNCH-UHFFFAOYSA-N	gram-negative
+bepridil	342	Lethal factor	P15917	5.32		IC50	CHEMBL	=	Bacillus anthracis	CC(C)COCC(CN(CC1=CC=CC=C1)C1=CC=CC=C1)N1CCCC1	UIEATEWHFDRYRU-UHFFFAOYSA-N	gram-positive
+bortezomib	391	Beta-carbonic anhydrase 1	P9WPJ7	5.14		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CC(C)C[C@H](NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)C1=CN=CC=N1)B(O)O	GXJABQQUPOEUTA-RDJZCZTQSA-N	acid-fast
+brinzolamide	396	Carbonic anhydrase	O24855	6.68		Ki	CHEMBL	=	Helicobacter pylori (strain ATCC 700392 / 26695)	CCN[C@H]1CN(CCCOC)S(=O)(=O)C2=C1C=C(S2)S(N)(=O)=O	HCRKCZRJWPKOAR-JTQLQIEISA-N	gram-negative
+brinzolamide	396	Probable transmembrane carbonic anhydrase (Carbonate dehydratase) (Carbonic dehydratase); Transmembrane carbonic anhydrase	P96878	6.7		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CCN[C@H]1CN(CCCOC)S(=O)(=O)C2=C1C=C(S2)S(N)(=O)=O	HCRKCZRJWPKOAR-JTQLQIEISA-N	acid-fast
+brinzolamide	396	Beta-carbonic anhydrase 1	P9WPJ7	6.08		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CCN[C@H]1CN(CCCOC)S(=O)(=O)C2=C1C=C(S2)S(N)(=O)=O	HCRKCZRJWPKOAR-JTQLQIEISA-N	acid-fast
+brinzolamide	396	Carbonic anhydrase 2	P9WPJ9	6.9		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CCN[C@H]1CN(CCCOC)S(=O)(=O)C2=C1C=C(S2)S(N)(=O)=O	HCRKCZRJWPKOAR-JTQLQIEISA-N	acid-fast
+brinzolamide	396	Carbonic anhydrase, alpha family	Q31FD6	8.38		Ki	CHEMBL	=	Hydrogenovibrio crunogenus (strain XCL-2)	CCN[C@H]1CN(CCCOC)S(=O)(=O)C2=C1C=C(S2)S(N)(=O)=O	HCRKCZRJWPKOAR-JTQLQIEISA-N	gram-negative
+brinzolamide	396	Carbonate dehydratase	B2V8E3	7.91		Ki	CHEMBL	=	Sulfurihydrogenibium sp. (strain YO3AOP1)	CCN[C@H]1CN(CCCOC)S(=O)(=O)C2=C1C=C(S2)S(N)(=O)=O	HCRKCZRJWPKOAR-JTQLQIEISA-N	gram-negative
+brodimoprim	398	Dihydrofolate reductase	P0ABQ4	8.18		Ki	WOMBAT-PK	=	Escherichia coli (strain K12)	COC1=CC(CC2=CN=C(N)N=C2N)=CC(OC)=C1Br	BFCRRLMMHNLSCP-UHFFFAOYSA-N	gram-negative
+brodimoprim	398	Dihydrofolate reductase	P00381	7.95		Ki	CHEMBL	=	Lactobacillus casei	COC1=CC(CC2=CN=C(N)N=C2N)=CC(OC)=C1Br	BFCRRLMMHNLSCP-UHFFFAOYSA-N	acid-fast
+brodimoprim	398	Dihydrofolate reductase	B0BL08	8.53		IC50	CHEMBL	=	Escherichia coli	COC1=CC(CC2=CN=C(N)N=C2N)=CC(OC)=C1Br	BFCRRLMMHNLSCP-UHFFFAOYSA-N	gram-negative
+brodimoprim	398	Dihydrofolate reductase	Q8Z9J9	8.18		Ki	CHEMBL	=	Salmonella typhi	COC1=CC(CC2=CN=C(N)N=C2N)=CC(OC)=C1Br	BFCRRLMMHNLSCP-UHFFFAOYSA-N	gram-negative
+captopril	484	Succinyl-diaminopimelate desuccinylase	P44514	5.74		Ki	CHEMBL	=	Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)	C[C@H](CS)C(=O)N1CCC[C@H]1C(O)=O	FAKRSMQSSFJEIM-RQJHMYQMSA-N	gram-negative
+captopril	484	Beta-lactamase	Q79MP6	5.62		Ki	CHEMBL	=	Pseudomonas aeruginosa	C[C@H](CS)C(=O)N1CCC[C@H]1C(O)=O	FAKRSMQSSFJEIM-RQJHMYQMSA-N	gram-negative
+captopril	484	Beta-lactamase II	Q93T40	4.75		Ki	CHEMBL	=	Bacillus anthracis	C[C@H](CS)C(=O)N1CCC[C@H]1C(O)=O	FAKRSMQSSFJEIM-RQJHMYQMSA-N	gram-positive
+cefotaxime	546	Peptidoglycan synthase FtsI	P0AD68	6.244		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	CO\N=C(/C(=O)N[C@H]1[C@H]2SCC(COC(C)=O)=C(N2C1=O)C(O)=O)C1=CSC(N)=N1	GPRBEKHLDVQUJE-QSWIMTSFSA-N	gram-negative
+cefotaxime	546	Penicillin-binding protein 1A	P02918	6.512		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	CO\N=C(/C(=O)N[C@H]1[C@H]2SCC(COC(C)=O)=C(N2C1=O)C(O)=O)C1=CSC(N)=N1	GPRBEKHLDVQUJE-QSWIMTSFSA-N	gram-negative
+cefotaxime	546	Penicillin-binding protein 1B	P02919	5.659		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	CO\N=C(/C(=O)N[C@H]1[C@H]2SCC(COC(C)=O)=C(N2C1=O)C(O)=O)C1=CSC(N)=N1	GPRBEKHLDVQUJE-QSWIMTSFSA-N	gram-negative
+cefotaxime	546	Beta-lactamase	B2ZTR6	6.3		Ki	CHEMBL	=	Acinetobacter baumannii	CO\N=C(/C(=O)N[C@H]1[C@H]2SCC(COC(C)=O)=C(N2C1=O)C(O)=O)C1=CSC(N)=N1	GPRBEKHLDVQUJE-QSWIMTSFSA-N	gram-negative
+cefotaxime	546	Beta-lactamase	D6NSM8	5.6		Ki	CHEMBL	=	Acinetobacter baumannii	CO\N=C(/C(=O)N[C@H]1[C@H]2SCC(COC(C)=O)=C(N2C1=O)C(O)=O)C1=CSC(N)=N1	GPRBEKHLDVQUJE-QSWIMTSFSA-N	gram-negative
+cefotaxime	546	Penicillin-binding protein 2	P0AD65	4.617		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	CO\N=C(/C(=O)N[C@H]1[C@H]2SCC(COC(C)=O)=C(N2C1=O)C(O)=O)C1=CSC(N)=N1	GPRBEKHLDVQUJE-QSWIMTSFSA-N	gram-negative
+cefoxitin	550	Beta-lactamase	A2RP81	6.85		Ki	CHEMBL	=	Citrobacter freundii	CO[C@]1(NC(=O)CC2=CC=CS2)[C@H]2SCC(COC(N)=O)=C(N2C1=O)C(O)=O	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	gram-negative
+cefoxitin	550	Beta-lactamase	B2ZTR6	7.0		Ki	CHEMBL	=	Acinetobacter baumannii	CO[C@]1(NC(=O)CC2=CC=CS2)[C@H]2SCC(COC(N)=O)=C(N2C1=O)C(O)=O	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	gram-negative
+cefoxitin	550	Beta-lactamase	D6NSM8	6.3		Ki	CHEMBL	=	Acinetobacter baumannii	CO[C@]1(NC(=O)CC2=CC=CS2)[C@H]2SCC(COC(N)=O)=C(N2C1=O)C(O)=O	WZOZEZRFJCJXNZ-ZBFHGGJFSA-N	gram-negative
+cefsulodin	558	Penicillin-binding protein 1A	P02918	6.522		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	NC(=O)C1=CC=[N+](CC2=C(N3[C@H](SC2)[C@H](NC(=O)[C@@H](C2=CC=CC=C2)S(O)(=O)=O)C3=O)C([O-])=O)C=C1	SYLKGLMBLAAGSC-QLVMHMETSA-N	gram-negative
+cefsulodin	558	Penicillin-binding protein 1B	P02919	5.328		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	NC(=O)C1=CC=[N+](CC2=C(N3[C@H](SC2)[C@H](NC(=O)[C@@H](C2=CC=CC=C2)S(O)(=O)=O)C3=O)C([O-])=O)C=C1	SYLKGLMBLAAGSC-QLVMHMETSA-N	gram-negative
+ceftazidime	559	Peptidoglycan synthase FtsI	P0AD68	6.261		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	CC(C)(O\N=C(/C(=O)N[C@H]1[C@H]2SCC(C[N+]3=CC=CC=C3)=C(N2C1=O)C(O)=O)C1=CSC(N)=N1)C(O)=O	ORFOPKXBNMVMKC-DWVKKRMSSA-O	gram-negative
+ceftazidime	559	Penicillin-binding protein 1A	P02918	6.534		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	CC(C)(O\N=C(/C(=O)N[C@H]1[C@H]2SCC(C[N+]3=CC=CC=C3)=C(N2C1=O)C(O)=O)C1=CSC(N)=N1)C(O)=O	ORFOPKXBNMVMKC-DWVKKRMSSA-O	gram-negative
+ceftazidime	559	Penicillin-binding protein 1B	P02919	4.96		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	CC(C)(O\N=C(/C(=O)N[C@H]1[C@H]2SCC(C[N+]3=CC=CC=C3)=C(N2C1=O)C(O)=O)C1=CSC(N)=N1)C(O)=O	ORFOPKXBNMVMKC-DWVKKRMSSA-O	gram-negative
+ceftriaxone	564	Peptidoglycan synthase FtsI	P0AD68	6.142		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	CO\N=C(/C(=O)N[C@H]1[C@H]2SCC(CSC3=NC(=O)C(=O)NN3C)=C(N2C1=O)C(O)=O)C1=CSC(N)=N1	VAAUVRVFOQPIGI-SPQHTLEESA-N	gram-negative
+ceftriaxone	564	Penicillin-binding protein 1A	P02918	6.513		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	CO\N=C(/C(=O)N[C@H]1[C@H]2SCC(CSC3=NC(=O)C(=O)NN3C)=C(N2C1=O)C(O)=O)C1=CSC(N)=N1	VAAUVRVFOQPIGI-SPQHTLEESA-N	gram-negative
+ceftriaxone	564	Penicillin-binding protein 1B	P02919	5.744		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	CO\N=C(/C(=O)N[C@H]1[C@H]2SCC(CSC3=NC(=O)C(=O)NN3C)=C(N2C1=O)C(O)=O)C1=CSC(N)=N1	VAAUVRVFOQPIGI-SPQHTLEESA-N	gram-negative
+ceftriaxone	564	Penicillin-binding protein 2	P0AD65	6.213		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	CO\N=C(/C(=O)N[C@H]1[C@H]2SCC(CSC3=NC(=O)C(=O)NN3C)=C(N2C1=O)C(O)=O)C1=CSC(N)=N1	VAAUVRVFOQPIGI-SPQHTLEESA-N	gram-negative
+celecoxib	568	Carbonic anhydrase	Q50565	4.41		Ki	CHEMBL	=	Methanothermobacter thermautotrophicus (strain ATCC 29096 / DSM 1053 / JCM 10044 / NBRC 100330 / Delta H)	CC1=CC=C(C=C1)C1=CC(=NN1C1=CC=C(C=C1)S(N)(=O)=O)C(F)(F)F	RZEKVGVHFLEQIL-UHFFFAOYSA-N	gram-positive
+celecoxib	568	Probable transmembrane carbonic anhydrase (Carbonate dehydratase) (Carbonic dehydratase); Transmembrane carbonic anhydrase	P96878	5.11		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CC1=CC=C(C=C1)C1=CC(=NN1C1=CC=C(C=C1)S(N)(=O)=O)C(F)(F)F	RZEKVGVHFLEQIL-UHFFFAOYSA-N	acid-fast
+celecoxib	568	Beta-carbonic anhydrase 1	P9WPJ7	4.99		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CC1=CC=C(C=C1)C1=CC(=NN1C1=CC=C(C=C1)S(N)(=O)=O)C(F)(F)F	RZEKVGVHFLEQIL-UHFFFAOYSA-N	acid-fast
+celecoxib	568	Carbonic anhydrase 2	P9WPJ9	6.15		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CC1=CC=C(C=C1)C1=CC(=NN1C1=CC=C(C=C1)S(N)(=O)=O)C(F)(F)F	RZEKVGVHFLEQIL-UHFFFAOYSA-N	acid-fast
+celecoxib	568	Carbonic anhydrase, alpha family	Q31FD6	6.01		Ki	CHEMBL	=	Hydrogenovibrio crunogenus (strain XCL-2)	CC1=CC=C(C=C1)C1=CC(=NN1C1=CC=C(C=C1)S(N)(=O)=O)C(F)(F)F	RZEKVGVHFLEQIL-UHFFFAOYSA-N	gram-negative
+celecoxib	568	Carbonate dehydratase	B2V8E3	8.16		Ki	CHEMBL	=	Sulfurihydrogenibium sp. (strain YO3AOP1)	CC1=CC=C(C=C1)C1=CC(=NN1C1=CC=C(C=C1)S(N)(=O)=O)C(F)(F)F	RZEKVGVHFLEQIL-UHFFFAOYSA-N	gram-negative
+chloroxine	611	Botulinum neurotoxin type A	P10845	4.94		IC50	CHEMBL	=	Clostridium botulinum	OC1=C2N=CC=CC2=C(Cl)C=C1Cl	WDFKMLRRRCGAKS-UHFFFAOYSA-N	gram-positive
+ciprofloxacin	659	DNA topoisomerase 4 subunit A	P0AFI2	5.602		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	OC(=O)C1=CN(C2CC2)C2=CC(N3CCNCC3)=C(F)C=C2C1=O	MYSWGUAQZAJSOK-UHFFFAOYSA-N	gram-negative
+ciprofloxacin	659	DNA topoisomerase 4 subunit A	Q45066	5.658		IC50	WOMBAT-PK	=	Bacillus subtilis (strain 168)	OC(=O)C1=CN(C2CC2)C2=CC(N3CCNCC3)=C(F)C=C2C1=O	MYSWGUAQZAJSOK-UHFFFAOYSA-N	gram-positive
+ciprofloxacin	659	DNA topoisomerase 4 subunit A	P0C1U9	6.0		IC50	WOMBAT-PK	=	Staphylococcus aureus	OC(=O)C1=CN(C2CC2)C2=CC(N3CCNCC3)=C(F)C=C2C1=O	MYSWGUAQZAJSOK-UHFFFAOYSA-N	gram-positive
+ciprofloxacin	659	DNA gyrase subunit A	P9WG47	6.2		IC50	WOMBAT-PK	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	OC(=O)C1=CN(C2CC2)C2=CC(N3CCNCC3)=C(F)C=C2C1=O	MYSWGUAQZAJSOK-UHFFFAOYSA-N	acid-fast
+ciprofloxacin	659	DNA gyrase subunit A	P0AES4	5.75		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	OC(=O)C1=CN(C2CC2)C2=CC(N3CCNCC3)=C(F)C=C2C1=O	MYSWGUAQZAJSOK-UHFFFAOYSA-N	gram-negative
+clavulanic acid	669	Beta-lactamase TEM	P62593	10.187		IC50	WOMBAT-PK	=	Escherichia coli	OC\C=C1/O[C@@H]2CC(=O)N2[C@H]1C(O)=O	HZZVJAQRINQKSD-PBFISZAISA-N	gram-negative
+clavulanic acid	669	Beta-lactamase	P00811	7.82		IC50	CHEMBL	=	Escherichia coli (strain K12)	OC\C=C1/O[C@@H]2CC(=O)N2[C@H]1C(O)=O	HZZVJAQRINQKSD-PBFISZAISA-N	gram-negative
+clavulanic acid	669	Beta-lactamase	Q59401	4.0		IC50	CHEMBL	=	Enterobacter cloacae	OC\C=C1/O[C@@H]2CC(=O)N2[C@H]1C(O)=O	HZZVJAQRINQKSD-PBFISZAISA-N	gram-negative
+clavulanic acid	669	Beta-lactamase SHV-1	P0AD63	7.55		IC50	CHEMBL	=	Escherichia coli	OC\C=C1/O[C@@H]2CC(=O)N2[C@H]1C(O)=O	HZZVJAQRINQKSD-PBFISZAISA-N	gram-negative
+clavulanic acid	669	Beta-lactamase OXA-1	P13661	5.49		IC50	CHEMBL	=	Escherichia coli	OC\C=C1/O[C@@H]2CC(=O)N2[C@H]1C(O)=O	HZZVJAQRINQKSD-PBFISZAISA-N	gram-negative
+clavulanic acid	669	Beta-lactamase	P24735	6.1		IC50	CHEMBL	=	Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228)	OC\C=C1/O[C@@H]2CC(=O)N2[C@H]1C(O)=O	HZZVJAQRINQKSD-PBFISZAISA-N	gram-negative
+clavulanic acid	669	Beta-lactamase	A4KCT8	8.05		IC50	CHEMBL	=	Citrobacter gillenii	OC\C=C1/O[C@@H]2CC(=O)N2[C@H]1C(O)=O	HZZVJAQRINQKSD-PBFISZAISA-N	gram-negative
+clavulanic acid	669	Beta-lactamase	A1E3K9	7.15		IC50	CHEMBL	=	Escherichia coli	OC\C=C1/O[C@@H]2CC(=O)N2[C@H]1C(O)=O	HZZVJAQRINQKSD-PBFISZAISA-N	gram-negative
+clavulanic acid	669	Beta-lactamase	A8RR46	7.07		IC50	CHEMBL	=	Bacillus clausii	OC\C=C1/O[C@@H]2CC(=O)N2[C@H]1C(O)=O	HZZVJAQRINQKSD-PBFISZAISA-N	gram-positive
+clavulanic acid	669	Carbapenem-hydrolizing beta-lactamase SFC-1	Q6JP75	4.14		IC50	CHEMBL	=	Serratia fonticola	OC\C=C1/O[C@@H]2CC(=O)N2[C@H]1C(O)=O	HZZVJAQRINQKSD-PBFISZAISA-N	gram-negative
+clavulanic acid	669	Carbepenem-hydrolyzing beta-lactamase KPC	Q9F663	4.96		Ki	CHEMBL	=	Klebsiella pneumoniae	OC\C=C1/O[C@@H]2CC(=O)N2[C@H]1C(O)=O	HZZVJAQRINQKSD-PBFISZAISA-N	gram-negative
+clavulanic acid	669	Beta-lactamase	A2RP81	7.17		IC50	CHEMBL	=	Citrobacter freundii	OC\C=C1/O[C@@H]2CC(=O)N2[C@H]1C(O)=O	HZZVJAQRINQKSD-PBFISZAISA-N	gram-negative
+clavulanic acid	669	Beta-lactamase	Q9EXV5	8.05		IC50	CHEMBL	=	Escherichia coli	OC\C=C1/O[C@@H]2CC(=O)N2[C@H]1C(O)=O	HZZVJAQRINQKSD-PBFISZAISA-N	gram-negative
+clavulanic acid	669	Beta-lactamase SHV-1	P0AD64	6.77		IC50	CHEMBL	=	Klebsiella pneumoniae	OC\C=C1/O[C@@H]2CC(=O)N2[C@H]1C(O)=O	HZZVJAQRINQKSD-PBFISZAISA-N	gram-negative
+clavulanic acid	669	Beta-lactamase	Q6GWS8	5.07		IC50	CHEMBL	=	Escherichia coli	OC\C=C1/O[C@@H]2CC(=O)N2[C@H]1C(O)=O	HZZVJAQRINQKSD-PBFISZAISA-N	gram-negative
+clavulanic acid	669	Beta-lactamase GES-13	D1MIX9	7.0		IC50	CHEMBL	=	Pseudomonas aeruginosa	OC\C=C1/O[C@@H]2CC(=O)N2[C@H]1C(O)=O	HZZVJAQRINQKSD-PBFISZAISA-N	gram-negative
+clavulanic acid	669	Beta-lactamase	A0ZX81	5.76		IC50	CHEMBL	=	Klebsiella pneumoniae	OC\C=C1/O[C@@H]2CC(=O)N2[C@H]1C(O)=O	HZZVJAQRINQKSD-PBFISZAISA-N	gram-negative
+clavulanic acid	669	Beta-lactamase	Q4TVR4	7.7		IC50	CHEMBL	=	Klebsiella pneumoniae	OC\C=C1/O[C@@H]2CC(=O)N2[C@H]1C(O)=O	HZZVJAQRINQKSD-PBFISZAISA-N	gram-negative
+clavulanic acid	669	Class D beta-lactamase	Q50H31	5.7		IC50	CHEMBL	=	Brachyspira pilosicoli	OC\C=C1/O[C@@H]2CC(=O)N2[C@H]1C(O)=O	HZZVJAQRINQKSD-PBFISZAISA-N	gram-negative
+clavulanic acid	669	Beta-lactamase	Q2XPY6	8.0		IC50	CHEMBL	=	Salmonella enterica subsp. enterica serovar Westhampton	OC\C=C1/O[C@@H]2CC(=O)N2[C@H]1C(O)=O	HZZVJAQRINQKSD-PBFISZAISA-N	gram-negative
+clavulanic acid	669	Beta-lactamase SHV-5	P0A3M1	4.6		Ki	CHEMBL	=	Klebsiella pneumoniae	OC\C=C1/O[C@@H]2CC(=O)N2[C@H]1C(O)=O	HZZVJAQRINQKSD-PBFISZAISA-N	gram-negative
+clavulanic acid	669	Beta-lactamase	D2SSQ3	7.0		IC50	CHEMBL	=	Pseudomonas aeruginosa	OC\C=C1/O[C@@H]2CC(=O)N2[C@H]1C(O)=O	HZZVJAQRINQKSD-PBFISZAISA-N	gram-negative
+clavulanic acid	669	Beta-lactamase	Q3SAW3	7.0		IC50	CHEMBL	=	Pseudomonas aeruginosa	OC\C=C1/O[C@@H]2CC(=O)N2[C@H]1C(O)=O	HZZVJAQRINQKSD-PBFISZAISA-N	gram-negative
+clavulanic acid	669	Beta-lactamase	Q670S6	7.44		IC50	CHEMBL	=	Pseudomonas luteola	OC\C=C1/O[C@@H]2CC(=O)N2[C@H]1C(O)=O	HZZVJAQRINQKSD-PBFISZAISA-N	gram-negative
+clioquinol	681	Botulinum neurotoxin type A	P10845	4.69		IC50	CHEMBL	=	Clostridium botulinum	OC1=C2N=CC=CC2=C(Cl)C=C1I	QCDFBFJGMNKBDO-UHFFFAOYSA-N	gram-positive
+clodronic acid	690	Type IV secretion-like conjugative transfer relaxase protein TraI	B1LRJ1	8.52		Ki	CHEMBL	=	Escherichia coli	OP(O)(=O)C(Cl)(Cl)P(O)(O)=O	ACSIXWWBWUQEHA-UHFFFAOYSA-N	gram-negative
+clotrimazole	719	Beta-lactamase	P00811	4.7		IC50	CHEMBL	=	Escherichia coli (strain K12)	ClC1=C(C=CC=C1)C(N1C=CN=C1)(C1=CC=CC=C1)C1=CC=CC=C1	VNFPBHJOKIVQEB-UHFFFAOYSA-N	gram-negative
+cloxacillin	720	Beta-lactamase TEM	P62593	4.89		Ki	CHEMBL	=	Escherichia coli	CC1=C(C(=O)N[C@H]2[C@H]3SC(C)(C)[C@@H](N3C2=O)C(O)=O)C(=NO1)C1=C(Cl)C=CC=C1	LQOLIRLGBULYKD-JKIFEVAISA-N	gram-negative
+cloxacillin	720	Beta-lactamase	A4ZYU9	7.59		IC50	CHEMBL	=	Escherichia coli	CC1=C(C(=O)N[C@H]2[C@H]3SC(C)(C)[C@@H](N3C2=O)C(O)=O)C(=NO1)C1=C(Cl)C=CC=C1	LQOLIRLGBULYKD-JKIFEVAISA-N	gram-negative
+cloxacillin	720	Efflux transporter; SugE	Q3S5C3	8.4		IC50	CHEMBL	=	Salmonella newport	CC1=C(C(=O)N[C@H]2[C@H]3SC(C)(C)[C@@H](N3C2=O)C(O)=O)C(=NO1)C1=C(Cl)C=CC=C1	LQOLIRLGBULYKD-JKIFEVAISA-N	gram-negative
+cloxacillin	720	Beta-lactamase	Q48435	8.4		IC50	CHEMBL	=	Klebsiella pneumoniae	CC1=C(C(=O)N[C@H]2[C@H]3SC(C)(C)[C@@H](N3C2=O)C(O)=O)C(=NO1)C1=C(Cl)C=CC=C1	LQOLIRLGBULYKD-JKIFEVAISA-N	gram-negative
+cloxacillin	720	Beta-lactamase TEM	P62594	4.89		Ki	WOMBAT-PK	=	Salmonella typhi	CC1=C(C(=O)N[C@H]2[C@H]3SC(C)(C)[C@@H](N3C2=O)C(O)=O)C(=NO1)C1=C(Cl)C=CC=C1	LQOLIRLGBULYKD-JKIFEVAISA-N	gram-negative
+cycloguanil	754	Dihydrofolate reductase	P00381	4.76		Ki	CHEMBL	=	Lactobacillus casei	CC1(C)N=C(N)N=C(N)N1C1=CC=C(Cl)C=C1	QMNFFXRFOJIOKZ-UHFFFAOYSA-N	acid-fast
+cycloguanil	754	Dihydrofolate reductase	B0BL08	5.99		Ki	CHEMBL	=	Escherichia coli	CC1(C)N=C(N)N=C(N)N1C1=CC=C(Cl)C=C1	QMNFFXRFOJIOKZ-UHFFFAOYSA-N	gram-negative
+dapsone	782	Dihydropteroate synthase 1	P0C0X1	5.9		IC50	WOMBAT-PK	=	Mycobacterium leprae (strain TN)	NC1=CC=C(C=C1)S(=O)(=O)C1=CC=C(N)C=C1	MQJKPEGWNLWLTK-UHFFFAOYSA-N	acid-fast
+dasatinib	785	Quinolone resistance protein NorA	P0A0J7	4.94		IC50	CHEMBL	=	Staphylococcus aureus	CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1	ZBNZXTGUTAYRHI-UHFFFAOYSA-N	gram-positive
+delavirdine	799	Beta-lactamase	P00811	4.05		IC50	CHEMBL	=	Escherichia coli (strain K12)	CC(C)NC1=C(N=CC=C1)N1CCN(CC1)C(=O)C1=CC2=C(N1)C=CC(NS(C)(=O)=O)=C2	WHBIGIKBNXZKFE-UHFFFAOYSA-N	gram-negative
+dichlorphenamide	864	Carbonic anhydrase	O24855	6.423		Ki	WOMBAT-PK	=	Helicobacter pylori (strain ATCC 700392 / 26695)	NS(=O)(=O)C1=CC(Cl)=C(Cl)C(=C1)S(N)(=O)=O	GJQPMPFPNINLKP-UHFFFAOYSA-N	gram-negative
+dichlorphenamide	864	Beta-carbonic anhydrase 1	P9WPJ7	6.06		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	NS(=O)(=O)C1=CC(Cl)=C(Cl)C(=C1)S(N)(=O)=O	GJQPMPFPNINLKP-UHFFFAOYSA-N	acid-fast
+dichlorphenamide	864	Carbonic anhydrase 2	P9WPJ9	5.7		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	NS(=O)(=O)C1=CC(Cl)=C(Cl)C(=C1)S(N)(=O)=O	GJQPMPFPNINLKP-UHFFFAOYSA-N	acid-fast
+dichlorphenamide	864	Carbonic anhydrase, alpha family	Q31FD6	7.61		Ki	CHEMBL	=	Hydrogenovibrio crunogenus (strain XCL-2)	NS(=O)(=O)C1=CC(Cl)=C(Cl)C(=C1)S(N)(=O)=O	GJQPMPFPNINLKP-UHFFFAOYSA-N	gram-negative
+dichlorphenamide	864	Carbonate dehydratase	B2V8E3	8.07		Ki	CHEMBL	=	Sulfurihydrogenibium sp. (strain YO3AOP1)	NS(=O)(=O)C1=CC(Cl)=C(Cl)C(=C1)S(N)(=O)=O	GJQPMPFPNINLKP-UHFFFAOYSA-N	gram-negative
+dicoumarol	867	ATP phosphoribosyltransferase	P9WMN1	4.22		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	OC1=C(CC2=C(O)C3=C(OC2=O)C=CC=C3)C(=O)OC2=CC=CC=C12	DOBMPNYZJYQDGZ-UHFFFAOYSA-N	acid-fast
+disulfiram	928	Bifunctional protein GlmU	P9WMN3	4.07		IC50	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CCN(CC)C(=S)SSC(=S)N(CC)CC	AUZONCFQVSMFAP-UHFFFAOYSA-N	acid-fast
+dorzolamide	949	Carbonic anhydrase	O24855	5.37		Ki	CHEMBL	=	Helicobacter pylori (strain ATCC 700392 / 26695)	CCN[C@H]1C[C@H](C)S(=O)(=O)C2=C1C=C(S2)S(N)(=O)=O	IAVUPMFITXYVAF-XPUUQOCRSA-N	gram-negative
+dorzolamide	949	Carbonic anhydrase	Q50565	4.51		Ki	CHEMBL	=	Methanothermobacter thermautotrophicus (strain ATCC 29096 / DSM 1053 / JCM 10044 / NBRC 100330 / Delta H)	CCN[C@H]1C[C@H](C)S(=O)(=O)C2=C1C=C(S2)S(N)(=O)=O	IAVUPMFITXYVAF-XPUUQOCRSA-N	gram-positive
+dorzolamide	949	Probable transmembrane carbonic anhydrase (Carbonate dehydratase) (Carbonic dehydratase); Transmembrane carbonic anhydrase	P96878	6.86		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CCN[C@H]1C[C@H](C)S(=O)(=O)C2=C1C=C(S2)S(N)(=O)=O	IAVUPMFITXYVAF-XPUUQOCRSA-N	acid-fast
+dorzolamide	949	Beta-carbonic anhydrase 1	P9WPJ7	6.13		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CCN[C@H]1C[C@H](C)S(=O)(=O)C2=C1C=C(S2)S(N)(=O)=O	IAVUPMFITXYVAF-XPUUQOCRSA-N	acid-fast
+dorzolamide	949	Carbonic anhydrase 2	P9WPJ9	7.0		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CCN[C@H]1C[C@H](C)S(=O)(=O)C2=C1C=C(S2)S(N)(=O)=O	IAVUPMFITXYVAF-XPUUQOCRSA-N	acid-fast
+dorzolamide	949	Carbonic anhydrase, alpha family	Q31FD6	8.15		Ki	CHEMBL	=	Hydrogenovibrio crunogenus (strain XCL-2)	CCN[C@H]1C[C@H](C)S(=O)(=O)C2=C1C=C(S2)S(N)(=O)=O	IAVUPMFITXYVAF-XPUUQOCRSA-N	gram-negative
+dorzolamide	949	Carbonate dehydratase	B2V8E3	8.1		Ki	CHEMBL	=	Sulfurihydrogenibium sp. (strain YO3AOP1)	CCN[C@H]1C[C@H](C)S(=O)(=O)C2=C1C=C(S2)S(N)(=O)=O	IAVUPMFITXYVAF-XPUUQOCRSA-N	gram-negative
+doxorubicin	960	Type-2 restriction enzyme HindIII	P43870	4.02		IC50	CHEMBL	=	Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)	COC1=C2C(=O)C3=C(C(O)=C4C[C@](O)(C[C@H](O[C@H]5C[C@H](N)[C@H](O)[C@H](C)O5)C4=C3O)C(=O)CO)C(=O)C2=CC=C1	AOJJSUZBOXZQNB-TZSSRYMLSA-N	gram-negative
+doxorubicin	960	Type-2 restriction enzyme ScaI	O52691	4.6		IC50	CHEMBL	=	Streptomyces caespitosus	COC1=C2C(=O)C3=C(C(O)=C4C[C@](O)(C[C@H](O[C@H]5C[C@H](N)[C@H](O)[C@H](C)O5)C4=C3O)C(=O)CO)C(=O)C2=CC=C1	AOJJSUZBOXZQNB-TZSSRYMLSA-N	gram-positive
+doxycycline	961	Tetracycline resistance protein, class B	P02980	5.04		IC50	WOMBAT-PK	=	Escherichia coli	C[C@@H]1[C@H]2[C@H](O)[C@H]3[C@H](N(C)C)C(O)=C(C(N)=O)C(=O)[C@@]3(O)C(O)=C2C(=O)C2=C(O)C=CC=C12	JBIWCJUYHHGXTC-AKNGSSGZSA-N	gram-negative
+econazole	983	Beta-lactamase	P00811	4.6		IC50	CHEMBL	=	Escherichia coli (strain K12)	ClC1=CC=C(COC(CN2C=CN=C2)C2=C(Cl)C=C(Cl)C=C2)C=C1	LEZWWPYKPKIXLL-UHFFFAOYSA-N	gram-negative
+edatrexate	986	Dihydrofolate reductase	P00381	8.42		IC50	CHEMBL	=	Lactobacillus casei	CCC(CC1=CN=C2N=C(N)N=C(N)C2=N1)C1=CC=C(C=C1)C(=O)N[C@@H](CCC(O)=O)C(O)=O	FSIRXIHZBIXHKT-MHTVFEQDSA-N	acid-fast
+edetic acid	987	Beta-lactamase	Q79MP6	4.55		IC50	CHEMBL	=	Pseudomonas aeruginosa	OC(=O)CN(CCN(CC(O)=O)CC(O)=O)CC(O)=O	KCXVZYZYPLLWCC-UHFFFAOYSA-N	gram-negative
+edetic acid	987	Beta-lactamase VIM-1; Class B carbapenemase VIM-1; Metallo-beta-lactamase; Metallo-beta-lactamase VIM-1; Metallobeta-lactamase; VIM-1; VIM-1 metallo-beta lactamase; VIM-1 metallo-beta-lactamase; VIM-1	Q9XAY4	5.03		IC50	CHEMBL	=	Pseudomonas aeruginosa	OC(=O)CN(CCN(CC(O)=O)CC(O)=O)CC(O)=O	KCXVZYZYPLLWCC-UHFFFAOYSA-N	gram-negative
+ergotamine	1043	Adenylate cyclase	O32393	4.15		IC50	CHEMBL	=	Arthrospira platensis	CN1C[C@@H](C=C2[C@H]1CC1=CNC3=CC=CC2=C13)C(=O)N[C@]1(C)O[C@@]2(O)[C@@H]3CCCN3C(=O)[C@H](CC3=CC=CC=C3)N2C1=O	XCGSFFUVFURLIX-VFGNJEKYSA-N	gram-negative
+ethoxzolamide	1089	Carbonic anhydrase	O24855	6.81		Ki	CHEMBL	=	Helicobacter pylori (strain ATCC 700392 / 26695)	CCOC1=CC2=C(C=C1)N=C(S2)S(N)(=O)=O	OUZWUKMCLIBBOG-UHFFFAOYSA-N	gram-negative
+ethoxzolamide	1089	Carbonic anhydrase	Q50565	5.27		Ki	CHEMBL	=	Methanothermobacter thermautotrophicus (strain ATCC 29096 / DSM 1053 / JCM 10044 / NBRC 100330 / Delta H)	CCOC1=CC2=C(C=C1)N=C(S2)S(N)(=O)=O	OUZWUKMCLIBBOG-UHFFFAOYSA-N	gram-positive
+ethoxzolamide	1089	Beta-carbonic anhydrase 1	P9WPJ7	5.99		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CCOC1=CC2=C(C=C1)N=C(S2)S(N)(=O)=O	OUZWUKMCLIBBOG-UHFFFAOYSA-N	acid-fast
+ethoxzolamide	1089	Carbonic anhydrase 2	P9WPJ9	7.57		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CCOC1=CC2=C(C=C1)N=C(S2)S(N)(=O)=O	OUZWUKMCLIBBOG-UHFFFAOYSA-N	acid-fast
+ethoxzolamide	1089	Carbonic anhydrase, alpha family	Q31FD6	8.39		Ki	CHEMBL	=	Hydrogenovibrio crunogenus (strain XCL-2)	CCOC1=CC2=C(C=C1)N=C(S2)S(N)(=O)=O	OUZWUKMCLIBBOG-UHFFFAOYSA-N	gram-negative
+ethoxzolamide	1089	Carbonate dehydratase	B2V8E3	8.03		Ki	CHEMBL	=	Sulfurihydrogenibium sp. (strain YO3AOP1)	CCOC1=CC2=C(C=C1)N=C(S2)S(N)(=O)=O	OUZWUKMCLIBBOG-UHFFFAOYSA-N	gram-negative
+etidronic acid	1098	Type IV secretion-like conjugative transfer relaxase protein TraI	B1LRJ1	8.52		Ki	CHEMBL	=	Escherichia coli	CC(O)(P(O)(O)=O)P(O)(O)=O	DBVJJBKOTRCVKF-UHFFFAOYSA-N	gram-negative
+fendiline	1148	Transcriptional activator protein luxR	P12746	4.04		IC50	CHEMBL	=	Aliivibrio fischeri	CC(NCCC(C1=CC=CC=C1)C1=CC=CC=C1)C1=CC=CC=C1	NMKSAYKQLCHXDK-UHFFFAOYSA-N	gram-negative
+fleroxacin	1177	DNA gyrase subunit A	P0AES4	4.79		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	CN1CCN(CC1)C1=C(F)C=C2C(=O)C(=CN(CCF)C2=C1F)C(O)=O	XBJBPGROQZJDOJ-UHFFFAOYSA-N	gram-negative
+fosfomycin	1243	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	P0A749	7.0		IC50	CHEMBL	=	Escherichia coli (strain K12)	C[C@@H]1O[C@@H]1P(O)(O)=O	YMDXZJFXQJVXBF-STHAYSLISA-N	gram-negative
+fosfomycin	1243	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	Q9HVW7	4.98		IC50	CHEMBL	=	Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228)	C[C@@H]1O[C@@H]1P(O)(O)=O	YMDXZJFXQJVXBF-STHAYSLISA-N	gram-negative
+fulvestrant	1255	Beta-lactamase TEM	P62593	4.25		IC50	CHEMBL	=	Escherichia coli	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)[C@H](CCCCCCCCCS(=O)CCCC(F)(F)C(F)(F)F)CC1=CC(O)=CC=C31	VWUXBMIQPBEWFH-WCCTWKNTSA-N	gram-negative
+fulvestrant	1255	Beta-lactamase TEM	P62593	4.25		IC50	CHEMBL	=	Escherichia coli	C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)[C@H](CCCCCCCCCS(=O)CCCC(F)(F)C(F)(F)F)CC1=CC(O)=CC=C31	VWUXBMIQPBEWFH-WCCTWKNTSA-N	gram-negative
+furosemide	1258	Holo-[acyl-carrieir-protein] synthase	P96618	4.9		IC50	CHEMBL	=	Bacillus subtilis (strain 168)	NS(=O)(=O)C1=CC(C(O)=O)=C(NCC2=CC=CO2)C=C1Cl	ZZUFCTLCJUWOSV-UHFFFAOYSA-N	gram-positive
+gatifloxacin	1280	DNA topoisomerase 4 subunit A	P0C1U9	5.92		IC50	CHEMBL	=	Staphylococcus aureus	COC1=C2N(C=C(C(O)=O)C(=O)C2=CC(F)=C1N1CCNC(C)C1)C1CC1	XUBOMFCQGDBHNK-UHFFFAOYSA-N	gram-positive
+gatifloxacin	1280	DNA gyrase subunit A	P9WG47	5.03		IC50	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	COC1=C2N(C=C(C(O)=O)C(=O)C2=CC(F)=C1N1CCNC(C)C1)C1CC1	XUBOMFCQGDBHNK-UHFFFAOYSA-N	acid-fast
+gatifloxacin	1280	DNA gyrase	P0AES4|P0AES6	6.3		IC50	CHEMBL	=	Escherichia coli (strain K12)	COC1=C2N(C=C(C(O)=O)C(=O)C2=CC(F)=C1N1CCNC(C)C1)C1CC1	XUBOMFCQGDBHNK-UHFFFAOYSA-N	gram-negative
+gefitinib	1282	Quinolone resistance protein NorA	P0A0J7	5.01		IC50	CHEMBL	=	Staphylococcus aureus	COC1=C(OCCCN2CCOCC2)C=C2C(NC3=CC(Cl)=C(F)C=C3)=NC=NC2=C1	XGALLCVXEZPNRQ-UHFFFAOYSA-N	gram-positive
+gemifloxacin	1286	DNA topoisomerase 4 subunit A	P0C1U9	6.52		IC50	CHEMBL	=	Staphylococcus aureus	CO\N=C1/CN(CC1CN)C1=C(F)C=C2C(=O)C(=CN(C3CC3)C2=N1)C(O)=O	ZRCVYEYHRGVLOC-HYARGMPZSA-N	gram-positive
+glutamic acid	1310	Glutamate racemase	Q03469	4.55		Ki	CHEMBL	=	Lactobacillus fermentum	N[C@@H](CCC(O)=O)C(O)=O	WHUUTDBJXJRKMK-VKHMYHEASA-N	acid-fast
+glutamic acid	1310	Glutamate racemase	P56068	5.24		Ki	CHEMBL	=	Helicobacter pylori (strain ATCC 700392 / 26695)	N[C@@H](CCC(O)=O)C(O)=O	WHUUTDBJXJRKMK-VKHMYHEASA-N	gram-negative
+gossypol	1328	Beta-lactamase	P00811	4.34		IC50	CHEMBL	=	Escherichia coli (strain K12)	CC(C)C1=C(O)C(O)=C(C=O)C2=C(O)C(=C(C)C=C12)C1=C(O)C2=C(C=O)C(O)=C(O)C(C(C)C)=C2C=C1C	QBKSWRVVCFFDOT-UHFFFAOYSA-N	gram-negative
+hydrochlorothiazide	1385	Carbonic anhydrase, alpha family	Q31FD6	6.53		Ki	CHEMBL	=	Hydrogenovibrio crunogenus (strain XCL-2)	NS(=O)(=O)C1=C(Cl)C=C2NCNS(=O)(=O)C2=C1	JZUFKLXOESDKRF-UHFFFAOYSA-N	gram-negative
+hydrochlorothiazide	1385	Carbonate dehydratase	B2V8E3	8.14		Ki	CHEMBL	=	Sulfurihydrogenibium sp. (strain YO3AOP1)	NS(=O)(=O)C1=C(Cl)C=C2NCNS(=O)(=O)C2=C1	JZUFKLXOESDKRF-UHFFFAOYSA-N	gram-negative
+imipenem	1426	Penicillin-binding protein 4	Q5D1E9	7.3		IC50	WOMBAT-PK	=	Staphylococcus aureus	C[C@@H](O)[C@@H]1[C@H]2CC(SCCNC=N)=C(N2C1=O)C(O)=O	ZSKVGTPCRGIANV-ZXFLCMHBSA-N	gram-positive
+imipenem	1426	Penicillin-binding protein 1	A1KS91	7.0		IC50	WOMBAT-PK	=	Neisseria meningitidis serogroup C / serotype 2a (strain ATCC 700532 / DSM 15464 / FAM18)	C[C@@H](O)[C@@H]1[C@H]2CC(SCCNC=N)=C(N2C1=O)C(O)=O	ZSKVGTPCRGIANV-ZXFLCMHBSA-N	gram-negative
+imipenem	1426	Beta-lactamase	A2RP81	7.22		Ki	CHEMBL	=	Citrobacter freundii	C[C@@H](O)[C@@H]1[C@H]2CC(SCCNC=N)=C(N2C1=O)C(O)=O	ZSKVGTPCRGIANV-ZXFLCMHBSA-N	gram-negative
+imipenem	1426	Beta-lactamase GES-13	D1MIX9	6.82		IC50	CHEMBL	=	Pseudomonas aeruginosa	C[C@@H](O)[C@@H]1[C@H]2CC(SCCNC=N)=C(N2C1=O)C(O)=O	ZSKVGTPCRGIANV-ZXFLCMHBSA-N	gram-negative
+isoniazid	1497	Enoyl-[acyl-carrier-protein] reductase [NADH]	P9WGR1	5.08		IC50	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	NNC(=O)C1=CC=NC=C1	QRXWMOHMRWLFEY-UHFFFAOYSA-N	acid-fast
+isoniazid	1497	Dihydrofolate reductase	P9WNX1	9.0		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	NNC(=O)C1=CC=NC=C1	QRXWMOHMRWLFEY-UHFFFAOYSA-N	acid-fast
+kanamycin	1519	3-oxoacyl-[acyl-carrier-protein] synthase 3	P0A6R0	5.17		IC50	CHEMBL	=	Escherichia coli (strain K12)	NC[C@H]1O[C@H](O[C@@H]2[C@@H](N)C[C@@H](N)[C@H](O[C@H]3O[C@H](CO)[C@@H](O)[C@H](N)[C@H]3O)[C@H]2O)[C@H](O)[C@@H](O)[C@@H]1O	SBUJHOSQTJFQJX-NOAMYHISSA-N	gram-negative
+bekanamycin	1520	3-oxoacyl-[acyl-carrier-protein] synthase 3	C3TDZ2	5.2		IC50	CHEMBL	=	Escherichia coli	NC[C@H]1O[C@H](O[C@@H]2[C@@H](N)C[C@@H](N)[C@H](O[C@H]3O[C@H](CO)[C@@H](O)[C@H](N)[C@H]3O)[C@H]2O)[C@H](N)[C@@H](O)[C@@H]1O	SKKLOUVUUNMCJE-FQSMHNGLSA-N	gram-negative
+bekanamycin	1520	3-oxoacyl-[acyl-carrier-protein] synthase 3	P0A6R0	5.25		IC50	CHEMBL	=	Escherichia coli (strain K12)	NC[C@H]1O[C@H](O[C@@H]2[C@@H](N)C[C@@H](N)[C@H](O[C@H]3O[C@H](CO)[C@@H](O)[C@H](N)[C@H]3O)[C@H]2O)[C@H](N)[C@@H](O)[C@@H]1O	SKKLOUVUUNMCJE-FQSMHNGLSA-N	gram-negative
+lamotrigine	1540	Dihydrofolate reductase	B0BL08	4.82		Ki	CHEMBL	=	Escherichia coli	NC1=NN=C(C(N)=N1)C1=C(Cl)C(Cl)=CC=C1	PYZRQGJRPPTADH-UHFFFAOYSA-N	gram-negative
+levofloxacin	1569	DNA gyrase subunit A	P9WG47	4.28		IC50	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	C[C@H]1COC2=C(N3CCN(C)CC3)C(F)=CC3=C2N1C=C(C(O)=O)C3=O	GSDSWSVVBLHKDQ-JTQLQIEISA-N	acid-fast
+lomefloxacin	1594	DNA gyrase subunit A	P43700	5.15		IC50	WOMBAT-PK	=	Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)	CCN1C=C(C(O)=O)C(=O)C2=CC(F)=C(N3CCNC(C)C3)C(F)=C12	ZEKZLJVOYLTDKK-UHFFFAOYSA-N	gram-negative
+mafenide	1624	Carbonic anhydrase	O24855	6.08		Ki	CHEMBL	=	Helicobacter pylori (strain ATCC 700392 / 26695)	NCC1=CC=C(C=C1)S(N)(=O)=O	TYMRLRRVMHJFTF-UHFFFAOYSA-N	gram-negative
+mafenide	1624	Carbonic anhydrase	Q50565	4.55		Ki	CHEMBL	=	Methanothermobacter thermautotrophicus (strain ATCC 29096 / DSM 1053 / JCM 10044 / NBRC 100330 / Delta H)	NCC1=CC=C(C=C1)S(N)(=O)=O	TYMRLRRVMHJFTF-UHFFFAOYSA-N	gram-positive
+mafenide	1624	Probable transmembrane carbonic anhydrase (Carbonate dehydratase) (Carbonic dehydratase); Transmembrane carbonic anhydrase	P96878	5.13		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	NCC1=CC=C(C=C1)S(N)(=O)=O	TYMRLRRVMHJFTF-UHFFFAOYSA-N	acid-fast
+mafenide	1624	Beta-carbonic anhydrase 1	P9WPJ7	5.06		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	NCC1=CC=C(C=C1)S(N)(=O)=O	TYMRLRRVMHJFTF-UHFFFAOYSA-N	acid-fast
+mafenide	1624	Carbonic anhydrase 2	P9WPJ9	4.51		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	NCC1=CC=C(C=C1)S(N)(=O)=O	TYMRLRRVMHJFTF-UHFFFAOYSA-N	acid-fast
+mafenide	1624	Carbonic anhydrase, alpha family	Q31FD6	6.7		Ki	CHEMBL	=	Hydrogenovibrio crunogenus (strain XCL-2)	NCC1=CC=C(C=C1)S(N)(=O)=O	TYMRLRRVMHJFTF-UHFFFAOYSA-N	gram-negative
+mafenide	1624	Carbonate dehydratase	B2V8E3	6.46		Ki	CHEMBL	=	Sulfurihydrogenibium sp. (strain YO3AOP1)	NCC1=CC=C(C=C1)S(N)(=O)=O	TYMRLRRVMHJFTF-UHFFFAOYSA-N	gram-negative
+mecillinam	1648	Penicillin-binding protein 2	P0AD65	7.035		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	CC1(C)S[C@@H]2[C@H](\N=C\N3CCCCCC3)C(=O)N2[C@H]1C(O)=O	BWWVAEOLVKTZFQ-ISVUSNJMSA-N	gram-negative
+methazolamide	1741	Carbonic anhydrase	O24855	6.77		Ki	CHEMBL	=	Helicobacter pylori (strain ATCC 700392 / 26695)	CN1N=C(SC1=NC(C)=O)S(N)(=O)=O	FLOSMHQXBMRNHR-UHFFFAOYSA-N	gram-negative
+methazolamide	1741	Carbonic anhydrase	Q50565	4.49		Ki	CHEMBL	=	Methanothermobacter thermautotrophicus (strain ATCC 29096 / DSM 1053 / JCM 10044 / NBRC 100330 / Delta H)	CN1N=C(SC1=NC(C)=O)S(N)(=O)=O	FLOSMHQXBMRNHR-UHFFFAOYSA-N	gram-positive
+methazolamide	1741	Probable transmembrane carbonic anhydrase (Carbonate dehydratase) (Carbonic dehydratase); Transmembrane carbonic anhydrase	P96878	6.25		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CN1N=C(SC1=NC(C)=O)S(N)(=O)=O	FLOSMHQXBMRNHR-UHFFFAOYSA-N	acid-fast
+methazolamide	1741	Beta-carbonic anhydrase 1	P9WPJ7	6.11		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CN1N=C(SC1=NC(C)=O)S(N)(=O)=O	FLOSMHQXBMRNHR-UHFFFAOYSA-N	acid-fast
+methazolamide	1741	Carbonic anhydrase 2	P9WPJ9	6.18		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CN1N=C(SC1=NC(C)=O)S(N)(=O)=O	FLOSMHQXBMRNHR-UHFFFAOYSA-N	acid-fast
+methazolamide	1741	Carbonic anhydrase, alpha family	Q31FD6	7.58		Ki	CHEMBL	=	Hydrogenovibrio crunogenus (strain XCL-2)	CN1N=C(SC1=NC(C)=O)S(N)(=O)=O	FLOSMHQXBMRNHR-UHFFFAOYSA-N	gram-negative
+methazolamide	1741	Carbonate dehydratase	B2V8E3	8.09		Ki	CHEMBL	=	Sulfurihydrogenibium sp. (strain YO3AOP1)	CN1N=C(SC1=NC(C)=O)S(N)(=O)=O	FLOSMHQXBMRNHR-UHFFFAOYSA-N	gram-negative
+meticillin	1744	NH(3)-dependent NAD(+) synthetase	P18843	5.5		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	COC1=CC=CC(OC)=C1C(=O)N[C@H]1[C@H]2SC(C)(C)[C@@H](N2C1=O)C(O)=O	RJQXTJLFIWVMTO-TYNCELHUSA-N	gram-negative
+methotrexate	1751	Dihydrofolate reductase	P00381	8.89		IC50	CHEMBL	=	Lactobacillus casei	CN(CC1=CN=C2N=C(N)N=C(N)C2=N1)C1=CC=C(C=C1)C(=O)N[C@@H](CCC(O)=O)C(O)=O	FBOZXECLQNJBKD-ZDUSSCGKSA-N	acid-fast
+methotrexate	1751	Thymidylate synthase	P00469	4.4		IC50	CHEMBL	=	Lactobacillus casei	CN(CC1=CN=C2N=C(N)N=C(N)C2=N1)C1=CC=C(C=C1)C(=O)N[C@@H](CCC(O)=O)C(O)=O	FBOZXECLQNJBKD-ZDUSSCGKSA-N	acid-fast
+methotrexate	1751	Dihydrofolate reductase	B0BL08	10.68		Ki	CHEMBL	=	Escherichia coli	CN(CC1=CN=C2N=C(N)N=C(N)C2=N1)C1=CC=C(C=C1)C(=O)N[C@@H](CCC(O)=O)C(O)=O	FBOZXECLQNJBKD-ZDUSSCGKSA-N	gram-negative
+methotrexate	1751	Thymidylate synthase	C3SWJ7	5.74		IC50	CHEMBL	=	Escherichia coli	CN(CC1=CN=C2N=C(N)N=C(N)C2=N1)C1=CC=C(C=C1)C(=O)N[C@@H](CCC(O)=O)C(O)=O	FBOZXECLQNJBKD-ZDUSSCGKSA-N	gram-negative
+methotrexate	1751	Dihydrofolate reductase	P0A017	9.0		Ki	CHEMBL	=	Staphylococcus aureus	CN(CC1=CN=C2N=C(N)N=C(N)C2=N1)C1=CC=C(C=C1)C(=O)N[C@@H](CCC(O)=O)C(O)=O	FBOZXECLQNJBKD-ZDUSSCGKSA-N	gram-positive
+methotrexate	1751	Dihydrofolate reductase	P9WNX1	8.08		IC50	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CN(CC1=CN=C2N=C(N)N=C(N)C2=N1)C1=CC=C(C=C1)C(=O)N[C@@H](CCC(O)=O)C(O)=O	FBOZXECLQNJBKD-ZDUSSCGKSA-N	acid-fast
+methotrexate	1751	Dihydrofolate reductase	Q81R22	7.91		IC50	CHEMBL	=	Bacillus anthracis	CN(CC1=CN=C2N=C(N)N=C(N)C2=N1)C1=CC=C(C=C1)C(=O)N[C@@H](CCC(O)=O)C(O)=O	FBOZXECLQNJBKD-ZDUSSCGKSA-N	gram-positive
+methotrexate	1751	Dihydrofolate reductase	P00380	8.85		IC50	CHEMBL	=	Enterococcus faecium	CN(CC1=CN=C2N=C(N)N=C(N)C2=N1)C1=CC=C(C=C1)C(=O)N[C@@H](CCC(O)=O)C(O)=O	FBOZXECLQNJBKD-ZDUSSCGKSA-N	gram-positive
+miconazole	1800	Beta-lactamase	P00811	4.4		IC50	CHEMBL	=	Escherichia coli (strain K12)	ClC1=CC(Cl)=C(COC(CN2C=CN=C2)C2=C(Cl)C=C(Cl)C=C2)C=C1	BYBLEWFAAKGYCD-UHFFFAOYSA-N	gram-negative
+minocycline	1813	Tetracycline resistance protein, class B	P02980	5.638		IC50	WOMBAT-PK	=	Escherichia coli	CN(C)[C@H]1[C@@H]2C[C@@H]3CC4=C(C(O)=CC=C4N(C)C)C(=O)C3=C(O)[C@]2(O)C(=O)C(C(N)=O)=C1O	DYKFCLLONBREIL-KVUCHLLUSA-N	gram-negative
+latamoxef	1851	Peptidoglycan synthase FtsI	P0AD68	5.938		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	CO[C@]1(NC(=O)C(C(O)=O)C2=CC=C(O)C=C2)[C@H]2OCC(CSC3=NN=NN3C)=C(N2C1=O)C(O)=O	JWCSIUVGFCSJCK-CAVRMKNVSA-N	gram-negative
+latamoxef	1851	Penicillin-binding protein 1A	P02918	6.716		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	CO[C@]1(NC(=O)C(C(O)=O)C2=CC=C(O)C=C2)[C@H]2OCC(CSC3=NN=NN3C)=C(N2C1=O)C(O)=O	JWCSIUVGFCSJCK-CAVRMKNVSA-N	gram-negative
+latamoxef	1851	Penicillin-binding protein 1B	P02919	4.637		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	CO[C@]1(NC(=O)C(C(O)=O)C2=CC=C(O)C=C2)[C@H]2OCC(CSC3=NN=NN3C)=C(N2C1=O)C(O)=O	JWCSIUVGFCSJCK-CAVRMKNVSA-N	gram-negative
+moxifloxacin	1854	DNA topoisomerase 4 subunit A	P0C1U9	6.1		IC50	CHEMBL	=	Staphylococcus aureus	COC1=C2N(C=C(C(O)=O)C(=O)C2=CC(F)=C1N1C[C@@H]2CCCN[C@@H]2C1)C1CC1	FABPRXSRWADJSP-MEDUHNTESA-N	gram-positive
+moxifloxacin	1854	DNA gyrase subunit A	P9WG47	5.04		IC50	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	COC1=C2N(C=C(C(O)=O)C(=O)C2=CC(F)=C1N1C[C@@H]2CCCN[C@@H]2C1)C1CC1	FABPRXSRWADJSP-MEDUHNTESA-N	acid-fast
+moxifloxacin	1854	DNA gyrase	P0AES4|P0AES6	6.52		IC50	CHEMBL	=	Escherichia coli (strain K12)	COC1=C2N(C=C(C(O)=O)C(=O)C2=CC(F)=C1N1C[C@@H]2CCCN[C@@H]2C1)C1CC1	FABPRXSRWADJSP-MEDUHNTESA-N	gram-negative
+mupirocin	1857	Isoleucine--tRNA ligase	P00956	8.6		Ki	CHEMBL	=	Escherichia coli (strain K12)	C[C@H](O)[C@H](C)[C@@H]1O[C@H]1C[C@H]1CO[C@@H](C\C(C)=C\C(=O)OCCCCCCCCC(O)=O)[C@H](O)[C@@H]1O	MINDHVHHQZYEEK-HBBNESRFSA-N	gram-negative
+mupirocin	1857	Isoleucine--tRNA ligase	P56690	7.22		Ki	CHEMBL	=	Thermus thermophilus	C[C@H](O)[C@H](C)[C@@H]1O[C@H]1C[C@H]1CO[C@@H](C\C(C)=C\C(=O)OCCCCCCCCC(O)=O)[C@H](O)[C@@H]1O	MINDHVHHQZYEEK-HBBNESRFSA-N	gram-negative
+naftifine	1872	Dehydrosqualene desaturase	O07855	6.53		IC50	CHEMBL	=	Staphylococcus aureus (strain Newman)	CN(C\C=C\C1=CC=CC=C1)CC1=CC=CC2=CC=CC=C12	OZGNYLLQHRPOBR-DHZHZOJOSA-N	gram-positive
+framycetin	1896	Lethal factor	P15917	6.3		Ki	CHEMBL	=	Bacillus anthracis	NC[C@@H]1O[C@H](O[C@@H]2[C@@H](CO)O[C@@H](O[C@@H]3[C@@H](O)[C@H](N)C[C@H](N)[C@H]3O[C@H]3O[C@H](CN)[C@@H](O)[C@H](O)[C@H]3N)[C@@H]2O)[C@H](N)[C@@H](O)[C@@H]1O	PGBHMTALBVVCIT-VCIWKGPPSA-N	gram-positive
+nicardipine	1909	Beta-lactamase	P00811	4.7		IC50	CHEMBL	=	Escherichia coli (strain K12)	COC(=O)C1=C(C)NC(C)=C(C1C1=CC(=CC=C1)[N+]([O-])=O)C(=O)OCCN(C)CC1=CC=CC=C1	ZBBHBTPTTSWHBA-UHFFFAOYSA-N	gram-negative
+nicardipine	1909	Quinolone resistance protein NorA	P0A0J7	4.64		IC50	CHEMBL	=	Staphylococcus aureus	COC(=O)C1=C(C)NC(C)=C(C1C1=CC(=CC=C1)[N+]([O-])=O)C(=O)OCCN(C)CC1=CC=CC=C1	ZBBHBTPTTSWHBA-UHFFFAOYSA-N	gram-positive
+nitazoxanide	1943	Pyruvate-flavodoxin oxidoreductase	Q0P8E1	4.98		Ki	CHEMBL	=	Campylobacter jejuni subsp. jejuni serotype O:2	CC(=O)OC1=C(C=CC=C1)C(=O)NC1=NC=C(S1)[N+]([O-])=O	YQNQNVDNTFHQSW-UHFFFAOYSA-N	gram-negative
+norfloxacin	1967	DNA topoisomerase 4 subunit A	P0AFI2	5.29		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	CCN1C=C(C(O)=O)C(=O)C2=CC(F)=C(C=C12)N1CCNCC1	OGJPXUAPXNRGGI-UHFFFAOYSA-N	gram-negative
+norfloxacin	1967	DNA topoisomerase 4 subunit A	P0C1U9	5.46		IC50	CHEMBL	=	Staphylococcus aureus	CCN1C=C(C(O)=O)C(=O)C2=CC(F)=C(C=C12)N1CCNCC1	OGJPXUAPXNRGGI-UHFFFAOYSA-N	gram-positive
+norfloxacin	1967	DNA gyrase subunit A	P9WG47	4.28		IC50	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CCN1C=C(C(O)=O)C(=O)C2=CC(F)=C(C=C12)N1CCNCC1	OGJPXUAPXNRGGI-UHFFFAOYSA-N	acid-fast
+norfloxacin	1967	DNA gyrase subunit A	P0AES4	6.05		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	CCN1C=C(C(O)=O)C(=O)C2=CC(F)=C(C=C12)N1CCNCC1	OGJPXUAPXNRGGI-UHFFFAOYSA-N	gram-negative
+novobiocin	1974	DNA gyrase subunit B	P0AES6	6.81		IC50	CHEMBL	=	Escherichia coli (strain K12)	CO[C@@H]1[C@@H](OC(N)=O)[C@@H](O)[C@H](OC2=CC=C3C(O)=C(NC(=O)C4=CC(CC=C(C)C)=C(O)C=C4)C(=O)OC3=C2C)OC1(C)C	YJQPYGGHQPGBLI-KGSXXDOSSA-N	gram-negative
+novobiocin	1974	DNA gyrase subunit B	P0A4L9	7.43		IC50	CHEMBL	=	Streptococcus pneumoniae serotype 4 (strain ATCC BAA-334 / TIGR4)	CO[C@@H]1[C@@H](OC(N)=O)[C@@H](O)[C@H](OC2=CC=C3C(O)=C(NC(=O)C4=CC(CC=C(C)C)=C(O)C=C4)C(=O)OC3=C2C)OC1(C)C	YJQPYGGHQPGBLI-KGSXXDOSSA-N	gram-positive
+novobiocin	1974	ParE	Q7X1P7	5.69		IC50	CHEMBL	=	Streptococcus pneumoniae	CO[C@@H]1[C@@H](OC(N)=O)[C@@H](O)[C@H](OC2=CC=C3C(O)=C(NC(=O)C4=CC(CC=C(C)C)=C(O)C=C4)C(=O)OC3=C2C)OC1(C)C	YJQPYGGHQPGBLI-KGSXXDOSSA-N	gram-positive
+novobiocin	1974	DNA gyrase	P0AES4|P0AES6	7.0		IC50	CHEMBL	=	Escherichia coli (strain K12)	CO[C@@H]1[C@@H](OC(N)=O)[C@@H](O)[C@H](OC2=CC=C3C(O)=C(NC(=O)C4=CC(CC=C(C)C)=C(O)C=C4)C(=O)OC3=C2C)OC1(C)C	YJQPYGGHQPGBLI-KGSXXDOSSA-N	gram-negative
+novobiocin	1974	DNA gyrase subunit B	P0C559	6.7		IC50	CHEMBL	=	Mycobacterium smegmatis	CO[C@@H]1[C@@H](OC(N)=O)[C@@H](O)[C@H](OC2=CC=C3C(O)=C(NC(=O)C4=CC(CC=C(C)C)=C(O)C=C4)C(=O)OC3=C2C)OC1(C)C	YJQPYGGHQPGBLI-KGSXXDOSSA-N	acid-fast
+novobiocin	1974	DNA gyrase subunit B	P0A0K8	6.9		IC50	CHEMBL	=	Staphylococcus aureus	CO[C@@H]1[C@@H](OC(N)=O)[C@@H](O)[C@H](OC2=CC=C3C(O)=C(NC(=O)C4=CC(CC=C(C)C)=C(O)C=C4)C(=O)OC3=C2C)OC1(C)C	YJQPYGGHQPGBLI-KGSXXDOSSA-N	gram-positive
+novobiocin	1974	DNULL gyrase subunit B	A0QNE0	7.34		IC50	CHEMBL	=	Mycolicibacterium smegmatis	CO[C@@H]1[C@@H](OC(N)=O)[C@@H](O)[C@H](OC2=CC=C3C(O)=C(NC(=O)C4=CC(CC=C(C)C)=C(O)C=C4)C(=O)OC3=C2C)OC1(C)C	YJQPYGGHQPGBLI-KGSXXDOSSA-N	acid-fast
+novobiocin	1974	DNULL gyrase subunit B	C3SLN3	8.15		Ki	CHEMBL	=	Escherichia coli	CO[C@@H]1[C@@H](OC(N)=O)[C@@H](O)[C@H](OC2=CC=C3C(O)=C(NC(=O)C4=CC(CC=C(C)C)=C(O)C=C4)C(=O)OC3=C2C)OC1(C)C	YJQPYGGHQPGBLI-KGSXXDOSSA-N	gram-negative
+ofloxacin	1981	DNA gyrase subunit A	P0AES4	5.28		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	CC1COC2=C(N3CCN(C)CC3)C(F)=CC3=C2N1C=C(C(O)=O)C3=O	GSDSWSVVBLHKDQ-UHFFFAOYSA-N	gram-negative
+oseltamivir	2001	Sialidase	P10481	9.0		IC50	CHEMBL	=	Clostridium perfringens	CCOC(=O)C1=C[C@@H](OC(CC)CC)[C@H](NC(C)=O)[C@@H](N)C1	VSZGPKBBMSAYNT-RRFJBIMHSA-N	gram-positive
+paclitaxel	2044	Botulinum neurotoxin type A	P10845	5.28		IC50	CHEMBL	=	Clostridium botulinum	CC(=O)O[C@@H]1C2=C(C)[C@H](C[C@@](O)([C@@H](OC(=O)C3=CC=CC=C3)[C@@H]3[C@@]4(CO[C@@H]4C[C@H](O)[C@@]3(C)C1=O)OC(C)=O)C2(C)C)OC(=O)[C@H](O)[C@@H](NC(=O)C1=CC=CC=C1)C1=CC=CC=C1	RCINICONZNJXQF-MZXODVADSA-N	gram-positive
+paroxetine	2068	Quinolone resistance protein NorA	P0A0J7	5.15		IC50	CHEMBL	=	Staphylococcus aureus	FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1	AHOUBRCZNHFOSL-YOEHRIQHSA-N	gram-positive
+pefloxacin	2071	DNA gyrase subunit A	P0AES4	6.785		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	CCN1C=C(C(O)=O)C(=O)C2=CC(F)=C(C=C12)N1CCN(C)CC1	FHFYDNQZQSQIAI-UHFFFAOYSA-N	gram-negative
+pefloxacin	2071	DNA gyrase subunit B	P0AES6	6.785		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	CCN1C=C(C(O)=O)C(=O)C2=CC(F)=C(C=C12)N1CCN(C)CC1	FHFYDNQZQSQIAI-UHFFFAOYSA-N	gram-negative
+pemetrexed	2073	Thymidylate synthase	P0A884	4.82		IC50	CHEMBL	=	Escherichia coli (strain K12)	NC1=NC(=O)C2=C(NC=C2CCC2=CC=C(C=C2)C(=O)N[C@@H](CCC(O)=O)C(O)=O)N1	WBXPDJSOTKVWSJ-ZDUSSCGKSA-N	gram-negative
+pemetrexed	2073	Dihydrofolate reductase	P00381	5.64		IC50	CHEMBL	=	Lactobacillus casei	NC1=NC(=O)C2=C(NC=C2CCC2=CC=C(C=C2)C(=O)N[C@@H](CCC(O)=O)C(O)=O)N1	WBXPDJSOTKVWSJ-ZDUSSCGKSA-N	acid-fast
+pemetrexed	2073	Thymidylate synthase	P00469	6.26		Ki	CHEMBL	=	Lactobacillus casei	NC1=NC(=O)C2=C(NC=C2CCC2=CC=C(C=C2)C(=O)N[C@@H](CCC(O)=O)C(O)=O)N1	WBXPDJSOTKVWSJ-ZDUSSCGKSA-N	acid-fast
+pemetrexed	2073	Dihydrofolate reductase	B0BL08	5.64		IC50	CHEMBL	=	Escherichia coli	NC1=NC(=O)C2=C(NC=C2CCC2=CC=C(C=C2)C(=O)N[C@@H](CCC(O)=O)C(O)=O)N1	WBXPDJSOTKVWSJ-ZDUSSCGKSA-N	gram-negative
+pemetrexed	2073	Thymidylate synthase	C3SWJ7	5.96		IC50	CHEMBL	=	Escherichia coli	NC1=NC(=O)C2=C(NC=C2CCC2=CC=C(C=C2)C(=O)N[C@@H](CCC(O)=O)C(O)=O)N1	WBXPDJSOTKVWSJ-ZDUSSCGKSA-N	gram-negative
+pemetrexed	2073	Thymidylate synthase (EC 2.1.1.45) (TS) (TSase)	E2QDN0	4.12		IC50	CHEMBL	=	Escherichia coli	NC1=NC(=O)C2=C(NC=C2CCC2=CC=C(C=C2)C(=O)N[C@@H](CCC(O)=O)C(O)=O)N1	WBXPDJSOTKVWSJ-ZDUSSCGKSA-N	gram-negative
+penicillamine	2081	Succinyl-diaminopimelate desuccinylase	P44514	4.3		IC50	CHEMBL	=	Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)	CC(C)(S)[C@@H](N)C(O)=O	VVNCNSJFMMFHPL-VKHMYHEASA-N	gram-negative
+benzylpenicillin	2082	Beta-lactamase TEM	P62593	4.7		Ki	CHEMBL	=	Escherichia coli	CC1(C)S[C@@H]2[C@H](NC(=O)CC3=CC=CC=C3)C(=O)N2[C@H]1C(O)=O	JGSARLDLIJGVTE-MBNYWOFBSA-N	gram-negative
+benzylpenicillin	2082	Beta-lactamase	P05364	5.44		IC50	CHEMBL	=	Enterobacter cloacae	CC1(C)S[C@@H]2[C@H](NC(=O)CC3=CC=CC=C3)C(=O)N2[C@H]1C(O)=O	JGSARLDLIJGVTE-MBNYWOFBSA-N	gram-negative
+benzylpenicillin	2082	Beta-lactamase	P05364	5.44		IC50	CHEMBL	=	Enterobacter cloacae	CC1(C)S[C@@H]2[C@H](NC(=O)CC3=CC=CC=C3)C(=O)N2[C@H]1C(O)=O	JGSARLDLIJGVTE-MBNYWOFBSA-N	gram-negative
+phenolphthalein	2135	Thymidylate synthase	P0A884	5.33		Ki	CHEMBL	=	Escherichia coli (strain K12)	OC1=CC=C(C=C1)C1(OC(=O)C2=C1C=CC=C2)C1=CC=C(O)C=C1	KJFMBFZCATUALV-UHFFFAOYSA-N	gram-negative
+phenolphthalein	2135	Thymidylate synthase	P00469	5.33		Ki	CHEMBL	=	Lactobacillus casei	OC1=CC=C(C=C1)C1(OC(=O)C2=C1C=CC=C2)C1=CC=C(O)C=C1	KJFMBFZCATUALV-UHFFFAOYSA-N	acid-fast
+phenolphthalein	2135	Thymidylate synthase	Q834R3	5.85		Ki	CHEMBL	=	Enterococcus faecalis (strain ATCC 700802 / V583)	OC1=CC=C(C=C1)C1(OC(=O)C2=C1C=CC=C2)C1=CC=C(O)C=C1	KJFMBFZCATUALV-UHFFFAOYSA-N	gram-positive
+pimethixene	2169	Transcriptional activator protein luxR	P12746	4.25		IC50	CHEMBL	=	Aliivibrio fischeri	CN1CCC(CC1)=C1C2=CC=CC=C2SC2=C1C=CC=C2	NZLVRVYNQYGMAB-UHFFFAOYSA-N	gram-negative
+piperacillin	2187	Beta-lactamase	A2RP81	6.7		Ki	CHEMBL	=	Citrobacter freundii	CCN1CCN(C(=O)N[C@@H](C(=O)N[C@H]2[C@H]3SC(C)(C)[C@@H](N3C2=O)C(O)=O)C2=CC=CC=C2)C(=O)C1=O	IVBHGBMCVLDMKU-GXNBUGAJSA-N	gram-negative
+pyrimethamine	2332	Dihydrofolate reductase	B0BL08	8.92		Ki	CHEMBL	=	Escherichia coli	CCC1=NC(N)=NC(N)=C1C1=CC=C(Cl)C=C1	WKSAUQYGYAYLPV-UHFFFAOYSA-N	gram-negative
+mepacrine	2338	Bacterial DNA-directed RNA polymerase	P0A7Z4|P0A800|P0A8T7|P0A8V2	4.7		IC50	CHEMBL	=	Escherichia coli (strain K12)	CCN(CC)CCCC(C)NC1=C2C=C(OC)C=CC2=NC2=CC(Cl)=CC=C12	GPKJTRJOBQGKQK-UHFFFAOYSA-N	gram-negative
+raltitrexed	2353	Thymidylate synthase	P0A884	5.244		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	CN(CC1=CC2=C(C=C1)N=C(C)NC2=O)C1=CC=C(S1)C(=O)N[C@@H](CCC(O)=O)C(O)=O	IVTVGDXNLFLDRM-HNNXBMFYSA-N	gram-negative
+raltitrexed	2353	Thymidylate synthase	P00469	5.1		IC50	CHEMBL	=	Lactobacillus casei	CN(CC1=CC2=C(C=C1)N=C(C)NC2=O)C1=CC=C(S1)C(=O)N[C@@H](CCC(O)=O)C(O)=O	IVTVGDXNLFLDRM-HNNXBMFYSA-N	acid-fast
+raltitrexed	2353	Dihydrofolate reductase	B0BL08	4.64		IC50	CHEMBL	=	Escherichia coli	CN(CC1=CC2=C(C=C1)N=C(C)NC2=O)C1=CC=C(S1)C(=O)N[C@@H](CCC(O)=O)C(O)=O	IVTVGDXNLFLDRM-HNNXBMFYSA-N	gram-negative
+raltitrexed	2353	Thymidylate synthase	C3SWJ7	5.28		IC50	CHEMBL	=	Escherichia coli	CN(CC1=CC2=C(C=C1)N=C(C)NC2=O)C1=CC=C(S1)C(=O)N[C@@H](CCC(O)=O)C(O)=O	IVTVGDXNLFLDRM-HNNXBMFYSA-N	gram-negative
+reserpine	2370	Quinolone resistance protein NorA	P0A0J7	5.15		IC50	CHEMBL	=	Staphylococcus aureus	CO[C@H]1[C@@H](C[C@@H]2CN3CCC4=C(NC5=C4C=CC(OC)=C5)[C@H]3C[C@@H]2[C@@H]1C(=O)OC)OC(=O)C1=CC(OC)=C(OC)C(OC)=C1	QEVHRUUCFGRFIF-MDEJGZGSSA-N	gram-positive
+rifabutin	2376	DNA-directed RNA polymerase subunit beta	P9WGY9	8.0		Ki	WOMBAT-PK	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CO[C@H]1\C=C\O[C@@]2(C)OC3=C(C2=O)C2=C(C(O)=C3C)C(=O)C(NC(=O)\C(C)=C/C=C/[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C)=C1NC3(CCN(CC(C)C)CC3)N=C21	ATEBXHFBFRCZMA-VXTBVIBXSA-N	acid-fast
+rifampicin	2377	Enoyl-[acyl-carrier-protein] reductase [NADH]	P9WGR1	7.52		IC50	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CO[C@H]1\C=C\O[C@@]2(C)OC3=C(C)C(O)=C4C(O)=C(NC(=O)\C(C)=C/C=C/[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C)C(C=NN1CCN(C)CC1)=C(O)C4=C3C2=O	JQXXHWHPUNPDRT-ZNQWNCHJSA-N	acid-fast
+secnidazole	2427	3-oxoacyl-[acyl-carrier-protein] synthase 3	C3TDZ2	4.55		IC50	CHEMBL	=	Escherichia coli	CC(O)CN1C(C)=NC=C1[N+]([O-])=O	KPQZUUQMTUIKBP-UHFFFAOYSA-N	gram-negative
+sertraline	2436	Transcriptional activator protein luxR	P12746	4.57		IC50	CHEMBL	=	Aliivibrio fischeri	CN[C@H]1CC[C@@H](C2=CC(Cl)=C(Cl)C=C2)C2=CC=CC=C12	VGKDLMBJGBXTGI-SJCJKPOMSA-N	gram-negative
+sitagliptin	2448	Dipeptidyl peptidase IV	O31048	4.75		IC50	CHEMBL	=	Porphyromonas gingivalis	N[C@@H](CC(=O)N1CCN2C(C1)=NN=C2C(F)(F)F)CC1=C(F)C=C(F)C(F)=C1	MFFMDFFZMYYVKS-SECBINFHSA-N	gram-negative
+sulbactam	2492	Beta-lactamase	P00807	5.19		IC50	CHEMBL	=	Staphylococcus aureus	CC1(C)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	FKENQMMABCRJMK-RITPCOANSA-N	gram-positive
+sulbactam	2492	Beta-lactamase TEM	P62593	6.1		Ki	CHEMBL	=	Escherichia coli	CC1(C)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	FKENQMMABCRJMK-RITPCOANSA-N	gram-negative
+sulbactam	2492	Beta-lactamase	P00811	4.18		IC50	CHEMBL	=	Escherichia coli (strain K12)	CC1(C)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	FKENQMMABCRJMK-RITPCOANSA-N	gram-negative
+sulbactam	2492	Beta-lactamase SHV-1	P0AD63	5.41		IC50	CHEMBL	=	Escherichia coli	CC1(C)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	FKENQMMABCRJMK-RITPCOANSA-N	gram-negative
+sulbactam	2492	Beta-lactamase	P05364	6.0		IC50	CHEMBL	=	Enterobacter cloacae	CC1(C)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	FKENQMMABCRJMK-RITPCOANSA-N	gram-negative
+sulbactam	2492	Beta-lactamase OXA-1	P13661	4.66		IC50	CHEMBL	=	Escherichia coli	CC1(C)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	FKENQMMABCRJMK-RITPCOANSA-N	gram-negative
+sulbactam	2492	Beta-lactamase	P24735	4.57		IC50	CHEMBL	=	Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228)	CC1(C)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	FKENQMMABCRJMK-RITPCOANSA-N	gram-negative
+sulbactam	2492	Beta-lactamase	A1E3K9	5.21		IC50	CHEMBL	=	Escherichia coli	CC1(C)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	FKENQMMABCRJMK-RITPCOANSA-N	gram-negative
+sulbactam	2492	Beta-lactamase	A8RR46	7.12		IC50	CHEMBL	=	Bacillus clausii	CC1(C)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	FKENQMMABCRJMK-RITPCOANSA-N	gram-positive
+sulbactam	2492	Carbapenem-hydrolizing beta-lactamase SFC-1	Q6JP75	4.64		IC50	CHEMBL	=	Serratia fonticola	CC1(C)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	FKENQMMABCRJMK-RITPCOANSA-N	gram-negative
+sulbactam	2492	Beta-lactamase GES-13	D1MIX9	6.43		IC50	CHEMBL	=	Pseudomonas aeruginosa	CC1(C)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	FKENQMMABCRJMK-RITPCOANSA-N	gram-negative
+sulbactam	2492	Class D beta-lactamase	Q50H31	4.92		IC50	CHEMBL	=	Brachyspira pilosicoli	CC1(C)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	FKENQMMABCRJMK-RITPCOANSA-N	gram-negative
+sulbactam	2492	Beta-lactamase	Q7X575	5.62		IC50	CHEMBL	=	Escherichia coli	CC1(C)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	FKENQMMABCRJMK-RITPCOANSA-N	gram-negative
+sulbactam	2492	Beta-lactamase	Q0VTR6	5.95		IC50	CHEMBL	=	Acinetobacter pittii	CC1(C)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	FKENQMMABCRJMK-RITPCOANSA-N	gram-negative
+sulbactam	2492	Beta-lactamase	Q0VTR8	5.11		IC50	CHEMBL	=	Acinetobacter pittii	CC1(C)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	FKENQMMABCRJMK-RITPCOANSA-N	gram-negative
+sulbactam	2492	Beta-lactamase	D5HSX5	5.4		IC50	CHEMBL	=	Aeromonas allosaccharophila	CC1(C)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	FKENQMMABCRJMK-RITPCOANSA-N	gram-negative
+sulbactam	2492	Beta-lactamase TEM	P62594	6.1		Ki	WOMBAT-PK	=	Salmonella typhi	CC1(C)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	FKENQMMABCRJMK-RITPCOANSA-N	gram-negative
+sulbactam	2492	ADC-18 protein	Q0VTS0	4.93		IC50	CHEMBL	=	Acinetobacter pittii	CC1(C)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	FKENQMMABCRJMK-RITPCOANSA-N	gram-negative
+sulbactam	2492	Beta-lactamase 1	P00809	4.6		IC50	CHEMBL	=	Bacillus cereus	CC1(C)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	FKENQMMABCRJMK-RITPCOANSA-N	gram-positive
+sulbactam	2492	Beta-lactamase	D2SSQ3	5.52		IC50	CHEMBL	=	Pseudomonas aeruginosa	CC1(C)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	FKENQMMABCRJMK-RITPCOANSA-N	gram-negative
+sulbactam	2492	Beta-lactamase	Q3SAW3	5.52		IC50	CHEMBL	=	Pseudomonas aeruginosa	CC1(C)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	FKENQMMABCRJMK-RITPCOANSA-N	gram-negative
+sulconazole	2495	Beta-lactamase	P00811	4.85		IC50	CHEMBL	=	Escherichia coli (strain K12)	ClC1=CC=C(CS[C@@H](CN2C=CN=C2)C2=CC=C(Cl)C=C2Cl)C=C1	AFNXATANNDIXLG-SFHVURJKSA-N	gram-negative
+sulfamethoxazole	2514	Dihydropteroate synthase	P0AC13	5.33		IC50	CHEMBL	=	Escherichia coli (strain K12)	CC1=CC(NS(=O)(=O)C2=CC=C(N)C=C2)=NO1	JLKIGFTWXXRPMT-UHFFFAOYSA-N	gram-negative
+sulfanilamide	2521	Carbonic anhydrase	O24855	6.37		Ki	CHEMBL	=	Helicobacter pylori (strain ATCC 700392 / 26695)	NC1=CC=C(C=C1)S(N)(=O)=O	FDDDEECHVMSUSB-UHFFFAOYSA-N	gram-negative
+sulfanilamide	2521	Carbonic anhydrase	Q50565	4.24		Ki	CHEMBL	=	Methanothermobacter thermautotrophicus (strain ATCC 29096 / DSM 1053 / JCM 10044 / NBRC 100330 / Delta H)	NC1=CC=C(C=C1)S(N)(=O)=O	FDDDEECHVMSUSB-UHFFFAOYSA-N	gram-positive
+sulfanilamide	2521	Probable transmembrane carbonic anhydrase (Carbonate dehydratase) (Carbonic dehydratase); Transmembrane carbonic anhydrase	P96878	5.2		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	NC1=CC=C(C=C1)S(N)(=O)=O	FDDDEECHVMSUSB-UHFFFAOYSA-N	acid-fast
+sulfanilamide	2521	Beta-carbonic anhydrase 1	P9WPJ7	5.03		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	NC1=CC=C(C=C1)S(N)(=O)=O	FDDDEECHVMSUSB-UHFFFAOYSA-N	acid-fast
+sulfanilamide	2521	Carbonic anhydrase 2	P9WPJ9	4.53		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	NC1=CC=C(C=C1)S(N)(=O)=O	FDDDEECHVMSUSB-UHFFFAOYSA-N	acid-fast
+sulfanilamide	2521	Carbonic anhydrase, alpha family	Q31FD6	6.2		Ki	CHEMBL	=	Hydrogenovibrio crunogenus (strain XCL-2)	NC1=CC=C(C=C1)S(N)(=O)=O	FDDDEECHVMSUSB-UHFFFAOYSA-N	gram-negative
+sulfanilamide	2521	Carbonate dehydratase	B2V8E3	6.19		Ki	CHEMBL	=	Sulfurihydrogenibium sp. (strain YO3AOP1)	NC1=CC=C(C=C1)S(N)(=O)=O	FDDDEECHVMSUSB-UHFFFAOYSA-N	gram-negative
+sulfathiazole	2527	Dihydropteroate synthase	P0AC13	5.6		IC50	CHEMBL	=	Escherichia coli (strain K12)	NC1=CC=C(C=C1)S(=O)(=O)NC1=NC=CS1	JNMRHUJNCSQMMB-UHFFFAOYSA-N	gram-negative
+sulfathiazole	2527	Transcriptional activator protein LasR	P25084	5.05		IC50	CHEMBL	=	Pseudomonas aeruginosa	NC1=CC=C(C=C1)S(=O)(=O)NC1=NC=CS1	JNMRHUJNCSQMMB-UHFFFAOYSA-N	gram-negative
+sulpiride	2537	Carbonic anhydrase	O24855	6.75		Ki	CHEMBL	=	Helicobacter pylori (strain ATCC 700392 / 26695)	CCN1CCCC1CNC(=O)C1=C(OC)C=CC(=C1)S(N)(=O)=O	BGRJTUBHPOOWDU-UHFFFAOYSA-N	gram-negative
+sulpiride	2537	Beta-carbonic anhydrase 1	P9WPJ7	5.64		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CCN1CCCC1CNC(=O)C1=C(OC)C=CC(=C1)S(N)(=O)=O	BGRJTUBHPOOWDU-UHFFFAOYSA-N	acid-fast
+sulpiride	2537	Carbonic anhydrase 2	P9WPJ9	6.58		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CCN1CCCC1CNC(=O)C1=C(OC)C=CC(=C1)S(N)(=O)=O	BGRJTUBHPOOWDU-UHFFFAOYSA-N	acid-fast
+sulpiride	2537	Carbonic anhydrase, alpha family	Q31FD6	6.06		Ki	CHEMBL	=	Hydrogenovibrio crunogenus (strain XCL-2)	CCN1CCCC1CNC(=O)C1=C(OC)C=CC(=C1)S(N)(=O)=O	BGRJTUBHPOOWDU-UHFFFAOYSA-N	gram-negative
+sulpiride	2537	Carbonate dehydratase	B2V8E3	7.17		Ki	CHEMBL	=	Sulfurihydrogenibium sp. (strain YO3AOP1)	CCN1CCCC1CNC(=O)C1=C(OC)C=CC(=C1)S(N)(=O)=O	BGRJTUBHPOOWDU-UHFFFAOYSA-N	gram-negative
+sultiame	2540	Beta-carbonic anhydrase 1	P9WPJ7	5.29		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	NS(=O)(=O)C1=CC=C(C=C1)N1CCCCS1(=O)=O	HMHVCUVYZFYAJI-UHFFFAOYSA-N	acid-fast
+sultiame	2540	Carbonic anhydrase 2	P9WPJ9	6.18		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	NS(=O)(=O)C1=CC=C(C=C1)N1CCCCS1(=O)=O	HMHVCUVYZFYAJI-UHFFFAOYSA-N	acid-fast
+sultiame	2540	Carbonic anhydrase, alpha family	Q31FD6	6.37		Ki	CHEMBL	=	Hydrogenovibrio crunogenus (strain XCL-2)	NS(=O)(=O)C1=CC=C(C=C1)N1CCCCS1(=O)=O	HMHVCUVYZFYAJI-UHFFFAOYSA-N	gram-negative
+sultiame	2540	Carbonate dehydratase	B2V8E3	8.11		Ki	CHEMBL	=	Sulfurihydrogenibium sp. (strain YO3AOP1)	NS(=O)(=O)C1=CC=C(C=C1)N1CCCCS1(=O)=O	HMHVCUVYZFYAJI-UHFFFAOYSA-N	gram-negative
+tamoxifen	2561	Transcriptional activator protein luxR	P12746	4.4		IC50	CHEMBL	=	Aliivibrio fischeri	CC\C(=C(/C1=CC=CC=C1)C1=CC=C(OCCN(C)C)C=C1)C1=CC=CC=C1	NKANXQFJJICGDU-QPLCGJKRSA-N	gram-negative
+tazobactam	2572	Beta-lactamase	P00808	6.29		IC50	CHEMBL	=	Bacillus licheniformis	C[C@]1(CN2C=CN=N2)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	LPQZKKCYTLCDGQ-WEDXCCLWSA-N	gram-positive
+tazobactam	2572	Beta-lactamase	P00807	6.527		IC50	WOMBAT-PK	=	Staphylococcus aureus	C[C@]1(CN2C=CN=N2)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	LPQZKKCYTLCDGQ-WEDXCCLWSA-N	gram-positive
+tazobactam	2572	Beta-lactamase TEM	P62593	6.602		IC50	WOMBAT-PK	=	Escherichia coli	C[C@]1(CN2C=CN=N2)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	LPQZKKCYTLCDGQ-WEDXCCLWSA-N	gram-negative
+tazobactam	2572	Beta-lactamase	P00811	7.824		IC50	WOMBAT-PK	=	Escherichia coli (strain K12)	C[C@]1(CN2C=CN=N2)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	LPQZKKCYTLCDGQ-WEDXCCLWSA-N	gram-negative
+tazobactam	2572	Beta-lactamase	Q59401	5.47		IC50	CHEMBL	=	Enterobacter cloacae	C[C@]1(CN2C=CN=N2)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	LPQZKKCYTLCDGQ-WEDXCCLWSA-N	gram-negative
+tazobactam	2572	Beta-lactamase SHV-1	P0AD63	6.65		IC50	CHEMBL	=	Escherichia coli	C[C@]1(CN2C=CN=N2)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	LPQZKKCYTLCDGQ-WEDXCCLWSA-N	gram-negative
+tazobactam	2572	Beta-lactamase 1	P10424	6.524		IC50	DRUG MATRIX	=	Bacillus cereus	C[C@]1(CN2C=CN=N2)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	LPQZKKCYTLCDGQ-WEDXCCLWSA-N	gram-positive
+tazobactam	2572	IMI-1; IMI-1 carbapenemase	Q46991	7.52		IC50	CHEMBL	=	Enterobacter cloacae	C[C@]1(CN2C=CN=N2)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	LPQZKKCYTLCDGQ-WEDXCCLWSA-N	gram-negative
+tazobactam	2572	Beta-lactamase	P05364	7.0		IC50	CHEMBL	=	Enterobacter cloacae	C[C@]1(CN2C=CN=N2)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	LPQZKKCYTLCDGQ-WEDXCCLWSA-N	gram-negative
+tazobactam	2572	Beta-lactamase	Q6W9J1	7.22		IC50	CHEMBL	=	Enterobacter cloacae	C[C@]1(CN2C=CN=N2)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	LPQZKKCYTLCDGQ-WEDXCCLWSA-N	gram-negative
+tazobactam	2572	Beta-lactamase	P24735	6.09		IC50	CHEMBL	=	Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228)	C[C@]1(CN2C=CN=N2)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	LPQZKKCYTLCDGQ-WEDXCCLWSA-N	gram-negative
+tazobactam	2572	Beta-lactamase	P94958	6.72		IC50	CHEMBL	=	Morganella morganii	C[C@]1(CN2C=CN=N2)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	LPQZKKCYTLCDGQ-WEDXCCLWSA-N	gram-negative
+tazobactam	2572	Beta-lactamase	P05193	6.03		IC50	CHEMBL	=	Citrobacter freundii	C[C@]1(CN2C=CN=N2)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	LPQZKKCYTLCDGQ-WEDXCCLWSA-N	gram-negative
+tazobactam	2572	Beta-lactamase	A4KCT8	7.4		IC50	CHEMBL	=	Citrobacter gillenii	C[C@]1(CN2C=CN=N2)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	LPQZKKCYTLCDGQ-WEDXCCLWSA-N	gram-negative
+tazobactam	2572	Beta-lactamase	A1E3K9	8.0		IC50	CHEMBL	=	Escherichia coli	C[C@]1(CN2C=CN=N2)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	LPQZKKCYTLCDGQ-WEDXCCLWSA-N	gram-negative
+tazobactam	2572	Beta-lactamase	A8RR46	8.4		IC50	CHEMBL	=	Bacillus clausii	C[C@]1(CN2C=CN=N2)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	LPQZKKCYTLCDGQ-WEDXCCLWSA-N	gram-positive
+tazobactam	2572	Carbapenem-hydrolizing beta-lactamase SFC-1	Q6JP75	5.16		IC50	CHEMBL	=	Serratia fonticola	C[C@]1(CN2C=CN=N2)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	LPQZKKCYTLCDGQ-WEDXCCLWSA-N	gram-negative
+tazobactam	2572	Carbepenem-hydrolyzing beta-lactamase KPC	Q9F663	4.13		Ki	CHEMBL	=	Klebsiella pneumoniae	C[C@]1(CN2C=CN=N2)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	LPQZKKCYTLCDGQ-WEDXCCLWSA-N	gram-negative
+tazobactam	2572	Beta-lactamase	A2RP81	7.02		IC50	CHEMBL	=	Citrobacter freundii	C[C@]1(CN2C=CN=N2)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	LPQZKKCYTLCDGQ-WEDXCCLWSA-N	gram-negative
+tazobactam	2572	Beta-lactamase	Q9EXV5	8.7		IC50	CHEMBL	=	Escherichia coli	C[C@]1(CN2C=CN=N2)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	LPQZKKCYTLCDGQ-WEDXCCLWSA-N	gram-negative
+tazobactam	2572	Beta-lactamase SHV-1	P0AD64	6.96		IC50	CHEMBL	=	Klebsiella pneumoniae	C[C@]1(CN2C=CN=N2)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	LPQZKKCYTLCDGQ-WEDXCCLWSA-N	gram-negative
+tazobactam	2572	Beta-lactamase	Q6GWS8	6.62		IC50	CHEMBL	=	Escherichia coli	C[C@]1(CN2C=CN=N2)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	LPQZKKCYTLCDGQ-WEDXCCLWSA-N	gram-negative
+tazobactam	2572	Beta-lactamase GES-13	D1MIX9	7.22		IC50	CHEMBL	=	Pseudomonas aeruginosa	C[C@]1(CN2C=CN=N2)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	LPQZKKCYTLCDGQ-WEDXCCLWSA-N	gram-negative
+tazobactam	2572	Beta-lactamase	A0ZX81	7.1		IC50	CHEMBL	=	Klebsiella pneumoniae	C[C@]1(CN2C=CN=N2)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	LPQZKKCYTLCDGQ-WEDXCCLWSA-N	gram-negative
+tazobactam	2572	Class D beta-lactamase	Q50H31	6.8		IC50	CHEMBL	=	Brachyspira pilosicoli	C[C@]1(CN2C=CN=N2)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	LPQZKKCYTLCDGQ-WEDXCCLWSA-N	gram-negative
+tazobactam	2572	Beta-lactamase	B8R6A5	6.3		IC50	CHEMBL	=	Burkholderia cenocepacia	C[C@]1(CN2C=CN=N2)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	LPQZKKCYTLCDGQ-WEDXCCLWSA-N	gram-negative
+tazobactam	2572	Beta-lactamase	Q2XPY6	8.66		IC50	CHEMBL	=	Salmonella enterica subsp. enterica serovar Westhampton	C[C@]1(CN2C=CN=N2)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	LPQZKKCYTLCDGQ-WEDXCCLWSA-N	gram-negative
+tazobactam	2572	Beta-lactamase	D2SSQ3	5.7		IC50	CHEMBL	=	Pseudomonas aeruginosa	C[C@]1(CN2C=CN=N2)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	LPQZKKCYTLCDGQ-WEDXCCLWSA-N	gram-negative
+tazobactam	2572	Beta-lactamase	Q3SAW3	5.7		IC50	CHEMBL	=	Pseudomonas aeruginosa	C[C@]1(CN2C=CN=N2)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	LPQZKKCYTLCDGQ-WEDXCCLWSA-N	gram-negative
+tazobactam	2572	Beta-lactamase	Q670S6	7.4		IC50	CHEMBL	=	Pseudomonas luteola	C[C@]1(CN2C=CN=N2)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	LPQZKKCYTLCDGQ-WEDXCCLWSA-N	gram-negative
+terfenadine	2600	Transcriptional activator protein luxR	P12746	4.04		IC50	CHEMBL	=	Aliivibrio fischeri	CC(C)(C)C1=CC=C(C=C1)C(O)CCCN1CCC(CC1)C(O)(C1=CC=CC=C1)C1=CC=CC=C1	GUGOEEXESWIERI-UHFFFAOYSA-N	gram-negative
+tetroxoprim	2615	Dihydrofolate reductase	P0ABQ4	8.35		Ki	WOMBAT-PK	=	Escherichia coli (strain K12)	COCCOC1=C(OC)C=C(CC2=CN=C(N)N=C2N)C=C1OC	WSWJIZXMAUYHOE-UHFFFAOYSA-N	gram-negative
+tetroxoprim	2615	Dihydrofolate reductase	P00381	6.26		Ki	CHEMBL	=	Lactobacillus casei	COCCOC1=C(OC)C=C(CC2=CN=C(N)N=C2N)C=C1OC	WSWJIZXMAUYHOE-UHFFFAOYSA-N	acid-fast
+tetroxoprim	2615	Dihydrofolate reductase	B0BL08	7.74		IC50	CHEMBL	=	Escherichia coli	COCCOC1=C(OC)C=C(CC2=CN=C(N)N=C2N)C=C1OC	WSWJIZXMAUYHOE-UHFFFAOYSA-N	gram-negative
+tetroxoprim	2615	Dihydrofolate reductase	Q8Z9J9	8.35		Ki	CHEMBL	=	Salmonella typhi	COCCOC1=C(OC)C=C(CC2=CN=C(N)N=C2N)C=C1OC	WSWJIZXMAUYHOE-UHFFFAOYSA-N	gram-negative
+thiabendazole	2621	Methionine aminopeptidase	P0AE18	6.33		IC50	CHEMBL	=	Escherichia coli (strain K12)	N1C2=C(C=CC=C2)N=C1C1=CSC=N1	WJCNZQLZVWNLKY-UHFFFAOYSA-N	gram-negative
+tiocarlide	2673	Epoxide hydrolase EphE; Hydrolase, alpha/beta hydrolase fold family	O69638	7.66		IC50	CHEMBL	=	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	CC(C)CCOC1=CC=C(NC(=S)NC2=CC=C(OCCC(C)C)C=C2)C=C1	BWBONKHPVHMQHE-UHFFFAOYSA-N	acid-fast
+topiramate	2706	Carbonic anhydrase	O24855	6.76		Ki	CHEMBL	=	Helicobacter pylori (strain ATCC 700392 / 26695)	CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1	KJADKKWYZYXHBB-XBWDGYHZSA-N	gram-negative
+topiramate	2706	Carbonic anhydrase	Q50565	4.63		Ki	CHEMBL	=	Methanothermobacter thermautotrophicus (strain ATCC 29096 / DSM 1053 / JCM 10044 / NBRC 100330 / Delta H)	CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1	KJADKKWYZYXHBB-XBWDGYHZSA-N	gram-positive
+topiramate	2706	Probable transmembrane carbonic anhydrase (Carbonate dehydratase) (Carbonic dehydratase); Transmembrane carbonic anhydrase	P96878	5.52		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1	KJADKKWYZYXHBB-XBWDGYHZSA-N	acid-fast
+topiramate	2706	Beta-carbonic anhydrase 1	P9WPJ7	6.21		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1	KJADKKWYZYXHBB-XBWDGYHZSA-N	acid-fast
+topiramate	2706	Carbonic anhydrase 2	P9WPJ9	6.32		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1	KJADKKWYZYXHBB-XBWDGYHZSA-N	acid-fast
+topiramate	2706	Carbonic anhydrase, alpha family	Q31FD6	6.11		Ki	CHEMBL	=	Hydrogenovibrio crunogenus (strain XCL-2)	CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1	KJADKKWYZYXHBB-XBWDGYHZSA-N	gram-negative
+topiramate	2706	Carbonate dehydratase	B2V8E3	8.18		Ki	CHEMBL	=	Sulfurihydrogenibium sp. (strain YO3AOP1)	CC1(C)O[C@@H]2CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@H]3[C@@H]2O1	KJADKKWYZYXHBB-XBWDGYHZSA-N	gram-negative
+trifluridine	2743	Thymidylate kinase	P9WKE1	4.01		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	OC[C@H]1O[C@H](C[C@@H]1O)N1C=C(C(=O)NC1=O)C(F)(F)F	VSQQQLOSPVPRAZ-RRKCRQDMSA-N	acid-fast
+trimethoprim	2755	Dihydrofolate reductase	P0ABQ4	5.57		IC50	CHEMBL	=	Escherichia coli (strain K12)	COC1=CC(CC2=CN=C(N)N=C2N)=CC(OC)=C1OC	IEDVJHCEMCRBQM-UHFFFAOYSA-N	gram-negative
+trimethoprim	2755	Dihydrofolate reductase	P00381	6.88		Ki	CHEMBL	=	Lactobacillus casei	COC1=CC(CC2=CN=C(N)N=C2N)=CC(OC)=C1OC	IEDVJHCEMCRBQM-UHFFFAOYSA-N	acid-fast
+trimethoprim	2755	Dihydrofolate reductase	O30463	6.72		IC50	CHEMBL	=	Mycobacterium avium	COC1=CC(CC2=CN=C(N)N=C2N)=CC(OC)=C1OC	IEDVJHCEMCRBQM-UHFFFAOYSA-N	gram-positive
+trimethoprim	2755	Dihydrofolate reductase	B0BL08	8.89		Ki	CHEMBL	=	Escherichia coli	COC1=CC(CC2=CN=C(N)N=C2N)=CC(OC)=C1OC	IEDVJHCEMCRBQM-UHFFFAOYSA-N	gram-negative
+trimethoprim	2755	Dihydrofolate reductase	P0A017	8.92		Ki	CHEMBL	=	Staphylococcus aureus	COC1=CC(CC2=CN=C(N)N=C2N)=CC(OC)=C1OC	IEDVJHCEMCRBQM-UHFFFAOYSA-N	gram-positive
+trimethoprim	2755	Dihydrofolate reductase	P04174	6.35		IC50	CHEMBL	=	Neisseria gonorrhoeae	COC1=CC(CC2=CN=C(N)N=C2N)=CC(OC)=C1OC	IEDVJHCEMCRBQM-UHFFFAOYSA-N	gram-negative
+trimethoprim	2755	Dihydrofolate reductase	Q59487	6.35		IC50	CHEMBL	=	Lactococcus lactis subsp. lactis (strain IL1403)	COC1=CC(CC2=CN=C(N)N=C2N)=CC(OC)=C1OC	IEDVJHCEMCRBQM-UHFFFAOYSA-N	gram-positive
+trimethoprim	2755	Dihydrofolate reductase	Q81R22	4.62		Ki	CHEMBL	=	Bacillus anthracis	COC1=CC(CC2=CN=C(N)N=C2N)=CC(OC)=C1OC	IEDVJHCEMCRBQM-UHFFFAOYSA-N	gram-positive
+trimethoprim	2755	Dihydrofolate reductase type 1	P00382	6.3		IC50	CHEMBL	=	Escherichia coli	COC1=CC(CC2=CN=C(N)N=C2N)=CC(OC)=C1OC	IEDVJHCEMCRBQM-UHFFFAOYSA-N	gram-negative
+trimethoprim	2755	Dihydrofolate reductase	Q8Z9J9	8.08		Ki	CHEMBL	=	Salmonella typhi	COC1=CC(CC2=CN=C(N)N=C2N)=CC(OC)=C1OC	IEDVJHCEMCRBQM-UHFFFAOYSA-N	gram-negative
+trimethoprim	2755	Dihydrofolate reductase	Q54801	4.38		IC50	CHEMBL	=	Streptococcus pneumoniae serotype 4 (strain ATCC BAA-334 / TIGR4)	COC1=CC(CC2=CN=C(N)N=C2N)=CC(OC)=C1OC	IEDVJHCEMCRBQM-UHFFFAOYSA-N	gram-positive
+trimetrexate	2757	Dihydrofolate reductase	P0ABQ4	8.0		IC50	CHEMBL	=	Escherichia coli (strain K12)	COC1=CC(NCC2=CC=C3N=C(N)N=C(N)C3=C2C)=CC(OC)=C1OC	NOYPYLRCIDNJJB-UHFFFAOYSA-N	gram-negative
+trimetrexate	2757	Dihydrofolate reductase	P00381	7.57		IC50	CHEMBL	=	Lactobacillus casei	COC1=CC(NCC2=CC=C3N=C(N)N=C(N)C3=C2C)=CC(OC)=C1OC	NOYPYLRCIDNJJB-UHFFFAOYSA-N	acid-fast
+trimetrexate	2757	Dihydrofolate reductase	O30463	8.82		IC50	CHEMBL	=	Mycobacterium avium	COC1=CC(NCC2=CC=C3N=C(N)N=C(N)C3=C2C)=CC(OC)=C1OC	NOYPYLRCIDNJJB-UHFFFAOYSA-N	gram-positive
+trimetrexate	2757	Dihydrofolate reductase	B0BL08	8.15		IC50	CHEMBL	=	Escherichia coli	COC1=CC(NCC2=CC=C3N=C(N)N=C(N)C3=C2C)=CC(OC)=C1OC	NOYPYLRCIDNJJB-UHFFFAOYSA-N	gram-negative
+ubenimex	2787	Bacterial leucyl aminopeptidase	Q01693	8.8		Ki	CHEMBL	=	Vibrio proteolyticus	CC(C)C[C@H](NC(=O)[C@@H](O)[C@H](N)CC1=CC=CC=C1)C(O)=O	VGGGPCQERPFHOB-RDBSUJKOSA-N	gram-negative
+valdecoxib	2799	Carbonic anhydrase	Q50565	4.21		Ki	CHEMBL	=	Methanothermobacter thermautotrophicus (strain ATCC 29096 / DSM 1053 / JCM 10044 / NBRC 100330 / Delta H)	CC1=C(C(=NO1)C1=CC=CC=C1)C1=CC=C(C=C1)S(N)(=O)=O	LNPDTQAFDNKSHK-UHFFFAOYSA-N	gram-positive
+valdecoxib	2799	Probable transmembrane carbonic anhydrase (Carbonate dehydratase) (Carbonic dehydratase); Transmembrane carbonic anhydrase	P96878	5.11		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CC1=C(C(=NO1)C1=CC=CC=C1)C1=CC=C(C=C1)S(N)(=O)=O	LNPDTQAFDNKSHK-UHFFFAOYSA-N	acid-fast
+valdecoxib	2799	Beta-carbonic anhydrase 1	P9WPJ7	4.89		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CC1=C(C(=NO1)C1=CC=CC=C1)C1=CC=C(C=C1)S(N)(=O)=O	LNPDTQAFDNKSHK-UHFFFAOYSA-N	acid-fast
+valdecoxib	2799	Carbonic anhydrase 2	P9WPJ9	6.17		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CC1=C(C(=NO1)C1=CC=CC=C1)C1=CC=C(C=C1)S(N)(=O)=O	LNPDTQAFDNKSHK-UHFFFAOYSA-N	acid-fast
+valdecoxib	2799	Carbonic anhydrase, alpha family	Q31FD6	6.28		Ki	CHEMBL	=	Hydrogenovibrio crunogenus (strain XCL-2)	CC1=C(C(=NO1)C1=CC=CC=C1)C1=CC=C(C=C1)S(N)(=O)=O	LNPDTQAFDNKSHK-UHFFFAOYSA-N	gram-negative
+valdecoxib	2799	Carbonate dehydratase	B2V8E3	8.28		Ki	CHEMBL	=	Sulfurihydrogenibium sp. (strain YO3AOP1)	CC1=C(C(=NO1)C1=CC=CC=C1)C1=CC=C(C=C1)S(N)(=O)=O	LNPDTQAFDNKSHK-UHFFFAOYSA-N	gram-negative
+vancomycin	2807	D-alanyl-D-alanine dipeptidase	Q06241	4.21		Ki	CHEMBL	=	Enterococcus faecium	CN[C@H](CC(C)C)C(=O)N[C@@H]1[C@H](O)C2=CC=C(OC3=C(O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O[C@H]4C[C@](C)(N)[C@H](O)[C@H](C)O4)C4=CC(=C3)[C@@H](NC(=O)[C@H](CC(N)=O)NC1=O)C(=O)N[C@@H]1C3=CC(=C(O)C=C3)C3=C(C=C(O)C=C3O)[C@H](NC(=O)[C@@H](NC1=O)[C@H](O)C1=CC=C(O4)C(Cl)=C1)C(O)=O)C(Cl)=C2	MYPYJXKWCTUITO-LYRMYLQWSA-N	gram-positive
+vancomycin	2807	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	P17443	5.0		IC50	CHEMBL	=	Escherichia coli (strain K12)	CN[C@H](CC(C)C)C(=O)N[C@@H]1[C@H](O)C2=CC=C(OC3=C(O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O[C@H]4C[C@](C)(N)[C@H](O)[C@H](C)O4)C4=CC(=C3)[C@@H](NC(=O)[C@H](CC(N)=O)NC1=O)C(=O)N[C@@H]1C3=CC(=C(O)C=C3)C3=C(C=C(O)C=C3O)[C@H](NC(=O)[C@@H](NC1=O)[C@H](O)C1=CC=C(O4)C(Cl)=C1)C(O)=O)C(Cl)=C2	MYPYJXKWCTUITO-LYRMYLQWSA-N	gram-negative
+voriconazole	2846	Lanosterol 14-alpha demethylase	P9WPP9	5.844		MIC	WOMBAT-PK	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	C[C@@H](C1=NC=NC=C1F)[C@](O)(CN1C=NC=N1)C1=C(F)C=C(F)C=C1	BCEHBSKCWLPMDN-MGPLVRAMSA-N	acid-fast
+zidovudine	2861	Thymidylate kinase	P9WKE1	4.55		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CC1=CN([C@H]2C[C@H](N=[N+]=[N-])[C@@H](CO)O2)C(=O)NC1=O	HBOMLICNUCNMMY-XLPZGREQSA-N	acid-fast
+zoledronic acid	2868	Farnesyl diphosphate synthase	P22939	5.96		IC50	CHEMBL	=	Escherichia coli (strain K12)	OC(CN1C=CN=C1)(P(O)(O)=O)P(O)(O)=O	XRASPMIURGNCCH-UHFFFAOYSA-N	gram-negative
+zonisamide	2872	Carbonic anhydrase	O24855	6.66		Ki	CHEMBL	=	Helicobacter pylori (strain ATCC 700392 / 26695)	NS(=O)(=O)CC1=NOC2=CC=CC=C12	UBQNRHZMVUUOMG-UHFFFAOYSA-N	gram-negative
+zonisamide	2872	Probable transmembrane carbonic anhydrase (Carbonate dehydratase) (Carbonic dehydratase); Transmembrane carbonic anhydrase	P96878	6.68		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	NS(=O)(=O)CC1=NOC2=CC=CC=C12	UBQNRHZMVUUOMG-UHFFFAOYSA-N	acid-fast
+zonisamide	2872	Beta-carbonic anhydrase 1	P9WPJ7	4.54		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	NS(=O)(=O)CC1=NOC2=CC=CC=C12	UBQNRHZMVUUOMG-UHFFFAOYSA-N	acid-fast
+zonisamide	2872	Carbonic anhydrase 2	P9WPJ9	6.06		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	NS(=O)(=O)CC1=NOC2=CC=CC=C12	UBQNRHZMVUUOMG-UHFFFAOYSA-N	acid-fast
+zonisamide	2872	Carbonic anhydrase, alpha family	Q31FD6	6.39		Ki	CHEMBL	=	Hydrogenovibrio crunogenus (strain XCL-2)	NS(=O)(=O)CC1=NOC2=CC=CC=C12	UBQNRHZMVUUOMG-UHFFFAOYSA-N	gram-negative
+zonisamide	2872	Carbonate dehydratase	B2V8E3	6.85		Ki	CHEMBL	=	Sulfurihydrogenibium sp. (strain YO3AOP1)	NS(=O)(=O)CC1=NOC2=CC=CC=C12	UBQNRHZMVUUOMG-UHFFFAOYSA-N	gram-negative
+broxuridine	3042	Thymidylate kinase	P9WKE1	5.3		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	OC[C@H]1O[C@H](C[C@@H]1O)N1C=C(Br)C(=O)NC1=O	WOVKYSAHUYNSMH-RRKCRQDMSA-N	acid-fast
+chlorquinaldol	3095	Botulinum neurotoxin type A	P10845	5.0		IC50	CHEMBL	=	Clostridium botulinum	CC1=NC2=C(O)C(Cl)=CC(Cl)=C2C=C1	GPTXWRGISTZRIO-UHFFFAOYSA-N	gram-positive
+oxyquinoline	3290	Bacterial leucyl aminopeptidase	Q01693	6.8		Ki	CHEMBL	=	Vibrio proteolyticus	OC1=CC=CC2=C1N=CC=C2	MCJGNVYPOGVAJF-UHFFFAOYSA-N	gram-negative
+methionine	3347	S-ribosylhomocysteine lyase	O34667	4.21		Ki	CHEMBL	=	Bacillus subtilis (strain 168)	CSCC[C@H](N)C(O)=O	FFEARJCKVFRZRR-BYPYZUCNSA-N	gram-positive
+quercetin	3514	Beta-lactamase	P00811	5.4		IC50	CHEMBL	=	Escherichia coli (strain K12)	OC1=CC(O)=C2C(OC(=C(O)C2=O)C2=CC(O)=C(O)C=C2)=C1	REFJWTPEDVJJIY-UHFFFAOYSA-N	gram-negative
+quercetin	3514	Beta-lactamase	P05364	4.07		IC50	CHEMBL	=	Enterobacter cloacae	OC1=CC(O)=C2C(OC(=C(O)C2=O)C2=CC(O)=C(O)C=C2)=C1	REFJWTPEDVJJIY-UHFFFAOYSA-N	gram-negative
+quercetin	3514	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI	P0AEK4	4.7		IC50	CHEMBL	=	Escherichia coli (strain K12)	OC1=CC(O)=C2C(OC(=C(O)C2=O)C2=CC(O)=C(O)C=C2)=C1	REFJWTPEDVJJIY-UHFFFAOYSA-N	gram-negative
+quercetin	3514	Sialidase	P10481	5.77		IC50	CHEMBL	=	Clostridium perfringens	OC1=CC(O)=C2C(OC(=C(O)C2=O)C2=CC(O)=C(O)C=C2)=C1	REFJWTPEDVJJIY-UHFFFAOYSA-N	gram-positive
+quercetin	3514	Malate dehydrogenase	P10584	5.22		IC50	CHEMBL	=	Thermus thermophilus	OC1=CC(O)=C2C(OC(=C(O)C2=O)C2=CC(O)=C(O)C=C2)=C1	REFJWTPEDVJJIY-UHFFFAOYSA-N	gram-negative
+quercetin	3514	D-alanine--D-alanine ligase	Q1CTD3	5.37		Ki	CHEMBL	=	Helicobacter pylori (strain HPAG1)	OC1=CC(O)=C2C(OC(=C(O)C2=O)C2=CC(O)=C(O)C=C2)=C1	REFJWTPEDVJJIY-UHFFFAOYSA-N	gram-negative
+quercetin	3514	D-alanylalanine synthetase	P07862	4.7		IC50	CHEMBL	=	Escherichia coli (strain K12)	OC1=CC(O)=C2C(OC(=C(O)C2=O)C2=CC(O)=C(O)C=C2)=C1	REFJWTPEDVJJIY-UHFFFAOYSA-N	gram-negative
+quercetin	3514	Beta-lactamase	P05364	4.07		IC50	CHEMBL	=	Enterobacter cloacae	OC1=CC(O)=C2C(OC(=C(O)C2=O)C2=CC(O)=C(O)C=C2)=C1	REFJWTPEDVJJIY-UHFFFAOYSA-N	gram-negative
+rutoside	3535	Sialidase	P10481	4.51		IC50	CHEMBL	=	Clostridium perfringens	C[C@@H]1O[C@@H](OC[C@H]2O[C@@H](OC3=C(OC4=CC(O)=CC(O)=C4C3=O)C3=CC(O)=C(O)C=C3)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@H](O)[C@H]1O	IKGXIBQEEMLURG-NVPNHPEKSA-N	gram-positive
+thiram	3601	Bifunctional protein GlmU	P9WMN3	4.05		IC50	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	CN(C)C(=S)SSC(=S)N(C)C	KUAZQDVKQLNFPE-UHFFFAOYSA-N	acid-fast
+triclocarban	3630	Epoxide hydrolase; Epoxide hydrolase EphB	P95276	6.66		IC50	CHEMBL	=	Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)	ClC1=CC=C(NC(=O)NC2=CC(Cl)=C(Cl)C=C2)C=C1	ICUTUKXCWQYESQ-UHFFFAOYSA-N	acid-fast
+triclosan	3631	Enoyl-[acyl-carrier-protein] reductase [NADH]	P9WGR1	6.7		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	OC1=C(OC2=CC=C(Cl)C=C2Cl)C=CC(Cl)=C1	XEFQLINVKFYRCS-UHFFFAOYSA-N	acid-fast
+triclosan	3631	Enoyl-[acyl-carrier-protein] reductase [NADPH] FabI	Q6GI75	7.15		IC50	CHEMBL	=	Staphylococcus aureus (strain MRSA252)	OC1=C(OC2=CC=C(Cl)C=C2Cl)C=CC(Cl)=C1	XEFQLINVKFYRCS-UHFFFAOYSA-N	gram-positive
+triclosan	3631	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI	P0AEK4	6.37		IC50	CHEMBL	=	Escherichia coli (strain K12)	OC1=C(OC2=CC=C(Cl)C=C2Cl)C=CC(Cl)=C1	XEFQLINVKFYRCS-UHFFFAOYSA-N	gram-negative
+triclosan	3631	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI	P54616	6.3		IC50	CHEMBL	=	Bacillus subtilis (strain 168)	OC1=C(OC2=CC=C(Cl)C=C2Cl)C=CC(Cl)=C1	XEFQLINVKFYRCS-UHFFFAOYSA-N	gram-positive
+triclosan	3631	Enoyl-[acyl-carrier-protein] reductase [NADPH]	Q9RMI3	7.23		IC50	CHEMBL	=	Staphylococcus aureus	OC1=C(OC2=CC=C(Cl)C=C2Cl)C=CC(Cl)=C1	XEFQLINVKFYRCS-UHFFFAOYSA-N	gram-positive
+triclosan	3631	Enoyl-[acyl-carrier-protein] reductase [NULLDH]	M9TGV3	6.7		Ki	CHEMBL	=	Mycobacterium tuberculosis	OC1=C(OC2=CC=C(Cl)C=C2Cl)C=CC(Cl)=C1	XEFQLINVKFYRCS-UHFFFAOYSA-N	acid-fast
+vildagliptin	3642	Dipeptidyl peptidase IV	O31048	7.77		Ki	CHEMBL	=	Porphyromonas gingivalis	OC12CC3CC(C1)CC(C3)(C2)NCC(=O)N1CCC[C@H]1C#N	SYOKIDBDQMKNDQ-XWTIBIIYSA-N	gram-negative
+kojic acid	3977	Tyrosinase	B2ZB02	4.28		IC50	CHEMBL	=	Bacillus megaterium	OCC1=CC(=O)C(O)=CO1	BEJNERDRQOWKJM-UHFFFAOYSA-N	gram-positive
+minodronic acid	4074	Farnesyl diphosphate synthase	P22939	5.96		IC50	CHEMBL	=	Escherichia coli (strain K12)	OC(CC1=CN=C2C=CC=CN12)(P(O)(O)=O)P(O)(O)=O	VMMKGHQPQIEGSQ-UHFFFAOYSA-N	gram-negative
+linagliptin	4175	Dipeptidyl peptidase IV	O31048	5.0		IC50	CHEMBL	=	Porphyromonas gingivalis	CC#CCN1C(=NC2=C1C(=O)N(CC1=NC3=CC=CC=C3C(C)=N1)C(=O)N2C)N1CCC[C@@H](N)C1	LTXREWYXXSTFRX-QGZVFWFLSA-N	gram-negative
+phenol	4266	Probable transmembrane carbonic anhydrase (Carbonate dehydratase) (Carbonic dehydratase); Transmembrane carbonic anhydrase	P96878	4.1		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	OC1=CC=CC=C1	ISWSIDIOOBJBQZ-UHFFFAOYSA-N	acid-fast
+phenol	4266	Beta-carbonic anhydrase 1	P9WPJ7	4.19		Ki	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	OC1=CC=CC=C1	ISWSIDIOOBJBQZ-UHFFFAOYSA-N	acid-fast
+ceftobiprole medocaril	4402	MecA	Q7DHH4	5.49		IC50	CHEMBL	=	Staphylococcus aureus	CC1=C(COC(=O)N2CC[C@H](C2)N2CC\C(=C/C3=C(N4[C@H](SC3)[C@H](NC(=O)C(=N/O)\C3=NSC(N)=N3)C4=O)C(O)=O)C2=O)OC(=O)O1	HFTSMHTWUFCYMJ-YIOMYIDASA-N	gram-positive
+fenbendazole	4536	Beta-lactamase 1	P10424	5.222		IC50	DRUG MATRIX	=	Bacillus cereus	COC(=O)NC1=NC2=C(N1)C=CC(SC1=CC=CC=C1)=C2	HDDSHPAODJUKPD-UHFFFAOYSA-N	gram-positive
+iclaprim	4573	Dihydrofolate reductase	B0BL08	8.15		IC50	CHEMBL	=	Escherichia coli	COC1=CC(CC2=CN=C(N)N=C2N)=C2C=CC(OC2=C1OC)C1CC1	HWJPWWYTGBZDEG-UHFFFAOYSA-N	gram-negative
+iclaprim	4573	Dihydrofolate reductase	P0A017	10.1		Ki	CHEMBL	=	Staphylococcus aureus	COC1=CC(CC2=CN=C(N)N=C2N)=C2C=CC(OC2=C1OC)C1CC1	HWJPWWYTGBZDEG-UHFFFAOYSA-N	gram-positive
+thioctic acid	4732	Bifunctional protein GlmU	P9WMN3	5.41		IC50	CHEMBL	=	Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)	OC(=O)CCCCC1CCSS1	AGBQKNBQESQNJD-UHFFFAOYSA-N	acid-fast
+bedaquiline	4741	ATP synthase subunit c	Q5TIX5	8.6		IC50	CHEMBL	=	Mycobacterium smegmatis	COC1=NC2=C(C=C(Br)C=C2)C=C1[C@@H](C1=CC=CC=C1)[C@@](O)(CCN(C)C)C1=CC=CC2=C1C=CC=C2	QUIJNHUBAXPXFS-XLJNKUFUSA-N	acid-fast
+peramivir	4823	Sialidase	P10481	4.4		IC50	CHEMBL	=	Clostridium perfringens	CCC(CC)[C@H](NC(C)=O)[C@@H]1[C@H](O)[C@H](C[C@H]1NC(N)=N)C(O)=O	XRQDFNLINLXZLB-CKIKVBCHSA-N	gram-positive
+tipiracil	4893	Thymidine phosphorylase	P07650	7.7		IC50	CHEMBL	=	Escherichia coli (strain K12)	ClC1=C(CN2CCCC2=N)NC(=O)NC1=O	QQHMKNYGKVVGCZ-UHFFFAOYSA-N	gram-negative
+avibactam	4946	Penicillin-binding protein 2	P0AD65	6.23		IC50	CHEMBL	=	Escherichia coli (strain K12)	NC(=O)[C@@H]1CC[C@@H]2C[N@]1C(=O)N2OS(O)(=O)=O	NDCUAPJVLWFHHB-UHNVWZDZSA-N	gram-negative
+avibactam	4946	Penicillin-binding protein 2	P0AD65	6.23		IC50	CHEMBL	=	Escherichia coli (strain K12)	NC(=O)[C@@H]1CC[C@@H]2C[N@]1C(=O)N2OS(O)(=O)=O	NDCUAPJVLWFHHB-UHNVWZDZSA-N	gram-negative
+migalastat	5110	Beta-galactosidase	Q8VNN2	4.89		Ki	CHEMBL	=	Escherichia coli	OC[C@H]1NC[C@H](O)[C@@H](O)[C@H]1O	LXBIFEVIBLOUGU-DPYQTVNSSA-N	gram-negative
+relebactam	5342	Beta-lactamase	Q8RL90	6.33		IC50	CHEMBL	=	Pseudomonas aeruginosa	OS(=O)(=O)ON1[C@H]2C[N@]([C@@H](CC2)C(=O)NC2CCNCC2)C1=O	SMOBCLHAZXOKDQ-ZJUUUORDSA-N	gram-negative
+relebactam	5342	Beta-lactamase	Q2PUH3	6.4		IC50	SCIENTIFIC LITERATURE	=	Klebsiella pneumoniae	OS(=O)(=O)ON1[C@H]2C[N@]([C@@H](CC2)C(=O)NC2CCNCC2)C1=O	SMOBCLHAZXOKDQ-ZJUUUORDSA-N	gram-negative
+relebactam	5342	Beta-lactamase	Q9X5A7	6.33		IC50	SCIENTIFIC LITERATURE	=	Stenotrophomonas maltophilia	OS(=O)(=O)ON1[C@H]2C[N@]([C@@H](CC2)C(=O)NC2CCNCC2)C1=O	SMOBCLHAZXOKDQ-ZJUUUORDSA-N	gram-negative
+relebactam	5342	Beta-lactamase	Q93LQ9	6.64		IC50	SCIENTIFIC LITERATURE	=	Klebsiella pneumoniae	OS(=O)(=O)ON1[C@H]2C[N@]([C@@H](CC2)C(=O)NC2CCNCC2)C1=O	SMOBCLHAZXOKDQ-ZJUUUORDSA-N	gram-negative
+relebactam	5342	Beta-lactamase	Q93DC4	6.59		IC50	SCIENTIFIC LITERATURE	=	Klebsiella pneumoniae	OS(=O)(=O)ON1[C@H]2C[N@]([C@@H](CC2)C(=O)NC2CCNCC2)C1=O	SMOBCLHAZXOKDQ-ZJUUUORDSA-N	gram-negative
+relebactam	5342	Beta-lactamase	B1PL86	6.04		IC50	SCIENTIFIC LITERATURE	=	Klebsiella pneumoniae	OS(=O)(=O)ON1[C@H]2C[N@]([C@@H](CC2)C(=O)NC2CCNCC2)C1=O	SMOBCLHAZXOKDQ-ZJUUUORDSA-N	gram-negative
+cefiderocol	5352	Peptidoglycan synthase FtsI	P0AD68	7.4		IC50	SCIENTIFIC LITERATURE	=	Escherichia coli (strain K12)	CC(C)(O\N=C(/C(=O)N[C@H]1[C@H]2SCC(C[N+]3(CCNC(=O)C4=CC=C(O)C(O)=C4Cl)CCCC3)=C(N2C1=O)C([O-])=O)C1=CSC(N)=N1)C(O)=O	DBPPRLRVDVJOCL-FQRUVTKNSA-N	gram-negative
+cefiderocol	5352	Penicillin-binding protein 1A	Q07806	6.07		IC50	SCIENTIFIC LITERATURE	=	Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228)	CC(C)(O\N=C(/C(=O)N[C@H]1[C@H]2SCC(C[N+]3(CCNC(=O)C4=CC=C(O)C(O)=C4Cl)CCCC3)=C(N2C1=O)C([O-])=O)C1=CSC(N)=N1)C(O)=O	DBPPRLRVDVJOCL-FQRUVTKNSA-N	gram-negative
+cefiderocol	5352	Penicillin-binding protein 1A	P02918	5.48		IC50	SCIENTIFIC LITERATURE	=	Escherichia coli (strain K12)	CC(C)(O\N=C(/C(=O)N[C@H]1[C@H]2SCC(C[N+]3(CCNC(=O)C4=CC=C(O)C(O)=C4Cl)CCCC3)=C(N2C1=O)C([O-])=O)C1=CSC(N)=N1)C(O)=O	DBPPRLRVDVJOCL-FQRUVTKNSA-N	gram-negative
+cefiderocol	5352	Penicillin-binding protein 1B	P02919	5.47		IC50	SCIENTIFIC LITERATURE	=	Escherichia coli (strain K12)	CC(C)(O\N=C(/C(=O)N[C@H]1[C@H]2SCC(C[N+]3(CCNC(=O)C4=CC=C(O)C(O)=C4Cl)CCCC3)=C(N2C1=O)C([O-])=O)C1=CSC(N)=N1)C(O)=O	DBPPRLRVDVJOCL-FQRUVTKNSA-N	gram-negative
+cefiderocol	5352	Penicillin-binding protein 1A	G1C775	5.98		IC50	SCIENTIFIC LITERATURE	=	Acinetobacter baumannii	CC(C)(O\N=C(/C(=O)N[C@H]1[C@H]2SCC(C[N+]3(CCNC(=O)C4=CC=C(O)C(O)=C4Cl)CCCC3)=C(N2C1=O)C([O-])=O)C1=CSC(N)=N1)C(O)=O	DBPPRLRVDVJOCL-FQRUVTKNSA-N	gram-negative
+cefiderocol	5352	Penicillin-binding protein 1B	A6T4V3	5.46		IC50	SCIENTIFIC LITERATURE	=	Klebsiella pneumoniae subsp. pneumoniae (strain ATCC 700721 / MGH 78578)	CC(C)(O\N=C(/C(=O)N[C@H]1[C@H]2SCC(C[N+]3(CCNC(=O)C4=CC=C(O)C(O)=C4Cl)CCCC3)=C(N2C1=O)C([O-])=O)C1=CSC(N)=N1)C(O)=O	DBPPRLRVDVJOCL-FQRUVTKNSA-N	gram-negative
+cefiderocol	5352	Peptidoglycan D,D-transpeptidase MrdA	H4I819	5.66		IC50	SCIENTIFIC LITERATURE	=	Escherichia coli DEC1B	CC(C)(O\N=C(/C(=O)N[C@H]1[C@H]2SCC(C[N+]3(CCNC(=O)C4=CC=C(O)C(O)=C4Cl)CCCC3)=C(N2C1=O)C([O-])=O)C1=CSC(N)=N1)C(O)=O	DBPPRLRVDVJOCL-FQRUVTKNSA-N	gram-negative
+cefiderocol	5352	Peptidoglycan D,D-transpeptidase MrdA	A0A0W8ASI8	7.2		IC50	SCIENTIFIC LITERATURE	=	Klebsiella pneumoniae	CC(C)(O\N=C(/C(=O)N[C@H]1[C@H]2SCC(C[N+]3(CCNC(=O)C4=CC=C(O)C(O)=C4Cl)CCCC3)=C(N2C1=O)C([O-])=O)C1=CSC(N)=N1)C(O)=O	DBPPRLRVDVJOCL-FQRUVTKNSA-N	gram-negative
+cefiderocol	5352	Peptidoglycan D,D-transpeptidase FtsI	A6T4M7	7.21		IC50	SCIENTIFIC LITERATURE	=	Klebsiella pneumoniae subsp. pneumoniae (strain ATCC 700721 / MGH 78578)	CC(C)(O\N=C(/C(=O)N[C@H]1[C@H]2SCC(C[N+]3(CCNC(=O)C4=CC=C(O)C(O)=C4Cl)CCCC3)=C(N2C1=O)C([O-])=O)C1=CSC(N)=N1)C(O)=O	DBPPRLRVDVJOCL-FQRUVTKNSA-N	gram-negative
+cefiderocol	5352	Peptidoglycan D,D-transpeptidase FtsI	G3XD46	7.22		IC50	SCIENTIFIC LITERATURE	=	Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1)	CC(C)(O\N=C(/C(=O)N[C@H]1[C@H]2SCC(C[N+]3(CCNC(=O)C4=CC=C(O)C(O)=C4Cl)CCCC3)=C(N2C1=O)C([O-])=O)C1=CSC(N)=N1)C(O)=O	DBPPRLRVDVJOCL-FQRUVTKNSA-N	gram-negative
+cefiderocol	5352	Peptidoglycan D,D-transpeptidase FtsI	D0CCM7	6.17		IC50	SCIENTIFIC LITERATURE	=	Acinetobacter baumannii (strain ATCC 19606 / DSM 30007 / CIP 70.34 / JCM 6841 / NBRC 109757 / NCIMB 12457 / NCTC 12156 / 81)	CC(C)(O\N=C(/C(=O)N[C@H]1[C@H]2SCC(C[N+]3(CCNC(=O)C4=CC=C(O)C(O)=C4Cl)CCCC3)=C(N2C1=O)C([O-])=O)C1=CSC(N)=N1)C(O)=O	DBPPRLRVDVJOCL-FQRUVTKNSA-N	gram-negative
+cefiderocol	5352	Penicillin-binding protein 4	A0A5E6DR09	5.44		IC50	SCIENTIFIC LITERATURE	=	Klebsiella pneumoniae	CC(C)(O\N=C(/C(=O)N[C@H]1[C@H]2SCC(C[N+]3(CCNC(=O)C4=CC=C(O)C(O)=C4Cl)CCCC3)=C(N2C1=O)C([O-])=O)C1=CSC(N)=N1)C(O)=O	DBPPRLRVDVJOCL-FQRUVTKNSA-N	gram-negative
