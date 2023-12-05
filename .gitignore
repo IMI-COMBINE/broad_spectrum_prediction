@@ -162,8 +162,5 @@ cython_debug/
 data/raw/*
 .DS_Store
 
-org.*
-*.json
-*.xml
-version.ini
-.lock
+# KNIME
+.metadata/*
