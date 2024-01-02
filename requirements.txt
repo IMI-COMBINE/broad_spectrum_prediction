@@ -4,3 +4,5 @@ tqdm
 rdkit
 fastparquet
 mhfp==1.9.6
+neomodel==5.2.1
+seaborn==0.13.1
