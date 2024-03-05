@@ -31869,7 +31869,6 @@ SPK-0255645	OC1=CC=CC2=C1C(=O)C1=C(O2)C(O)=C(O)C=C1	Bacillus subtilis	gram-posit
 SPK-0255645	OC1=CC=CC2=C1C(=O)C1=C(O2)C(O)=C(O)C=C1	Staphylococcus aureus	gram-positive	3.58	
 SPK-0255646	OC1=CC2=C(C=C1O)C(=O)C1=C(O2)C=CC=C1O	Staphylococcus aureus	gram-positive	3.58	
 SPK-0255647	CC1=C(O)C=C2C=CC3=C(C)C(O)=CC4=C3C2=C1CC4	Staphylococcus aureus	gram-positive	3.42	
-SPK-0255648	COC1=CC(O)=C(OC)[C](O)(=C1)C(=O)C=CC1=CC=CC=C1	Staphylococcus aureus	gram-positive	4.27	
 SPK-0255649	C\C=C/C#CC#CC1=CC=C(S1)C(O)CCl	Bacillus cereus	gram-positive	3.6	
 SPK-0255649	C\C=C/C#CC#CC1=CC=C(S1)C(O)CCl	Bacillus subtilis	gram-positive	3.9	
 SPK-0255649	C\C=C/C#CC#CC1=CC=C(S1)C(O)CCl	Escherichia coli	gram-negative	3.6	
