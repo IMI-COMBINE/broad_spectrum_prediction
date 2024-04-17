@@ -107306,5 +107306,5032 @@
     "CSc1c2sc(C3=C(C(=O)[O-])N4C(=O)[C@H]([C@@H](C)O)[C@H]4[C@H]3C)cn2c[n+]1C[C@H](C)CN": null,
     "CSc1c2sc(C3=C(C(=O)[O-])N4C(=O)[C@H]([C@@H](C)O)[C@H]4[C@H]3C)cn2c[n+]1[C@@H]1CN[C@H](CO)C1": null,
     "CSc1c2sc(C3=C(C(=O)[O-])N4C(=O)[C@H]([C@@H](C)O)[C@H]4[C@H]3C)cn2c[n+]1Cc1cccc(CSC(=N)N)c1": null,
-    "CSc1c2sc(C3=C(C(=O)[O-])N4C(=O)[C@H]([C@@H](C)O)[C@H]4[C@H]3C)cn2c[n+]1CCCSC(=N)N": null
+    "CSc1c2sc(C3=C(C(=O)[O-])N4C(=O)[C@H]([C@@H](C)O)[C@H]4[C@H]3C)cn2c[n+]1CCCSC(=N)N": null,
+    "CSc1c2sc(C3=C(C(=O)[O-])N4C(=O)[C@H]([C@@H](C)O)[C@H]4[C@H]3C)cn2c[n+]1[C@H]1CCN(C(C)=N)C1": null,
+    "CSc1c2sc(C3=C(C(=O)[O-])N4C(=O)[C@H]([C@@H](C)O)[C@H]4[C@H]3C)cn2c[n+]1CCCNC(C)=N": null,
+    "CSc1c2sc(C3=C(C(=O)[O-])N4C(=O)[C@H]([C@@H](C)O)[C@H]4[C@H]3C)cn2c[n+]1CCCNC=N": null,
+    "CSc1c2sc(C3=C(C(=O)[O-])N4C(=O)[C@H]([C@@H](C)O)[C@H]4[C@H]3C)cn2c[n+]1C[C@@H]1CCCN1": null,
+    "CSc1c2sc(C3=C(C(=O)[O-])N4C(=O)[C@H]([C@@H](C)O)[C@H]4[C@H]3C)cn2c[n+]1[C@H]1CCNC1": null,
+    "CSc1c2sc(C3=C(C(=O)[O-])N4C(=O)[C@H]([C@@H](C)O)[C@H]4[C@H]3C)cn2c[n+]1CCCCCCN": null,
+    "CSc1c2sc(C3=C(C(=O)[O-])N4C(=O)[C@H]([C@@H](C)O)[C@H]4[C@H]3C)cn2c[n+]1CCCCN": null,
+    "CSc1c2sc(C3=C(C(=O)[O-])N4C(=O)[C@H]([C@@H](C)O)[C@H]4[C@H]3C)cn2c[n+]1CCCN": null,
+    "O=c1ccn(C2CC2)c2cc(N3CCNCC3)c(F)cc12": {
+        "class_results": [
+            "Quinolizidine alkaloids"
+        ],
+        "superclass_results": [
+            "Lysine alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C(O)c1cn(C2CC2)c2cc(N3CCNCC3)ccc2c1=O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CCOC(=O)C1=C(C)N=c2s/c(=C\\c3ccc(SC)cc3)c(=O)n2C1c1ccc(SC)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids",
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CCOC(=O)C1=C(C)N=c2s/c(=C\\c3ccc(-c4ccc(Cl)cc4Cl)o3)c(=O)n2C1c1ccc(SC)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "CCOC(=O)C1=C(C)N=c2s/c(=C\\c3ccc(-c4ccc(Br)cc4)o3)c(=O)n2C1c1ccc(SC)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "CCOC(=O)C1=C(C)N=c2s/c(=C\\c3ccc(-c4ccc(Cl)cc4)o3)c(=O)n2C1c1ccc(SC)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CCOC(=O)C1=C(C)N=c2s/c(=C\\c3ccc(-c4ccc([N+](=O)[O-])cc4)o3)c(=O)n2C1c1ccc(SC)cc1": null,
+    "CCOC(=O)C1=C(C)N=c2s/c(=C\\c3ccc(F)c(Oc4ccc5c(c4)OCO5)c3)c(=O)n2C1c1ccc(SC)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CCOC(=O)C1=C(C)N=c2s/c(=C\\c3ccc(F)c(Oc4ccccc4)c3)c(=O)n2C1c1ccc(SC)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CCOC(=O)C1=C(C)N=c2s/c(=C\\c3ccc(O)c(OC)c3)c(=O)n2C1c1ccc(SC)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CCOC(=O)C1=C(C)N=c2s/c(=C\\c3ccc(Cl)cc3Cl)c(=O)n2C1c1ccc(SC)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CCOC(=O)C1=C(C)N=c2s/c(=C\\c3ccc(O)cc3)c(=O)n2C1c1ccc(SC)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids",
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CCOC(=O)C1=C(C)N=c2s/c(=C\\c3ccc(F)cc3)c(=O)n2C1c1ccc(SC)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CCOC(=O)C1=C(C)N=c2s/c(=C\\c3ccc(Cl)cc3)c(=O)n2C1c1ccc(SC)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids",
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CCOC(=O)C1=C(C)N=c2s/c(=C\\c3ccc(OC)cc3)c(=O)n2C1c1ccc(SC)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc(Br)c(C(=O)NNc2nc(-c3ccc(O)c(O)c3)cs2)c1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc(Br)c(C(=O)NNc2nc(-c3ccc(O)c(C(N)=O)c3)cs2)c1": {
+        "class_results": [
+            "Simple amide alkaloids"
+        ],
+        "superclass_results": [
+            "Peptide alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc(Br)c(C(=O)NNc2nc(-c3cc4ccccc4oc3=O)cs2)c1": {
+        "class_results": [
+            "Simple coumarins"
+        ],
+        "superclass_results": [
+            "Coumarins"
+        ],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "COc1ccc(Br)c(C(=O)NNc2nc(-c3cc4cc(Br)ccc4oc3=O)cs2)c1": {
+        "class_results": [
+            "Simple coumarins"
+        ],
+        "superclass_results": [
+            "Coumarins"
+        ],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "NC(=O)N/N=C/C1=CC([N+](=O)[O-])=CC1": null,
+    "COc1ccc(Br)c(C(=O)NNc2nc(-c3ccnc(Cl)c3)cs2)c1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc(-c2csc(NNC(=O)c3cc(OC)ccc3Br)n2)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc(Br)c(C(=O)NNc2nc(-c3ccc(Cl)cc3)cs2)c1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc(Br)c(C(=O)NNc2nc(-c3ccccc3)cs2)c1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Nc1nc(-c2ccc([N+](=O)[O-])cc2)cc(-c2cccc3ccccc23)n1": null,
+    "Nc1nc(-c2cccc([N+](=O)[O-])c2)cc(-c2cccc3ccccc23)n1": null,
+    "Nc1nc(-c2ccc(Cl)cc2)cc(-c2cccc3ccccc23)n1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Nc1nc(-c2cccc(Cl)c2)cc(-c2cccc3ccccc23)n1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Nc1nc(-c2ccccc2Cl)cc(-c2cccc3ccccc23)n1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Nc1nc(-c2ccc(F)cc2)cc(-c2cccc3ccccc23)n1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Nc1nc(-c2ccccc2)cc(-c2cccc3ccccc23)n1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccccc1-c1cc(-c2cccc3ccccc23)nc(N)n1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc(-c2cc(-c3cccc4ccccc34)nc(N)n2)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1cc([C@@H]2[C@H](Cl)C(=O)N2NC(=O)CC(=O)Nc2ccccc2Cl)ccc1OC(C)=O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "COc1cc([C@@H]2[C@H](Cl)C(=O)N2NC(=O)CC(=O)Nc2cccc(Cl)c2)ccc1OC(C)=O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "COc1cc([C@@H]2[C@H](Cl)C(=O)N2NC(=O)CC(=O)Nc2ccc(Cl)cc2)ccc1OC(C)=O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "COc1cc([C@@H]2[C@H](Cl)C(=O)N2NC(=O)CC(=O)Nc2ccccc2[N+](=O)[O-])ccc1OC(C)=O": null,
+    "COc1cc([C@@H]2[C@H](Cl)C(=O)N2NC(=O)CC(=O)Nc2cccc([N+](=O)[O-])c2)ccc1OC(C)=O": null,
+    "COc1cc([C@@H]2[C@H](Cl)C(=O)N2NC(=O)CC(=O)Nc2ccc([N+](=O)[O-])cc2)ccc1OC(C)=O": null,
+    "O=C1[C@@H](Cl)[C@@H](c2cc(/N=N/c3cccc([N+](=O)[O-])c3)ccc2O)N1c1ccccc1": null,
+    "O=C1[C@@H](Cl)[C@@H](c2cc(/N=N/c3cccc([N+](=O)[O-])c3)ccc2O)N1c1ccc(F)cc1": null,
+    "O=C1[C@@H](Cl)[C@@H](c2cc(/N=N/c3cccc([N+](=O)[O-])c3)ccc2O)N1c1ccc(Cl)cc1": null,
+    "O=C1[C@@H](Cl)[C@@H](c2cc(/N=N/c3ccc([N+](=O)[O-])cc3)ccc2O)N1c1ccccc1": null,
+    "O=C1[C@@H](Cl)[C@@H](c2cc(/N=N/c3ccc([N+](=O)[O-])cc3)ccc2O)N1c1ccc(F)cc1": null,
+    "O=C1[C@@H](Cl)[C@@H](c2cc(/N=N/c3ccc([N+](=O)[O-])cc3)ccc2O)N1c1ccc(Cl)cc1": null,
+    "O=C1[C@@H](Cl)[C@@H](c2cc(/N=N/c3ccc([N+](=O)[O-])cc3)ccc2O)N1c1ccc(Br)cc1": null,
+    "COc1cc([C@@H]2[C@H](Cl)C(=O)N2NC(=O)CC(=O)Nc2ccccc2)ccc1OC(C)=O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "O=C1[C@@H](Cl)[C@@H](c2cc(/N=N/c3cccc([N+](=O)[O-])c3)ccc2O)N1c1ccc(Br)cc1": null,
+    "CN(C)CCOc1ccc(C(c2ccc(O)cc2)c2cc3ccccc3c3ccccc23)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "Oc1ccc(C(c2ccc(OCCN3CCCCC3)cc2)c2cc3ccccc3c3ccccc23)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "CCN(CC)CCOc1ccc(C(c2ccc(O)cc2)c2cc3ccccc3c3ccccc23)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "COc1ccc(C(c2ccc(OCCN3CCCCC3)cc2)c2cc3ccccc3c3ccccc23)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "COc1ccc(C(c2ccc(OCCN3CCCC3)cc2)c2cc3ccccc3c3ccccc23)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "CCN(CC)CCOc1ccc(C(c2ccc(OC)cc2)c2cc3ccccc3c3ccccc23)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "COc1ccc(C(c2ccc(OCCN(C)C)cc2)c2cc3ccccc3c3ccccc23)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "COc1ccc(C(c2ccc(OCCN(C)C)cc2)c2c3ccccc3cc3ccccc23)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc(C(c2ccc(OCCN3CCCCCC3)cc2)c2cn(S(=O)(=O)c3ccccc3)c3ccccc23)cc1": {
+        "class_results": [],
+        "superclass_results": [
+            "Tryptophan alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc(C(c2ccc(OCCN3CCCCC3)cc2)c2cn(S(=O)(=O)c3ccccc3)c3ccccc23)cc1": {
+        "class_results": [],
+        "superclass_results": [
+            "Tryptophan alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc(C(c2ccc(OCCN3CCCC3)cc2)c2cn(S(=O)(=O)c3ccccc3)c3ccccc23)cc1": {
+        "class_results": [],
+        "superclass_results": [
+            "Tryptophan alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CCN(CC)CCOc1ccc(C(c2ccc(OC)cc2)c2cn(S(=O)(=O)c3ccccc3)c3ccccc23)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc(C(c2ccc(OCCN3CCCCC3)cc2)c2cccnc2)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc(C(c2ccc(OCCN3CCCC3)cc2)c2cccnc2)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CCN(CC)CCOc1ccc(C(c2ccc(OC)cc2)c2cccnc2)cc1": {
+        "class_results": [],
+        "superclass_results": [
+            "Tyrosine alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C(N/N=C/CCCCCCCc1cccc(O)c1C(=O)O)c1ccncc1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C(N/N=C/CCCCCCCc1c([N+](=O)[O-])ccc(O)c1C(=O)O)c1ccncc1": null,
+    "c1ccc(-c2csc(N3N=C(c4cccs4)CC3c3ccncc3)n2)cc1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=[N+]([O-])c1ccc(-c2csc(N3N=C(c4cccs4)CC3c3ccccn3)n2)cc1": null,
+    "Clc1ccc(-c2csc(N3N=C(c4cccs4)CC3c3ccccn3)n2)cc1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc(-c2csc(N3N=C(c4cccs4)CC3c3ccccn3)n2)cc1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1ccc(-c2csc(N3N=C(c4cccs4)CC3c3ccccn3)n2)cc1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "c1ccc(-c2csc(N3N=C(c4cccs4)CC3c3ccccn3)n2)cc1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=[N+]([O-])c1ccc(-c2csc(N3N=C(c4cccs4)CC3c3cccnc3)n2)cc1": null,
+    "Clc1ccc(-c2csc(N3N=C(c4cccs4)CC3c3cccnc3)n2)cc1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc(-c2csc(N3N=C(c4cccs4)CC3c3cccnc3)n2)cc1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1ccc(-c2csc(N3N=C(c4cccs4)CC3c3cccnc3)n2)cc1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "c1ccc(-c2csc(N3N=C(c4cccs4)CC3c3cccnc3)n2)cc1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=[N+]([O-])c1ccc(-c2csc(N3N=C(c4cccs4)CC3c3ccncc3)n2)cc1": null,
+    "Clc1ccc(-c2csc(N3N=C(c4cccs4)CC3c3ccncc3)n2)cc1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc(-c2csc(N3N=C(c4cccs4)CC3c3ccncc3)n2)cc1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1ccc(-c2csc(N3N=C(c4cccs4)CC3c3ccncc3)n2)cc1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CN1CCN(CC#N)CC1": null,
+    "N#CCCN1CCN(CCO)CC1": {
+        "class_results": [
+            "Aminoacids"
+        ],
+        "superclass_results": [
+            "Small peptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "N#CCCN1CCN(CCC#N)CC1": {
+        "class_results": [
+            "Aminoacids"
+        ],
+        "superclass_results": [
+            "Small peptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "COc1ccccc1N1CCN(CCC#N)CC1": null,
+    "N#CCCN1CCN(c2ccccc2)CC1": {
+        "class_results": [
+            "Aminoacids"
+        ],
+        "superclass_results": [
+            "Small peptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CN1CCN(CCC#N)CC1": null,
+    "COc1ccccc1N1CCN(CC#N)CC1": null,
+    "N#CCN1CCN(Cc2ccccc2)CC1": {
+        "class_results": [
+            "Aminoacids"
+        ],
+        "superclass_results": [
+            "Small peptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "N#CCN1CCN(c2ccccc2)CC1": {
+        "class_results": [
+            "Aminoacids"
+        ],
+        "superclass_results": [
+            "Small peptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "COC(=S)NC[C@H]1CN(c2ccc(C(=O)/C=C/c3ccccn3)c(F)c2)C(=O)O1": {
+        "class_results": [
+            "Chalcones"
+        ],
+        "superclass_results": [
+            "Flavonoids"
+        ],
+        "pathway_results": [
+            "Alkaloids",
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CC(=O)NC[C@H]1CN(c2ccc(C(=O)/C=C/c3ncc[nH]3)c(F)c2)C(=O)O1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CC(=O)NC[C@H]1CN(c2ccc(C(=O)/C=C/c3nccn3C)c(F)c2)C(=O)O1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CC(=O)NC[C@H]1CN(c2ccc(C(=O)/C=C/c3cccs3)c(C)c2)C(=O)O1": {
+        "class_results": [
+            "Chalcones"
+        ],
+        "superclass_results": [
+            "Flavonoids"
+        ],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CC(=O)NC[C@H]1CN(c2ccc(C(=O)/C=C/c3ccco3)c(F)c2)C(=O)O1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CC(=O)NC[C@H]1CN(c2ccc(C(=O)/C=C/c3ccccn3)c(F)c2)C(=O)O1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CC(=O)NC[C@H]1CN(c2ccc(C(=O)/C=C/c3ccco3)cc2)C(=O)O1": {
+        "class_results": [
+            "Chalcones"
+        ],
+        "superclass_results": [
+            "Flavonoids"
+        ],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CC(=O)NC[C@H]1CN(c2ccc(C(=O)/C=C/c3ccccn3)cc2)C(=O)O1": {
+        "class_results": [
+            "Chalcones"
+        ],
+        "superclass_results": [
+            "Flavonoids"
+        ],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CC(=O)NC[C@H]1CN(c2ccc(/C=C/C(=O)c3ccc([N+](=O)[O-])cc3)cc2)C(=O)O1": null,
+    "CC(=O)NC[C@H]1CN(c2ccc(/C=C/C(=O)c3cccc(F)c3)cc2)C(=O)O1": {
+        "class_results": [
+            "Chalcones"
+        ],
+        "superclass_results": [
+            "Flavonoids"
+        ],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CC(=O)NC[C@H]1CN(c2ccc(/C=C/C(=O)c3ccc(C)cc3)cc2)C(=O)O1": {
+        "class_results": [
+            "Chalcones"
+        ],
+        "superclass_results": [
+            "Flavonoids"
+        ],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CO/N=C(\\CNS(C)(=O)=O)[C@@H]1C[C@H](SC2=C(C(=O)O)N3C(=O)[C@H]([C@@H](C)O)[C@H]3[C@H]2C)CN1": {
+        "class_results": [
+            "Carbapenems"
+        ],
+        "superclass_results": [
+            "β-lactams"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CO/N=C(\\CNC(C)=O)[C@@H]1C[C@H](SC2=C(C(=O)O)N3C(=O)[C@H]([C@@H](C)O)[C@H]3[C@H]2C)CN1": {
+        "class_results": [
+            "Carbapenems"
+        ],
+        "superclass_results": [
+            "β-lactams"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CCCNS(=O)(=O)NC/C(=N\\OC)[C@@H]1C[C@H](SC2=C(C(=O)O)N3C(=O)[C@H]([C@@H](C)O)[C@H]3[C@H]2C)CN1": {
+        "class_results": [
+            "Carbapenems"
+        ],
+        "superclass_results": [
+            "β-lactams"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CO/N=C(\\CNS(=O)(=O)N(C)C)[C@@H]1C[C@H](SC2=C(C(=O)O)N3C(=O)[C@H]([C@@H](C)O)[C@H]3[C@H]2C)CN1": {
+        "class_results": [
+            "Carbapenems"
+        ],
+        "superclass_results": [
+            "β-lactams"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CCS(=O)(=O)NC/C(=N\\OC)[C@@H]1C[C@H](SC2=C(C(=O)O)N3C(=O)[C@H]([C@@H](C)O)[C@H]3[C@H]2C)CN1": {
+        "class_results": [
+            "Carbapenems"
+        ],
+        "superclass_results": [
+            "β-lactams"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CO/N=C(\\CNC(N)=O)[C@@H]1C[C@H](SC2=C(C(=O)O)N3C(=O)[C@H]([C@@H](C)O)[C@H]3[C@H]2C)CN1": {
+        "class_results": [
+            "Carbapenems"
+        ],
+        "superclass_results": [
+            "β-lactams"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CO/N=C(\\CN)[C@@H]1C[C@H](SC2=C(C(=O)O)N3C(=O)[C@H]([C@@H](C)O)[C@H]3[C@H]2C)CN1": {
+        "class_results": [
+            "Carbapenems"
+        ],
+        "superclass_results": [
+            "β-lactams"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CCNS(=O)(=O)NC/C(=N\\OC)[C@@H]1C[C@H](SC2=C(C(=O)O)N3C(=O)[C@H]([C@@H](C)O)[C@H]3[C@H]2C)CN1": {
+        "class_results": [
+            "Carbapenems"
+        ],
+        "superclass_results": [
+            "β-lactams"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CNS(=O)(=O)NC/C(=N\\OC)[C@@H]1C[C@H](SC2=C(C(=O)O)N3C(=O)[C@H]([C@@H](C)O)[C@H]3[C@H]2C)CN1": {
+        "class_results": [
+            "Carbapenems"
+        ],
+        "superclass_results": [
+            "β-lactams"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CS(=O)(=O)c1ccc(OCc2nnc3n2N=C(c2ccc(Cl)cc2)CS3)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CCSc1ccc(OCc2nnc3n2N=C(c2ccc(Cl)cc2)CS3)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CCSc1ccc(OCc2nnc3n2N=C(c2ccc(Cl)cc2Cl)CS3)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CSc1ccc(OCc2nnc3n2N=C(NC(=O)c2ccccc2O)CS3)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CCSc1ccc(OCc2nnc3sc(-c4ccccc4O)nn23)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CCSc1ccc(OCc2nnc3sc(-c4cccc(Cl)c4Cl)nn23)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CCSc1ccc(OCc2nnc3sc(-c4ccccc4N)nn23)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CCSc1ccc(OCc2nnc3sc(-c4ccc(OC)cc4)nn23)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CCSc1ccc(OCc2nnc3sc(-c4ccccc4Cl)nn23)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CSc1ccc(OCc2nnc3sc(-c4ccccc4Cl)nn23)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CSc1ccc(OCc2nnc3sc(-c4ccccc4)nn23)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids",
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CCSc1ccc(OCc2nnc3n2N=C(NC(=O)c2ccccc2O)CS3)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CSc1ccc(OCc2nnc3n2N=C(c2ccc(Cl)cc2)CS3)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CSc1ccc(OCc2nnc3n2N=C(c2ccc(Cl)cc2Cl)CS3)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CS(=O)(=O)c1ccc(OCc2nnc3sc(-c4cccc(Cl)c4Cl)nn23)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CCSc1ccc(OCc2nnc3sc(-c4ccc(C)cc4)nn23)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CCSc1ccc(OCc2nnc3sc(-c4ccccc4)nn23)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CSc1ccc(OCc2nnc3sc(Cc4ccccc4)nn23)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CSc1ccc(OCc2nnc3sc(-c4cccc(Cl)c4Cl)nn23)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CSc1ccc(OCc2nnc3sc(-c4ccc(N)cc4)nn23)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc(-c2nn3c(COc4ccc(SC)cc4)nnc3s2)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CSc1ccc(OCc2nnc3sc(-c4ccc(C)cc4)nn23)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CS(=O)(=O)c1ccc(OCc2nnc3sc(-c4ccccc4)nn23)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CS(=O)(=O)c1ccc(OCc2nnc3n2N=C(c2ccc(Cl)cc2Cl)CS3)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CS(=O)(=O)c1ccc(OCc2nnc3n2N=C(NC(=O)c2ccccc2O)CS3)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CS(=O)(=O)c1ccc(OCc2nnc3sc(Cc4ccccc4)nn23)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CS(=O)(=O)c1ccc(OCc2nnc3sc(-c4cccc(Cl)c4)nn23)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CS(=O)(=O)c1ccc(OCc2nnc3sc(-c4ccccc4Cl)nn23)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "NC[C@@H]1C[C@H](N)CN1c1nc(Nc2ccc(NC(=O)c3ccc4ccccc4c3O)cc2)nc(N2C[C@H](N)C[C@H](N)C2)n1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1ccc(S(=O)(=O)N(Cc2ccccc2)c2ccc(Nc3nc(N4C[C@H](N)C[C@H](N)C4)nc(N4C[C@H](CN)C[C@H](CN)C4)n3)cc2O)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "NC[C@@H]1C[C@H](CN)CN(c2nc(Nc3ccc(NC(=O)c4ccc(Cl)cc4)c(O)c3)nc(N3C[C@H](N)C[C@H](N)C3)n2)C1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "NC[C@@H]1C[C@H](CN)CN(c2nc(Nc3ccc(NC(=O)c4ccc5ccccc5c4O)cc3)nc(N3C[C@H](N)C[C@H](N)C3)n2)C1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "CN[C@@H]1C[C@H](NC)CN(c2nc(Nc3ccc(NC(=O)c4ccc5ccccc5c4O)cc3)nc(N3C[C@H](N)C[C@H](N)C3)n2)C1": {
+        "class_results": [
+            "Carboline alkaloids"
+        ],
+        "superclass_results": [
+            "Tryptophan alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1ccc(S(=O)(=O)N(Cc2ccccc2)c2ccc(Nc3nc(N(CCN)CCN)nc(N4C[C@H](N)C[C@H](N)C4)n3)cc2O)cc1": {
+        "class_results": [
+            "Polyamines"
+        ],
+        "superclass_results": [
+            "Ornithine alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "NCCN(CCN)c1nc(Nc2ccc(NC(=O)c3ccc(Cl)cc3)c(O)c2)nc(N2C[C@H](N)C[C@H](N)C2)n1": {
+        "class_results": [
+            "Polyamines"
+        ],
+        "superclass_results": [
+            "Ornithine alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "NCCN(CCN)c1nc(Nc2ccc(NC(=O)c3ccc4ccccc4c3O)cc2)nc(N2C[C@H](N)C[C@H](N)C2)n1": {
+        "class_results": [
+            "Polyamines"
+        ],
+        "superclass_results": [
+            "Ornithine alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "N[C@@H]1C[C@H](N)CN(c2nc(Nc3ccc(NC(=O)c4ccc(Cl)cc4)c(O)c3)nc(N3C[C@@H](N)[C@@H](N)C3)n2)C1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1ccc(S(=O)(=O)N(Cc2ccccc2)c2ccc(Nc3nc(N4C[C@H](N)C[C@H](N)C4)nc(N4C[C@@H](O)[C@@H](O)C4)n3)cc2O)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "N[C@@H]1C[C@H](N)CN(c2nc(Nc3ccc(NC(=O)c4ccc(Cl)cc4)c(O)c3)nc(N3C[C@@H](O)[C@@H](O)C3)n2)C1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "N[C@@H]1C[C@H](N)CN(c2nc(Nc3ccc(NC(=O)c4ccc5ccccc5c4O)cc3)nc(N3C[C@@H](O)[C@@H](O)C3)n2)C1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1ccc(S(=O)(=O)N(Cc2ccccc2)c2ccc(Nc3nc(N4C[C@H](N)C[C@H](N)C4)nc(N4CC[C@H](O)[C@H](CN)C4)n3)cc2O)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "NC[C@@H]1CN(c2nc(Nc3ccc(NC(=O)c4ccc(Cl)cc4)c(O)c3)nc(N3C[C@H](N)C[C@H](N)C3)n2)CC[C@@H]1O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "NC[C@@H]1CN(c2nc(Nc3ccc(NC(=O)c4ccc5ccccc5c4O)cc3)nc(N3C[C@H](N)C[C@H](N)C3)n2)CC[C@@H]1O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "Cc1ccc(S(=O)(=O)N(Cc2ccccc2)c2ccc(Nc3nc(N4CCCC(O)C4)nc(N4C[C@H](N)C[C@H](N)C4)n3)cc2O)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "N[C@@H]1C[C@H](N)CN(c2nc(Nc3ccc(NC(=O)c4ccc(Cl)cc4)c(O)c3)nc(N3CCCC(O)C3)n2)C1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "N[C@@H]1C[C@H](N)CN(c2nc(Nc3ccc(NC(=O)c4ccc5ccccc5c4O)cc3)nc(N3CCCC(O)C3)n2)C1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1ccc(S(=O)(=O)N(Cc2ccccc2)c2ccc(Nc3nc(N4C[C@H](N)C[C@H](N)C4)nc(N4C[C@@H](N)C[C@@H](O)C4)n3)cc2O)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "N[C@@H]1C[C@H](N)CN(c2nc(Nc3ccc(NC(=O)c4ccc(Cl)cc4)c(O)c3)nc(N3C[C@@H](N)C[C@@H](O)C3)n2)C1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "N[C@@H]1C[C@H](N)CN(c2nc(Nc3ccc(NC(=O)c4ccc5ccccc5c4O)cc3)nc(N3C[C@@H](N)C[C@@H](O)C3)n2)C1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1ccc(S(=O)(=O)N(Cc2ccccc2)c2ccc(Nc3nc(N4C[C@H](N)C[C@H](N)C4)nc(N4CC[C@H](O)[C@@H]4CN)n3)cc2O)cc1": {
+        "class_results": [],
+        "superclass_results": [
+            "Ornithine alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "NC[C@H]1[C@@H](O)CCN1c1nc(Nc2ccc(NC(=O)c3ccc(Cl)cc3)c(O)c2)nc(N2C[C@H](N)C[C@H](N)C2)n1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "NC[C@H]1[C@@H](O)CCN1c1nc(Nc2ccc(NC(=O)c3ccc4ccccc4c3O)cc2)nc(N2C[C@H](N)C[C@H](N)C2)n1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1ccc(S(=O)(=O)N(Cc2ccccc2)c2ccc(Nc3nc(N4C[C@H](N)C[C@H](N)C4)nc(N4C[C@@H](N)C[C@H]4CO)n3)cc2O)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "N[C@@H]1C[C@H](N)CN(c2nc(Nc3ccc(NC(=O)c4ccc(Cl)cc4)c(O)c3)nc(N3C[C@@H](N)C[C@H]3CO)n2)C1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "N[C@@H]1C[C@H](N)CN(c2nc(Nc3ccc(NC(=O)c4ccc5ccccc5c4O)cc3)nc(N3C[C@@H](N)C[C@H]3CO)n2)C1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1ccc(S(=O)(=O)N(Cc2ccccc2)c2ccc(Nc3nc(N4C[C@H](N)C[C@H](N)C4)nc(N4C[C@@H](N)C[C@H]4CN)n3)cc2O)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "NC[C@@H]1C[C@H](N)CN1c1nc(Nc2ccc(NC(=O)c3ccc(Cl)cc3)c(O)c2)nc(N2C[C@H](N)C[C@H](N)C2)n1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1ccc(S(=O)(=O)N(Cc2ccccc2)c2ccc(Nc3nc(N4CC(N)C4)nc(N4C[C@H](N)C[C@H](N)C4)n3)cc2O)cc1": {
+        "class_results": [],
+        "superclass_results": [
+            "Ornithine alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1ccc(S(=O)(=O)N(Cc2ccccc2)c2ccc(Nc3nc(N4C[C@H](N)C[C@H](N)C4)nc(N4C[C@@H](N)[C@@H](N)C4)n3)cc2O)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "Oc1ccc(Cl)cc1/C=N/Cc1ccccc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CC(C/N=C/c1cc(Cl)ccc1O)/N=C/c1cc(Cl)ccc1O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "Oc1ccc(Cl)cc1/C=N/Cc1ccco1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "Oc1ccc(CC/N=C/c2cc(Cl)ccc2O)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "Oc1ccc(Cl)cc1/C=N/Cc1ccc(F)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "Oc1ccc(Cl)cc1/C=N/CCC/N=C/c1cc(Cl)ccc1O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "Oc1ccc(Cl)cc1/C=N/C1CCCC1": {
+        "class_results": [],
+        "superclass_results": [
+            "Lysine alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Oc1ccc(Cl)cc1/C=N/C1CCCCC1": {
+        "class_results": [],
+        "superclass_results": [
+            "Lysine alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Oc1ccc(Cl)cc1/C=N/CCN1CCOCC1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "Oc1ccc(Cl)cc1/C=N/CCNCC/N=C/c1cc(Cl)ccc1O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "Oc1ccc(Cl)cc1/C=N/CC/N=C/c1cc(Cl)ccc1O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "CC1(C)CC(/N=C/c2cc(Cl)ccc2O)CC(C)(C)N1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Oc1ccc(Cl)cc1/C=N/Cc1cccnc1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "OCC/N=C/c1cc(Cl)ccc1O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "Oc1ccc(Cl)cc1/C=N/CCCN1CCOCC1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "Oc1ccc(Cl)cc1/C=N/CCN1CCNCC1": {
+        "class_results": [],
+        "superclass_results": [
+            "Lysine alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=[N+]([O-])c1ccc(/N=C/c2cc(Cl)ccc2O)cc1": null,
+    "C/C(=N\\n1c(S)nnc(C)c1=O)c1ccccn1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CCC1(CNCCC#N)CN(c2c(F)cc3c(=O)c(C(=O)O)cn(C4CC4)c3c2C)C1": null,
+    "CCC1(CN)CN(c2c(F)cc3c(=O)c(C(=O)O)cn(C4CC4)c3c2C)C1": {
+        "class_results": [],
+        "superclass_results": [
+            "Tryptophan alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1c(N2CC(C)(CNCCC#N)C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12": null,
+    "Cc1c(N2CC(C)(CN)C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CN[C@@H](CC#N)[C@@H]1CCN(c2c(F)cc3c(=O)c(C(=O)O)cn4c3c2OCC4C)C1": null,
+    "CC1COc2c(N3CC[C@@H]([C@@H](N)CC#N)C3)c(F)cc3c(=O)c(C(=O)O)cn1c23": null,
+    "CC1COc2c(N3CC[C@@H]([C@H](C)NCCC#N)C3)c(F)cc3c(=O)c(C(=O)O)cn1c23": null,
+    "CC1COc2c(N3CC[C@@H]([C@H](C)N)C3)c(F)cc3c(=O)c(C(=O)O)cn1c23": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1c(N2CC[C@@H]([C@H](C)NCCC#N)C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12": null,
+    "Cc1c(N2CC[C@@H]([C@H](C)N)C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1c(N2CC[C@@H]([C@@H](N)CC#N)C2)ccc2c(=O)c(C(=O)O)cn(C3CC3)c12": null,
+    "COc1c(N2CC[C@@H]([C@H](C)NCCC#N)C2)ccc2c(=O)c(C(=O)O)cn(C3CC3)c12": null,
+    "COc1c(N2CC[C@@H]([C@H](C)N)C2)ccc2c(=O)c(C(=O)O)cn(C3CC3)c12": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1c(N2CC[C@@H](CNCCC#N)C2)ccc2c(=O)c(C(=O)O)cn(C3CC3)c12": null,
+    "COc1c(N2CC[C@@H](CN)C2)ccc2c(=O)c(C(=O)O)cn(C3CC3)c12": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CN[C@@H](CC#N)[C@@H]1CCN(c2c(F)cc3c(=O)c(C(=O)O)cn(C4CC4)c3c2OC)C1": null,
+    "CN[C@@H](C)[C@@H]1CCN(c2c(F)cc3c(=O)c(C(=O)O)cn(C4CC4)c3c2OC)C1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1c(N2CC[C@@H]([C@@H](N)CC#N)C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12": null,
+    "COc1c(N2CC[C@@H]([C@H](C)NCCC#N)C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12": null,
+    "COc1c(N2CC[C@@H](CNCCC#N)C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12": null,
+    "COc1c(N2CC[C@@H](CN)C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc2nccc(-n3cc4c(n3)CCN(C(=O)c3ccc5c(c3)NC(=O)CS5)CC4)c2n1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc2nccc(-n3cc4c(n3)CC(NC(=O)c3ccc5c(c3)NC(=O)CS5)CC4)c2c1": {
+        "class_results": [],
+        "superclass_results": [
+            "Anthranilic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc2nccc(-n3cc4c(n3)CCC(NC(=O)c3ccc5c(c3)NC(=O)CS5)C4)c2n1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc2nccc(-n3cc4c(n3)CCC(NCc3ccc5c(c3)NC(=O)CS5)C4)c2n1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc2nccc(-n3cc4c(n3)CCC(NC(=O)c3ccc5c(c3)NC(=O)CS5)C4)c2c1": {
+        "class_results": [],
+        "superclass_results": [
+            "Tryptophan alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc2nccc(-n3cc4c(n3)CCC(NCc3ccc5c(c3)NC(=O)CS5)C4)c2c1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc2nccc(-n3cc4c(n3)CCC(NCc3ccc5c(c3)OCCO5)C4)c2c1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc2nccc(-n3ncc4c3CCC(NCc3ccc5c(c3)OCCO5)C4)c2c1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CC(C)C/C=C/C=C\\C(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]1C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c2ccc(O)c(Cl)c2)C(=O)O[C@@H]1C(N)=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "CCCC(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]1C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c2ccc(O)c(Cl)c2)C(=O)O[C@@H]1C(N)=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "CC(C)C[C@@H]1NC(=O)CNC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H]([C@@H](C)O)NC(=O)[C@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)NC(=O)[C@@H](CCCN)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H](C(C)C)NC(=O)[C@@H](CCCN)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@@H](CNC(=O)[C@H](CC(N)=O)NC(=O)CCCc2ccccc2)[C@@H](C(N)=O)OC(=O)[C@H](c2ccc(O)c(Cl)c2)NC(=O)[C@@H](C)NC1=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "CC(C)C[C@@H]1NC(=O)CNC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H]([C@@H](C)O)NC(=O)[C@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)NC(=O)[C@@H](CCCN)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H](C(C)C)NC(=O)[C@@H](CCCN)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@@H](CNC(=O)[C@H](CC(N)=O)NC(=O)COc2ccccc2)[C@@H](C(N)=O)OC(=O)[C@H](c2ccc(O)c(Cl)c2)NC(=O)[C@@H](C)NC1=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides",
+            "Vancomycins and Teicoplanins"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CC(C)C[C@@H]1NC(=O)CNC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H]([C@@H](C)O)NC(=O)[C@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)NC(=O)[C@@H](CCCN)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H](C(C)C)NC(=O)[C@@H](CCCN)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@@H](CNC(=O)[C@H](CC(N)=O)NC(=O)CCc2ccccc2)[C@@H](C(N)=O)OC(=O)[C@H](c2ccc(O)c(Cl)c2)NC(=O)[C@@H](C)NC1=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "COc1ccc(CC(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]2C(=O)N[C@H](c3ccc(O)cc3)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c3ccc(O)cc3)C(=O)N[C@H](c3ccc(O)cc3)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc3ccccc3)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c3ccc(O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]4O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]4O)cc3)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c3ccc(O)cc3)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c3ccc(O)c(Cl)c3)C(=O)O[C@@H]2C(N)=O)cc1": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CC(C)C[C@@H]1NC(=O)CNC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H]([C@@H](C)O)NC(=O)[C@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)NC(=O)[C@@H](CCCN)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H](C(C)C)NC(=O)[C@@H](CCCN)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@@H](CNC(=O)[C@H](CC(N)=O)NC(=O)Cc2ccc(Cl)cc2)[C@@H](C(N)=O)OC(=O)[C@H](c2ccc(O)c(Cl)c2)NC(=O)[C@@H](C)NC1=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CC(C)C[C@@H]1NC(=O)CNC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H]([C@@H](C)O)NC(=O)[C@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)NC(=O)[C@@H](CCCN)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H](C(C)C)NC(=O)[C@@H](CCCN)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@@H](CNC(=O)[C@H](CC(N)=O)NC(=O)Cc2ccccc2)[C@@H](C(N)=O)OC(=O)[C@H](c2ccc(O)c(Cl)c2)NC(=O)[C@@H](C)NC1=O.Cl": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CC(C)C[C@@H]1NC(=O)CNC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H]([C@@H](C)O)NC(=O)[C@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)NC(=O)[C@@H](CCCN)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H](C(C)C)NC(=O)[C@@H](CCCN)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@@H](CNC(=O)[C@H](CC(N)=O)NC(=O)Cc2ccc3ccccc3c2)[C@@H](C(N)=O)OC(=O)[C@H](c2ccc(O)c(Cl)c2)NC(=O)[C@@H](C)NC1=O.Cl": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CC(C)C[C@@H]1NC(=O)CNC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H]([C@@H](C)O)NC(=O)[C@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)NC(=O)[C@@H](CCCN)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H](C(C)C)NC(=O)[C@@H](CCCN)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@@H](CNC(=O)[C@H](CC(N)=O)NC(=O)c2cccc3ccccc23)[C@@H](C(N)=O)OC(=O)[C@H](c2ccc(O)c(Cl)c2)NC(=O)[C@@H](C)NC1=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CC(C)C[C@@H]1NC(=O)CNC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H]([C@@H](C)O)NC(=O)[C@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)NC(=O)[C@@H](CCCN)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H](C(C)C)NC(=O)[C@@H](CCCN)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@@H](CNC(=O)[C@H](CC(N)=O)NC(=O)c2ccc3ccccc3c2)[C@@H](C(N)=O)OC(=O)[C@H](c2ccc(O)c(Cl)c2)NC(=O)[C@@H](C)NC1=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides",
+            "Vancomycins and Teicoplanins"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CC(C)C[C@@H]1NC(=O)CNC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H]([C@@H](C)O)NC(=O)[C@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)NC(=O)[C@@H](CCCN)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H](C(C)C)NC(=O)[C@@H](CCCN)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@@H](CNC(=O)[C@H](CC(N)=O)NC(=O)c2ccc(OCc3cccc(Cl)c3)cc2)[C@@H](C(N)=O)OC(=O)[C@H](c2ccc(O)c(Cl)c2)NC(=O)[C@@H](C)NC1=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides",
+            "Vancomycins and Teicoplanins"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CCCCOc1ccc(C(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]2C(=O)N[C@H](c3ccc(O)cc3)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c3ccc(O)cc3)C(=O)N[C@H](c3ccc(O)cc3)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc3ccccc3)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c3ccc(O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]4O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]4O)cc3)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c3ccc(O)cc3)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c3ccc(O)c(Cl)c3)C(=O)O[C@@H]2C(N)=O)cc1OCCCC": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides",
+            "Vancomycins and Teicoplanins"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "CCCCCCCOc1ccc(C(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]2C(=O)N[C@H](c3ccc(O)cc3)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c3ccc(O)cc3)C(=O)N[C@H](c3ccc(O)cc3)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc3ccccc3)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c3ccc(O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]4O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]4O)cc3)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c3ccc(O)cc3)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c3ccc(O)c(Cl)c3)C(=O)O[C@@H]2C(N)=O)cc1": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides",
+            "Vancomycins and Teicoplanins"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "CCCCCOc1ccc(C(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]2C(=O)N[C@H](c3ccc(O)cc3)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c3ccc(O)cc3)C(=O)N[C@H](c3ccc(O)cc3)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc3ccccc3)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c3ccc(O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]4O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]4O)cc3)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c3ccc(O)cc3)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c3ccc(O)c(Cl)c3)C(=O)O[C@@H]2C(N)=O)cc1": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides",
+            "Vancomycins and Teicoplanins"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "CCCCOc1ccc(C(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]2C(=O)N[C@H](c3ccc(O)cc3)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c3ccc(O)cc3)C(=O)N[C@H](c3ccc(O)cc3)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc3ccccc3)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c3ccc(O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]4O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]4O)cc3)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c3ccc(O)cc3)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c3ccc(O)c(Cl)c3)C(=O)O[C@@H]2C(N)=O)cc1": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides",
+            "Vancomycins and Teicoplanins"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "CCOc1ccc(C(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]2C(=O)N[C@H](c3ccc(O)cc3)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c3ccc(O)cc3)C(=O)N[C@H](c3ccc(O)cc3)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc3ccccc3)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c3ccc(O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]4O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]4O)cc3)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c3ccc(O)cc3)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c3ccc(O)c(Cl)c3)C(=O)O[C@@H]2C(N)=O)cc1": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides",
+            "Vancomycins and Teicoplanins"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CC(C)C[C@@H]1NC(=O)CNC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H]([C@@H](C)O)NC(=O)[C@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)NC(=O)[C@@H](CCCN)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H](C(C)C)NC(=O)[C@@H](CCCN)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@@H](CNC(=O)[C@H](CC(N)=O)NC(=O)c2ccc(C#N)cc2)[C@@H](C(N)=O)OC(=O)[C@H](c2ccc(O)c(Cl)c2)NC(=O)[C@@H](C)NC1=O": null,
+    "CC(C)C[C@@H]1NC(=O)CNC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H]([C@@H](C)O)NC(=O)[C@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)NC(=O)[C@@H](CCCN)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H](C(C)C)NC(=O)[C@@H](CCCN)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@@H](CNC(=O)[C@H](CC(N)=O)NC(=O)c2ccc(O)cc2)[C@@H](C(N)=O)OC(=O)[C@H](c2ccc(O)c(Cl)c2)NC(=O)[C@@H](C)NC1=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides",
+            "Vancomycins and Teicoplanins"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CC(C)C[C@@H]1NC(=O)CNC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H]([C@@H](C)O)NC(=O)[C@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)NC(=O)[C@@H](CCCN)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H](C(C)C)NC(=O)[C@@H](CCCN)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@@H](CNC(=O)[C@H](CC(N)=O)NC(=O)c2ccc(Cl)cc2)[C@@H](C(N)=O)OC(=O)[C@H](c2ccc(O)c(Cl)c2)NC(=O)[C@@H](C)NC1=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides",
+            "Vancomycins and Teicoplanins"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CCCCCCCCc1ccc(C(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]2C(=O)N[C@H](c3ccc(O)cc3)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c3ccc(O)cc3)C(=O)N[C@H](c3ccc(O)cc3)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc3ccccc3)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c3ccc(O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]4O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]4O)cc3)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c3ccc(O)cc3)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c3ccc(O)c(Cl)c3)C(=O)O[C@@H]2C(N)=O)cc1": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides",
+            "Vancomycins and Teicoplanins"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "CCCCc1ccc(C(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]2C(=O)N[C@H](c3ccc(O)cc3)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c3ccc(O)cc3)C(=O)N[C@H](c3ccc(O)cc3)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc3ccccc3)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c3ccc(O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]4O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]4O)cc3)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c3ccc(O)cc3)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c3ccc(O)c(Cl)c3)C(=O)O[C@@H]2C(N)=O)cc1": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides",
+            "Vancomycins and Teicoplanins"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "CCc1ccc(C(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]2C(=O)N[C@H](c3ccc(O)cc3)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c3ccc(O)cc3)C(=O)N[C@H](c3ccc(O)cc3)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc3ccccc3)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c3ccc(O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]4O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]4O)cc3)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c3ccc(O)cc3)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c3ccc(O)c(Cl)c3)C(=O)O[C@@H]2C(N)=O)cc1": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides",
+            "Vancomycins and Teicoplanins"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "Cc1ccc(C(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]2C(=O)N[C@H](c3ccc(O)cc3)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c3ccc(O)cc3)C(=O)N[C@H](c3ccc(O)cc3)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc3ccccc3)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c3ccc(O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]4O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]4O)cc3)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c3ccc(O)cc3)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c3ccc(O)c(Cl)c3)C(=O)O[C@@H]2C(N)=O)cc1": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides",
+            "Vancomycins and Teicoplanins"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CC(C)C[C@@H]1NC(=O)CNC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H]([C@@H](C)O)NC(=O)[C@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)NC(=O)[C@@H](CCCN)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H](C(C)C)NC(=O)[C@@H](CCCN)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@@H](CNC(=O)[C@H](CC(N)=O)NC(=O)c2ccccc2)[C@@H](C(N)=O)OC(=O)[C@H](c2ccc(O)c(Cl)c2)NC(=O)[C@@H](C)NC1=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides",
+            "Vancomycins and Teicoplanins"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CCCCCCCCCCCCCC(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]1C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c2ccc(O)c(Cl)c2)C(=O)O[C@@H]1C(N)=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides",
+            "Lipopeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "CCCCCCCCCC(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]1C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c2ccc(O)c(Cl)c2)C(=O)O[C@@H]1C(N)=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "CCCCCCCCC(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]1C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c2ccc(O)c(Cl)c2)C(=O)O[C@@H]1C(N)=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "CCCCCCCC(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]1C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c2ccc(O)c(Cl)c2)C(=O)O[C@@H]1C(N)=O.Cl": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides",
+            "Vancomycins and Teicoplanins"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "CCCCCCC(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]1C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c2ccc(O)c(Cl)c2)C(=O)O[C@@H]1C(N)=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "CCCCCC(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]1C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)NC(c2ccc(O)c(Cl)c2)C(=O)O[C@@H]1C(N)=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "CCCCC(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]1C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c2ccc(O)c(Cl)c2)C(=O)O[C@@H]1C(N)=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "Cc1ccc(CC(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]2C(=O)N[C@H](c3ccc(O)cc3)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c3ccc(O)cc3)C(=O)N[C@H](c3ccc(O)cc3)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc3ccccc3)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c3ccc(O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]4O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]4O)cc3)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c3ccc(O)cc3)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c3ccc(O)c(Cl)c3)C(=O)O[C@@H]2C(N)=O)cc1.Cl": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CC(C)C[C@@H]1NC(=O)CNC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H]([C@@H](C)O)NC(=O)[C@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)NC(=O)[C@@H](CCCN)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H](C(C)C)NC(=O)[C@@H](CCCN)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@@H](CNC(=O)[C@H](CC(N)=O)NC(=O)Cc2cccc3ccccc23)[C@@H](C(N)=O)OC(=O)[C@H](c2ccc(O)c(Cl)c2)NC(=O)[C@@H](C)NC1=O.Cl": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CC(C)C[C@@H]1NC(=O)CNC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H]([C@@H](C)O)NC(=O)[C@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)NC(=O)[C@@H](CCCN)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H](C(C)C)NC(=O)[C@@H](CCCN)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@@H](CNC(=O)[C@H](CC(N)=O)NC(=O)Cc2ccc(O)cc2)[C@@H](C(N)=O)OC(=O)[C@H](c2ccc(O)c(Cl)c2)NC(=O)[C@@H](C)NC1=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CC(C)C/C=C/C=C/CC(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]1C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c2ccc(O)c(Cl)c2)C(=O)O[C@@H]1C(N)=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "Cc1ccccc1C(C)C(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]1C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c2ccc(O)c(Cl)c2)C(=O)O[C@@H]1C(N)=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "CC(C)C[C@@H]1NC(=O)CNC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H]([C@@H](C)O)NC(=O)[C@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)NC(=O)[C@@H](CCCN)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H](C(C)C)NC(=O)[C@@H](CCCN)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@@H](CNC(=O)[C@H](CC(N)=O)NC(=O)Cc2ccccc2[N+](=O)[O-])[C@@H](C(N)=O)OC(=O)[C@H](c2ccc(O)c(Cl)c2)NC(=O)[C@@H](C)NC1=O": null,
+    "CCc1ccccc1CC(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]1C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c2ccc(O)c(Cl)c2)C(=O)O[C@@H]1C(N)=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "Cc1ccccc1C(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]1C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c2ccc(O)c(Cl)c2)C(=O)O[C@@H]1C(N)=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides",
+            "Vancomycins and Teicoplanins"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CC/C=C/C=C\\CC(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]1C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c2ccc(O)c(Cl)c2)C(=O)O[C@@H]1C(N)=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "Cc1cccc(CC(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]2C(=O)N[C@H](c3ccc(O)cc3)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c3ccc(O)cc3)C(=O)N[C@H](c3ccc(O)cc3)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc3ccccc3)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c3ccc(O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]4O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]4O)cc3)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c3ccc(O)cc3)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c3ccc(O)c(Cl)c3)C(=O)O[C@@H]2C(N)=O)c1": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CCCCC(CC)C(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]1C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c2ccc(O)c(Cl)c2)C(=O)O[C@@H]1C(N)=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "CC(C)/C=C/C=C/CC(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]1C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c2ccc(O)c(Cl)c2)C(=O)O[C@@H]1C(N)=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "Cc1cccc(C)c1CC(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]1C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c2ccc(O)c(Cl)c2)C(=O)O[C@@H]1C(N)=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "Cc1cc(C)cc(CC(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]2C(=O)N[C@H](c3ccc(O)cc3)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c3ccc(O)cc3)C(=O)N[C@H](c3ccc(O)cc3)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc3ccccc3)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c3ccc(O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]4O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]4O)cc3)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c3ccc(O)cc3)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c3ccc(O)c(Cl)c3)C(=O)O[C@@H]2C(N)=O)c1": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "CC(C)C[C@@H]1NC(=O)CNC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H]([C@@H](C)O)NC(=O)[C@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)NC(=O)[C@@H](CCCN)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H](C(C)C)NC(=O)[C@@H](CCCN)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@@H](CNC(=O)[C@H](CC(N)=O)NC(=O)Cc2ccccc2C(F)(F)F)[C@@H](C(N)=O)OC(=O)[C@H](c2ccc(O)c(Cl)c2)NC(=O)[C@@H](C)NC1=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides",
+            "Vancomycins and Teicoplanins"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "Cc1ccccc1CC(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]1C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c2ccc(O)c(Cl)c2)C(=O)O[C@@H]1C(N)=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CCC/C=C/C=C/CC(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]1C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c2ccc(O)c(Cl)c2)C(=O)O[C@@H]1C(N)=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "CCC/C=C/C=C\\CC(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]1C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c2ccc(O)c(Cl)c2)C(=O)O[C@@H]1C(N)=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "CC(C)/C=C/C=C\\CC(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]1C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c2ccc(O)c(Cl)c2)C(=O)O[C@@H]1C(N)=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "CCCCCCCC(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]1C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)N[C@H](c2ccc(O)cc2)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc2ccccc2)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c2ccc(O)cc2)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c2ccc(O)c(Cl)c2)C(=O)O[C@@H]1C(N)=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "Cc1ccc(CC(=O)N[C@@H](CC(N)=O)C(=O)NC[C@@H]2C(=O)N[C@H](c3ccc(O)cc3)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](c3ccc(O)cc3)C(=O)N[C@H](c3ccc(O)cc3)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](Cc3ccccc3)C(=O)N[C@H](CCCN)C(=O)N[C@@H](c3ccc(O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]4O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]4O)cc3)C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@@H](c3ccc(O)cc3)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C)C(=O)N[C@@H](c3ccc(O)c(Cl)c3)C(=O)O[C@@H]2C(N)=O)cc1": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CC(C)C[C@@H]1NC(=O)CNC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H]([C@@H](C)O)NC(=O)[C@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)NC(=O)[C@@H](CCCN)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H](C(C)C)NC(=O)[C@@H](CCCN)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@@H](CNC(=O)[C@H](CC(N)=O)NC(=O)Cc2ccccc2)[C@@H](C(N)=O)OC(=O)[C@H](c2ccc(O)c(Cl)c2)NC(=O)[C@@H](C)NC1=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CC(C)C[C@@H]1NC(=O)CNC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H]([C@@H](C)O)NC(=O)[C@H](c2ccc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]3O)cc2)NC(=O)[C@@H](CCCN)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@H](c2ccc(O)cc2)NC(=O)[C@@H](C(C)C)NC(=O)[C@@H](CCCN)NC(=O)[C@@H](c2ccc(O)cc2)NC(=O)[C@@H](CNC(=O)[C@H](CC(N)=O)NC(=O)Cc2cccc3ccccc23)[C@@H](C(N)=O)OC(=O)[C@H](c2ccc(O)c(Cl)c2)NC(=O)[C@@H](C)NC1=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CC(C)O[C@@H]1C=C([C@H](O)c2ccccc2[N+](=O)[O-])C(=O)[C@@H](COC(=O)C(C)(C)C)O1": null,
+    "CCCCCCCCC[C@@H](O)C1=C[C@@H](OC(C)C)O[C@H](COC(=O)c2ccc([N+](=O)[O-])cc2)[C@H]1O": null,
+    "CC(C)O[C@@H]1C=C([C@H](O)c2ccc(C(F)(F)F)cc2)[C@H](O)[C@@H](COC(=O)c2ccc([N+](=O)[O-])cc2)O1": null,
+    "CC(C)O[C@@H]1C=C([C@H](O)c2ccc([N+](=O)[O-])cc2)[C@H](O)[C@@H](COC(=O)c2ccc([N+](=O)[O-])cc2)O1": null,
+    "CC(=O)OC[C@H]1O[C@H](OC(C)C)C=C([C@H](O)c2ccc([N+](=O)[O-])cc2)[C@@H]1O": null,
+    "CCCCCCCCC[C@@H](O)C1=C[C@@H](OC(C)C)O[C@H](COC(=O)C(C)(C)C)[C@H]1O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Polyketides"
+        ]
+    },
+    "CC(C)O[C@@H]1C=C([C@H](O)c2ccc(C(F)(F)F)cc2)[C@H](O)[C@@H](COC(=O)C(C)(C)C)O1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Polyketides"
+        ]
+    },
+    "CC(C)O[C@@H]1C=C([C@H](O)c2ccc(F)cc2)[C@H](O)[C@@H](COC(=O)C(C)(C)C)O1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "CC(C)O[C@@H]1C=C([C@H](O)c2cccc([N+](=O)[O-])c2)[C@H](O)[C@@H](COC(=O)C(C)(C)C)O1": null,
+    "CC(C)O[C@@H]1C=C([C@H](O)c2ccccc2[N+](=O)[O-])[C@H](O)[C@@H](COC(=O)C(C)(C)C)O1": null,
+    "CCCCCCCCC[C@@H](O)C1=C[C@@H](OC(C)C)O[C@H](COC(=O)c2ccc([N+](=O)[O-])cc2)C1=O": null,
+    "CCC[C@@H](O)C1=C[C@@H](OC(C)C)O[C@H](COC(=O)c2ccc([N+](=O)[O-])cc2)C1=O": null,
+    "CC(C)O[C@@H]1C=C([C@H](O)c2ccc(C(F)(F)F)cc2)C(=O)[C@@H](COC(=O)c2ccc([N+](=O)[O-])cc2)O1": null,
+    "CC(C)O[C@@H]1C=C([C@H](O)c2ccc(F)cc2)C(=O)[C@@H](COC(=O)c2ccc([N+](=O)[O-])cc2)O1": null,
+    "CC(C)O[C@@H]1C=C([C@H](O)c2ccc(C#N)cc2)C(=O)[C@@H](COC(=O)c2ccc([N+](=O)[O-])cc2)O1": null,
+    "CC(C)O[C@@H]1C=C([C@H](O)c2ccc([N+](=O)[O-])cc2)C(=O)[C@@H](COC(=O)c2ccc([N+](=O)[O-])cc2)O1": null,
+    "CC(=O)OC[C@H]1O[C@H](OC(C)C)C=C([C@H](O)c2ccc([N+](=O)[O-])cc2)C1=O": null,
+    "CCCCCCCCC[C@@H](O)C1=C[C@@H](OC(C)C)O[C@H](COC(=O)C(C)(C)C)C1=O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Polyketides"
+        ]
+    },
+    "CCC[C@@H](O)C1=C[C@@H](OC(C)C)O[C@H](COC(=O)C(C)(C)C)C1=O": {
+        "class_results": [
+            "Open-chain polyketides"
+        ],
+        "superclass_results": [
+            "Linear polyketides"
+        ],
+        "pathway_results": [
+            "Polyketides"
+        ]
+    },
+    "CC(C)O[C@@H]1C=C([C@H](O)c2ccc(C(F)(F)F)cc2)C(=O)[C@@H](COC(=O)C(C)(C)C)O1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "CC(C)O[C@@H]1C=C([C@H](O)c2ccc(C#N)cc2)C(=O)[C@@H](COC(=O)C(C)(C)C)O1": null,
+    "CC(C)O[C@@H]1C=C([C@H](O)c2ccc([N+](=O)[O-])cc2)C(=O)[C@@H](COC(=O)C(C)(C)C)O1": null,
+    "CC(C)O[C@@H]1C=C([C@H](O)c2cccc([N+](=O)[O-])c2)C(=O)[C@@H](COC(=O)C(C)(C)C)O1": null,
+    "CCCNC(=O)C[C@@H]1NC(=O)[C@@H](CCCCN)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@@H]2CCCN2C(=O)[C@@H](Cc2ccccc2)NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@H](CCCN)NC(=O)[C@H](C(C)C)NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@H](CCCCN)NC1=O": {
+        "class_results": [
+            "Cyclic peptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CCCNC(=O)C[C@H]1NC(=O)[C@@H](CCCCN)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@@H]2CCCN2C(=O)[C@@H](Cc2ccccc2)NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@H](CCCN)NC(=O)[C@H](C(C)C)NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@H](CCCCN)NC1=O": {
+        "class_results": [
+            "Cyclic peptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CCCNC(=O)C[C@H]1NC(=O)[C@@H](CCCCN)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@@H]2CCCN2C(=O)[C@@H](Cc2ccccc2)NC(=O)[C@@H]2CCCN2C(=O)[C@H](CCCN)NC(=O)[C@H](C(C)C)NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@H](Cc2ccc(F)cc2)NC1=O": {
+        "class_results": [
+            "Cyclic peptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CCCNC(=O)C[C@@H]1NC(=O)[C@@H](Cc2ccccc2)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@@H]2CCCN2C(=O)[C@@H](Cc2ccccc2)NC(=O)CNC(=O)[C@H](CCCN)NC(=O)[C@H](C(C)C)NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@H](CCCCN)NC1=O": {
+        "class_results": [
+            "Cyclic peptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CCCNC(=O)C[C@@H]1NC(=O)[C@@H](CCCNC(=N)N)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@@H]2CCCN2C(=O)[C@@H](Cc2ccccc2)NC(=O)[C@@H](CC(C)C)NC(=O)[C@H](CCCN)NC(=O)[C@H](C(C)C)NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@H](CCCCN)NC1=O": {
+        "class_results": [
+            "Cyclic peptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CCCNC(=O)C[C@@H]1NC(=O)[C@@H](CCCNC(=N)N)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@@H]2CCCN2C(=O)[C@@H](Cc2ccccc2)NC(=O)[C@H](Cc2ccc(F)cc2)NC(=O)[C@H](CCCN)NC(=O)[C@H](C(C)C)NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@H](CO)NC1=O": {
+        "class_results": [
+            "Cyclic peptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CCCNC(=O)C[C@H]1NC(=O)[C@@H](CCCNC(=N)N)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@@H]2CCCN2C(=O)[C@@H](Cc2ccccc2)NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@H](CCCN)NC(=O)[C@H](C(C)C)NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@H](CO)NC1=O": {
+        "class_results": [
+            "Cyclic peptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CCCNC(=O)C[C@H]1NC(=O)[C@@H](CCCNC(=N)N)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@@H]2CCCN2C(=O)[C@@H](Cc2ccccc2)NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@H](CCCN)NC(=O)[C@H](C(C)C)NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@H](CCCNC(=N)N)NC1=O": {
+        "class_results": [
+            "Cyclic peptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CCCNC(=O)C[C@@H]1NC(=O)[C@@H](CCCNC(=N)N)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@@H]2CCCN2C(=O)[C@@H](Cc2ccccc2)NC(=O)[C@H](Cc2ccc(F)cc2)NC(=O)[C@H](CCCN)NC(=O)[C@H](C(C)C)NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@H](CCCNC(=N)N)NC1=O": {
+        "class_results": [
+            "Cyclic peptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CCCNC(=O)C[C@@H]1NC(=O)[C@@H](CCCNC(=N)N)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@@H]2CCCN2C(=O)[C@@H](Cc2ccccc2)NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@H](CCCN)NC(=O)[C@H](C(C)C)NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)CNC1=O": {
+        "class_results": [
+            "Cyclic peptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CCCNC(=O)C[C@H]1NC(=O)[C@@H](CCCNC(=N)N)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@@H]2CCCN2C(=O)[C@@H](Cc2ccccc2)NC(=O)[C@H](Cc2ccc(F)cc2)NC(=O)[C@H](CCCN)NC(=O)[C@H](C(C)C)NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)CNC1=O": {
+        "class_results": [
+            "Cyclic peptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CCCNC(=O)C[C@H]1NC(=O)[C@@H](CCCNC(=N)N)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@@H]2CCCN2C(=O)[C@@H](Cc2ccccc2)NC(=O)[C@@H]2CCCN2C(=O)[C@H](CCCN)NC(=O)[C@H](C(C)C)NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@@H](C)NC1=O": {
+        "class_results": [
+            "Cyclic peptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CCCNC(=O)C[C@@H]1NC(=O)[C@@H](CCCNC(=N)N)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@@H]2CCCN2C(=O)[C@@H](Cc2ccccc2)NC(=O)[C@@H](CC(N)=O)NC(=O)[C@H](CCCN)NC(=O)[C@H](C(C)C)NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@@H](CC(C)C)NC1=O": {
+        "class_results": [
+            "Cyclic peptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CCCNC(=O)C[C@@H]1NC(=O)[C@@H](CCCCN)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@@H]2CCCN2C(=O)[C@@H](Cc2ccccc2)NC(=O)[C@@H]2CCCN2C(=O)[C@H](CCCN)NC(=O)[C@H](C(C)C)NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@H](Cc2ccc(F)cc2)NC1=O": {
+        "class_results": [
+            "Cyclic peptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CCCNC(=O)C[C@@H]1NC(=O)[C@@H](CCCNC(=N)N)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@@H]2CCCN2C(=O)[C@@H](Cc2ccccc2)NC(=O)[C@@H]2CCCN2C(=O)[C@H](CCCN)NC(=O)[C@H](C(C)C)NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@@H](C)NC1=O": {
+        "class_results": [
+            "Cyclic peptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CCCNC(=O)C[C@@H]1NC(=O)[C@@H](Cc2ccccc2)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@@H]2CCCN2C(=O)[C@@H](Cc2ccccc2)NC(=O)CN(C)C(=O)[C@H](CCCN)NC(=O)[C@H](C(C)C)NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@@H](Cc2ccccc2)NC1=O": {
+        "class_results": [
+            "Cyclic peptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "C/C=C(\\C)[C@H]1[C@@H](/C=C/C=C(\\C)[C@@H](O)[C@@H](C)CO)[C@@H]2C[C@@H](Cl)[C@](C)(O)C[C@H]2[C@@H]2O[C@@]21C": {
+        "class_results": [
+            "Decalins with side chains"
+        ],
+        "superclass_results": [
+            "Cyclic polyketides"
+        ],
+        "pathway_results": [
+            "Polyketides"
+        ]
+    },
+    "C/C=C(\\C)[C@H]1[C@@H](/C=C/C=C(\\C)[C@@H](O)[C@@H](C)CO)[C@@H]2C[C@@H](O)[C@](C)(O)C[C@H]2[C@@H]2O[C@@]21C": {
+        "class_results": [
+            "Decalins with side chains"
+        ],
+        "superclass_results": [
+            "Cyclic polyketides"
+        ],
+        "pathway_results": [
+            "Polyketides"
+        ]
+    },
+    "C/C=C(\\C)[C@H]1[C@@H](/C=C/C=C(\\C)[C@@H](O)[C@@H](C)CO)[C@@H]2C[C@@H]3O[C@]3(C)C[C@H]2[C@@H]2O[C@@]21C": {
+        "class_results": [
+            "Decalins with side chains"
+        ],
+        "superclass_results": [
+            "Cyclic polyketides"
+        ],
+        "pathway_results": [
+            "Polyketides"
+        ]
+    },
+    "CCCO/N=C1\\CN(c2nc3c(cc2F)c(=O)c(C(=O)O)cn3C2CC2)CCC1NC": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CN(C)C1CN(c2nc3c(cc2F)c(=O)c(C(=O)O)cn3C2CC2)CC/C1=N\\OCc1ccccc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CCCO/N=C1\\CCN(c2nc3c(cc2F)c(=O)c(C(=O)O)cn3C2CC2)CC1N(C)C": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CCO/N=C1\\CCN(c2nc3c(cc2F)c(=O)c(C(=O)O)cn3C2CC2)CC1N(C)C": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CO/N=C1\\CCN(c2nc3c(cc2F)c(=O)c(C(=O)O)cn3C2CC2)CC1N(C)C": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CO/N=C1\\CCN(c2nc3c(cc2F)c(=O)c(C(=O)O)cn3C2CC2)CC1NC1CC1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CO/N=C1\\CCN(c2nc3c(cc2F)c(=O)c(C(=O)O)cn3C2CC2)CC1N": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CNC1CN(c2nc3c(cc2F)c(=O)c(C(=O)O)cn3C2CC2)CC/C1=N\\OCc1ccccc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CCCO/N=C1\\CCN(c2nc3c(cc2F)c(=O)c(C(=O)O)cn3C2CC2)CC1NC": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CO/N=C1\\CN(c2nc3c(cc2F)c(=O)c(C(=O)O)cn3C2CC2)CCC1NC1CC1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CO/N=C1\\CN(c2nc3c(cc2F)c(=O)c(C(=O)O)cn3C2CC2)CCC1N": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CCO/N=C1\\CCN(c2nc3c(cc2F)c(=O)c(C(=O)O)cn3C2CC2)CC1NC": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CNC1CN(c2nc3c(cc2F)c(=O)c(C(=O)O)cn3C2CC2)CC/C1=N\\OC": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CNC1CCN(c2nc3c(cc2F)c(=O)c(C(=O)O)cn3C2CC2)C/C1=N\\OCc1ccccc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CCO/N=C1\\CN(c2nc3c(cc2F)c(=O)c(C(=O)O)cn3C2CC2)CCC1NC": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CNC1CCN(c2nc3c(cc2F)c(=O)c(C(=O)O)cn3C2CC2)C/C1=N\\OC": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "C[C@@H](CNC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](Cc1ccc(-c2ccccc2)cc1)NC(=O)[C@@H](N)CCCNC(=N)N)c1ccccc1": {
+        "class_results": [
+            "Tripeptides"
+        ],
+        "superclass_results": [
+            "Small peptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CC(C)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](Cc1ccc(-c2ccccc2)cc1)NC(=O)[C@@H](N)CCCNC(=N)N": {
+        "class_results": [
+            "Tripeptides"
+        ],
+        "superclass_results": [
+            "Small peptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "N=C(N)NCCC[C@H](NC(=O)[C@H](Cc1ccc(-c2ccccc2)cc1)NC(=O)[C@@H](N)CCCNC(=N)N)C(=O)NCCCc1ccccc1": {
+        "class_results": [
+            "Tripeptides"
+        ],
+        "superclass_results": [
+            "Small peptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "N=C(N)NCCC[C@H](NC(=O)[C@H](Cc1ccc(-c2ccccc2)cc1)NC(=O)[C@@H](N)CCCNC(=N)N)C(=O)N(Cc1ccccc1)Cc1ccccc1": {
+        "class_results": [
+            "Tripeptides"
+        ],
+        "superclass_results": [
+            "Small peptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CCN(Cc1ccccc1)C(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](Cc1ccc(-c2ccccc2)cc1)NC(=O)[C@@H](N)CCCNC(=N)N": {
+        "class_results": [
+            "Tripeptides"
+        ],
+        "superclass_results": [
+            "Small peptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CN(Cc1ccccc1)C(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](Cc1ccc(-c2ccccc2)cc1)NC(=O)[C@@H](N)CCCNC(=N)N": {
+        "class_results": [
+            "Tripeptides"
+        ],
+        "superclass_results": [
+            "Small peptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "N=C(N)NCCC[C@H](NC(=O)[C@H](Cc1ccc(-c2ccccc2)cc1)NC(=O)[C@@H](N)CCCNC(=N)N)C(=O)NCCc1ccccc1": {
+        "class_results": [
+            "Tripeptides"
+        ],
+        "superclass_results": [
+            "Small peptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "N=C(N)NCCC[C@H](NC(=O)[C@H](Cc1ccc(-c2ccccc2)cc1)NC(=O)[C@@H](N)CCCNC(=N)N)C(=O)NCc1ccccc1": {
+        "class_results": [
+            "Tripeptides"
+        ],
+        "superclass_results": [
+            "Small peptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "C[C@H](CNC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](Cc1ccc(-c2ccccc2)cc1)NC(=O)[C@@H](N)CCCNC(=N)N)c1ccccc1": {
+        "class_results": [
+            "Tripeptides"
+        ],
+        "superclass_results": [
+            "Small peptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CCCCCCCCC#Cc1cn([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2F)c(=O)[nH]c1=O": {
+        "class_results": [
+            "Hydrocarbons"
+        ],
+        "superclass_results": [
+            "Fatty acyls"
+        ],
+        "pathway_results": [
+            "Fatty acids"
+        ]
+    },
+    "CCCCCCCCCCC#Cc1cn([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2F)c(=O)[nH]c1=O": {
+        "class_results": [
+            "Hydrocarbons"
+        ],
+        "superclass_results": [
+            "Fatty acyls"
+        ],
+        "pathway_results": [
+            "Fatty acids"
+        ]
+    },
+    "CCCCCCCCCCCC#Cc1cn([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2F)c(=O)[nH]c1=O": {
+        "class_results": [
+            "Hydrocarbons"
+        ],
+        "superclass_results": [
+            "Fatty acyls"
+        ],
+        "pathway_results": [
+            "Fatty acids"
+        ]
+    },
+    "CCCCCCCCCCCCC#Cc1cn([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2F)c(=O)[nH]c1=O": {
+        "class_results": [
+            "Hydrocarbons"
+        ],
+        "superclass_results": [
+            "Fatty acyls"
+        ],
+        "pathway_results": [
+            "Fatty acids"
+        ]
+    },
+    "CN[C@H](CC(C)C)C(=O)N[C@H]1C(=O)N[C@@H](CC(N)=O)C(=O)N[C@H]2C(=O)N[C@H]3C(=O)N[C@H](C(=O)N[C@@H](C(=O)NC4C5CC6CC(C5)CC4C6)c4cc(O)cc(O)c4-c4cc3ccc4O)[C@H](O)c3ccc(c(Cl)c3)Oc3cc2cc(c3O[C@H]2O[C@@H](CO)[C@H](O)[C@@H](O)[C@@H]2O[C@H]2C[C@@](C)(N)C(O)[C@@H](C)O2)Oc2ccc(cc2Cl)[C@H]1O": {
+        "class_results": [
+            "Vancomycins and Teicoplanins"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CN[C@H](CC(C)C)C(=O)N[C@H]1C(=O)N[C@@H](CC(N)=O)C(=O)N[C@H]2C(=O)N[C@H]3C(=O)N[C@H](C(=O)N[C@@H](C(=O)NCC4C5CC6CC(C5)CC4C6)c4cc(O)cc(O)c4-c4cc3ccc4O)[C@H](O[C@@H]3C[C@@](C)(N)[C@H](O)[C@@H](C)O3)c3ccc(cc3)Oc3cc2cc(c3O[C@H]2O[C@@H](CO)[C@H](O)[C@@H](O)[C@@H]2O[C@H]2C[C@](C)(N)[C@@H](O)[C@H](C)O2)Oc2ccc(cc2Cl)[C@H]1O": {
+        "class_results": [
+            "Vancomycins and Teicoplanins"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CN[C@H](CC(C)C)C(=O)N[C@H]1C(=O)N[C@@H](CC(N)=O)C(=O)N[C@H]2C(=O)N[C@H]3C(=O)N[C@H](C(=O)N[C@@H](C(=O)NC(C)C4C5CC6CC(C5)CC4C6)c4cc(O)cc(O)c4-c4cc3ccc4O)[C@H](O[C@@H]3C[C@@](C)(N)[C@H](O)[C@@H](C)O3)c3ccc(cc3)Oc3cc2cc(c3O[C@H]2O[C@@H](CO)[C@H](O)[C@@H](O)[C@@H]2O[C@H]2C[C@](C)(N)[C@@H](O)[C@H](C)O2)Oc2ccc(cc2Cl)[C@H]1O": {
+        "class_results": [
+            "Vancomycins and Teicoplanins"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CN[C@H](CC(C)C)C(=O)N[C@H]1C(=O)N[C@@H](CC(N)=O)C(=O)N[C@H]2C(=O)N[C@H]3C(=O)N[C@H](C(=O)N[C@@H](C(=O)NC4C5CC6CC(C5)CC4C6)c4cc(O)cc(O)c4-c4cc3ccc4O)[C@H](O[C@@H]3C[C@@](C)(N)[C@H](O)[C@@H](C)O3)c3ccc(cc3)Oc3cc2cc(c3O[C@H]2O[C@@H](CO)[C@H](O)[C@@H](O)[C@@H]2O[C@H]2C[C@](C)(N)[C@@H](O)[C@H](C)O2)Oc2ccc(cc2Cl)[C@H]1O": {
+        "class_results": [
+            "Vancomycins and Teicoplanins"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CN[C@H](CC(C)C)C(=O)N[C@H]1C(=O)N[C@@H](CC(N)=O)C(=O)N[C@H]2C(=O)N[C@H]3C(=O)N[C@H](C(=O)N[C@@H](C(=O)NC45CC6CC(CC(C6)C4)C5)c4cc(O)cc(O)c4-c4cc3ccc4O)[C@H](O[C@@H]3C[C@@](C)(N)[C@H](O)[C@@H](C)O3)c3ccc(cc3)Oc3cc2cc(c3O[C@H]2O[C@@H](CO)[C@H](O)[C@@H](O)[C@@H]2O[C@H]2C[C@](C)(N)[C@@H](O)[C@H](C)O2)Oc2ccc(cc2Cl)[C@H]1O": {
+        "class_results": [
+            "Vancomycins and Teicoplanins"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CCC(C)[C@@H]1OC(=O)[C@H](C)OC(=O)[C@@H](NC(=O)c2cccc(NC=O)c2O)[C@@H](C)OC(=O)[C@H](CC(C)C)OC(=O)C(C)(C)C(=O)[C@H](CC(C)C)NC1=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "CCC(C)[C@@H]1OC(=O)[C@H](C)OC(=O)[C@@H](NC(=O)c2cccc(NC=O)c2O)[C@@H](C)OC(=O)[C@H](C(C)C)OC(=O)C(C)(C)C(=O)[C@H](CC(C)C)NC1=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "CCC(C)[C@@H]1OC(=O)[C@H](C)OC(=O)[C@@H](NC(=O)c2cccc(N)c2O)[C@@H](C)OC(=O)[C@H](CC(C)C)OC(=O)C(C)(C)C(=O)[C@H](CC(C)C)NC1=O": {
+        "class_results": [
+            "Antimycins",
+            "Cyclic peptides",
+            "Depsipeptides"
+        ],
+        "superclass_results": [
+            "Macrolides",
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "Cc1ccccc1S(=O)(=O)NC(=O)OC[C@H]1CN(c2ccc(N3CCN(c4ccc([N+](=O)[O-])s4)CC3)c(F)c2)C(=O)O1": null,
+    "CC(=O)OC[C@H]1CN(c2ccc(N3CCN(c4ccc([N+](=O)[O-])s4)CC3)c(F)c2)C(=O)O1": null,
+    "O=C1O[C@@H](CO)CN1c1ccc(N2CCN(c3ccc([N+](=O)[O-])s3)CC2)c(F)c1": null,
+    "CC(=O)NC[C@H]1CN(c2ccc(N3CCN(c4ccc([N+](=O)[O-])s4)CC3)c(F)c2)C(=O)O1": null,
+    "C[C@@H](CO)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@H]4C[C@@H](NCCCNCCCCN)CC[C@]4(C)[C@H]3CC[C@]12C": {
+        "class_results": [
+            "Polyamines",
+            "Steroidal alkaloids"
+        ],
+        "superclass_results": [
+            "Pseudoalkaloids",
+            "Ornithine alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids",
+            "Terpenoids"
+        ]
+    },
+    "C[C@H](CO)[C@H]1CC[C@H]2[C@@H]3CC[C@H]4C[C@@H](NCCCNCCCCN)CC[C@]4(C)[C@H]3CC[C@]12C": {
+        "class_results": [
+            "Polyamines",
+            "Steroidal alkaloids"
+        ],
+        "superclass_results": [
+            "Pseudoalkaloids",
+            "Ornithine alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids",
+            "Terpenoids"
+        ]
+    },
+    "C[C@H](COS(=O)(=O)O)[C@H]1CC[C@H]2[C@@H]3[C@@H](F)C[C@H]4C[C@@H](NCCCNCCCCN)CC[C@]4(C)[C@H]3CC[C@]12C": {
+        "class_results": [
+            "Polyamines",
+            "Steroidal alkaloids"
+        ],
+        "superclass_results": [
+            "Pseudoalkaloids",
+            "Ornithine alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids",
+            "Terpenoids"
+        ]
+    },
+    "C[C@H](COS(=O)(=O)O)[C@H]1CC[C@H]2[C@@H]3[C@@H](F)C[C@H]4C[C@H](NCCCNCCCCN)CC[C@]4(C)[C@H]3CC[C@]12C": {
+        "class_results": [
+            "Polyamines",
+            "Steroidal alkaloids"
+        ],
+        "superclass_results": [
+            "Pseudoalkaloids",
+            "Ornithine alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids",
+            "Terpenoids"
+        ]
+    },
+    "C[C@H](COS(=O)(=O)O)[C@H]1CC[C@H]2[C@@H]3[C@H](F)C[C@H]4C[C@@H](NCCCNCCCCN)CC[C@]4(C)[C@H]3CC[C@]12C": {
+        "class_results": [
+            "Polyamines",
+            "Steroidal alkaloids"
+        ],
+        "superclass_results": [
+            "Pseudoalkaloids",
+            "Ornithine alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids",
+            "Terpenoids"
+        ]
+    },
+    "C[C@H](COS(=O)(=O)O)[C@H]1CC[C@H]2[C@@H]3[C@H](F)C[C@H]4C[C@H](NCCCNCCCCN)CC[C@]4(C)[C@H]3CC[C@]12C": {
+        "class_results": [
+            "Polyamines",
+            "Steroidal alkaloids"
+        ],
+        "superclass_results": [
+            "Pseudoalkaloids",
+            "Ornithine alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids",
+            "Terpenoids"
+        ]
+    },
+    "C[C@H](CO)[C@H]1CC[C@H]2[C@@H]3[C@@H](F)C[C@H]4C[C@@H](NCCCNCCCCN)CC[C@]4(C)[C@H]3CC[C@]12C": {
+        "class_results": [
+            "Polyamines",
+            "Steroidal alkaloids"
+        ],
+        "superclass_results": [
+            "Pseudoalkaloids",
+            "Ornithine alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids",
+            "Terpenoids"
+        ]
+    },
+    "C[C@H](CO)[C@H]1CC[C@H]2[C@@H]3[C@@H](F)C[C@H]4C[C@H](NCCCNCCCCN)CC[C@]4(C)[C@H]3CC[C@]12C": {
+        "class_results": [
+            "Polyamines",
+            "Steroidal alkaloids"
+        ],
+        "superclass_results": [
+            "Pseudoalkaloids",
+            "Ornithine alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids",
+            "Terpenoids"
+        ]
+    },
+    "C[C@H](CO)[C@H]1CC[C@H]2[C@@H]3[C@H](F)C[C@H]4C[C@@H](NCCCNCCCCN)CC[C@]4(C)[C@H]3CC[C@]12C": {
+        "class_results": [
+            "Polyamines",
+            "Steroidal alkaloids"
+        ],
+        "superclass_results": [
+            "Pseudoalkaloids",
+            "Ornithine alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids",
+            "Terpenoids"
+        ]
+    },
+    "C[C@H](CO)[C@H]1CC[C@H]2[C@@H]3[C@H](F)C[C@H]4C[C@H](NCCCNCCCCN)CC[C@]4(C)[C@H]3CC[C@]12C": {
+        "class_results": [
+            "Polyamines",
+            "Steroidal alkaloids"
+        ],
+        "superclass_results": [
+            "Pseudoalkaloids",
+            "Ornithine alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids",
+            "Terpenoids"
+        ]
+    },
+    "C[C@@H](COS(=O)(=O)O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@H]4C[C@@H](NCCCNCCCCN)CC[C@]4(C)[C@H]3CC[C@]12C": {
+        "class_results": [
+            "Polyamines",
+            "Steroidal alkaloids"
+        ],
+        "superclass_results": [
+            "Pseudoalkaloids",
+            "Ornithine alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids",
+            "Terpenoids"
+        ]
+    },
+    "C=CCN(C)CCCCCCCCOc1ccc(C(=O)c2ccc(Cl)cc2)c(O)c1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "Cn1cc(CNC(=O)/C=C/c2cnc3c(c2)CCC(=O)N3)c2ccccc21": {
+        "class_results": [],
+        "superclass_results": [
+            "Tryptophan alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C(NCc1ncc(-c2ccccc2)[nH]1)Nc1ncc(Sc2ccccn2)s1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1c(Cc2c(Cl)cccc2Cl)c(=O)ccn1CCc1ccc(-c2c[nH]c(CNC(=O)Nc3ncc(S(C)(=O)=O)s3)n2)cc1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1c(Cc2c(Cl)cccc2Cl)c(=O)ccn1CCc1ccc(-c2c[nH]c(CNC(=O)Nc3ncc(Sc4ccccn4)s3)n2)cc1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1c(Cc2c(Cl)cccc2Cl)c(=O)ccn1CCc1ccc(-c2c[nH]c(CNC(=O)Nc3ncc(Br)s3)n2)cc1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C(NCc1ncc(-c2cccc(Br)c2)[nH]1)Nc1ncc(Sc2ccccn2)s1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C(NCc1ncc(-c2ccc(Br)cc2)[nH]1)Nc1ncc(Sc2ccccn2)s1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1c(Cc2c(Cl)cccc2Cl)c(=O)ccn1CCc1ccc(-c2c[nH]c(CNC(=O)Nc3nc4ccc(S(C)(=O)=O)cc4s3)n2)cc1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CN(CCCOC/C=C/COc1ccc(C(=O)c2ccc(Cl)cc2)c(O)c1)CCc1ccc(F)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "C=CCN1C(=O)/C(=C/c2c[nH]c3c(C(=O)O)cccc23)SC1=S": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "C=CCN1C(=O)/C(=C/c2ccc(-c3ccc(C(N)=O)cc3)o2)SC1=S": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "C=CCN1C(=O)/C(=C/c2ccc(-c3ccc(C(=O)NO)cc3)o2)SC1=S": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "C=CCN1C(=O)/C(=C/c2cc(C)n(-c3cccc(C(=O)O)c3)c2C)SC1=S": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "C=CCN1C(=O)/C(=C/c2ccc(-c3ccc(C(=O)O)c(Cl)c3)o2)SC1=S": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "O=C(O)c1cccc(-c2ccc(C=C3C(=O)c4ccccc4C3=O)o2)c1": {
+        "class_results": [],
+        "superclass_results": [
+            "Polycyclic aromatic polyketides"
+        ],
+        "pathway_results": [
+            "Polyketides"
+        ]
+    },
+    "C=CCN1C(=O)/C(=C/c2cccc(-c3cccc(C(=O)O)c3)c2)SC1=S": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "C=CCN1C(=O)/C(=C/c2ccc(-c3ccc(CCC(=O)O)cc3)o2)SC1=S": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "C=CCN1C(=O)/C(=C/c2ccc(-c3ccc(O)cc3)o2)SC1=S": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "C=CCN1C(=O)/C(=C/c2ccc(-c3cccc(C(=O)O)c3)o2)SC1=S": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "C=CCN1C(=O)/C(=C/c2ccc(-c3ccc(C(=O)O)cc3)o2)SC1=S": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "C=CCN1C(=O)/C(=C/c2ccc(-c3cccc(Cl)c3)o2)SC1=S": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "C=CCN1C(=O)/C(=C/c2ccc(-c3ccccc3)o2)SC1=S": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CCCCCCCCC#Cc1cn([C@H]2CC[C@@H](CO)O2)c(=O)[nH]c1=O": {
+        "class_results": [
+            "Hydrocarbons"
+        ],
+        "superclass_results": [
+            "Fatty acyls"
+        ],
+        "pathway_results": [
+            "Fatty acids"
+        ]
+    },
+    "CCCCCCCCCC#Cc1cn([C@H]2CC[C@@H](CO)O2)c(=O)[nH]c1=O": {
+        "class_results": [
+            "Hydrocarbons"
+        ],
+        "superclass_results": [
+            "Fatty acyls"
+        ],
+        "pathway_results": [
+            "Fatty acids"
+        ]
+    },
+    "C/C=C1\\NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@@H](C(C)C)NC(=O)[C@@H]([C@@H](C)CC)NC(=O)[C@H](NC(=O)[C@H](NC(=O)[C@H](CCCN(CCCCCC)CCCCCC)NC(=O)[C@H]2CCCN2C(=O)[C@@H](NC(=O)[C@H](NC(=O)[C@H](NC(=O)[C@@H](NC(=O)CCCC(C)C)C(C)C)[C@H](C)O)C(C)C)C(C)C)[C@@H](C)CC)[C@@H](C)OC(=O)[C@H](C(C)C)NC1=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides",
+            "Lipopeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "C/C=C1\\NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@@H](C(C)C)NC(=O)[C@@H]([C@@H](C)CC)NC(=O)[C@H](NC(=O)[C@H](NC(=O)[C@H](CCCNCc2cccs2)NC(=O)[C@H]2CCCN2C(=O)[C@@H](NC(=O)[C@H](NC(=O)[C@H](NC(=O)[C@@H](NC(=O)CCCC(C)C)C(C)C)[C@H](C)O)C(C)C)C(C)C)[C@@H](C)CC)[C@@H](C)OC(=O)[C@H](C(C)C)NC1=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides",
+            "Lipopeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "C/C=C1\\NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@@H](C(C)C)NC(=O)[C@@H]([C@@H](C)CC)NC(=O)[C@H](NC(=O)[C@H](NC(=O)[C@H](CCCN)NC(=O)[C@H]2CCCN2C(=O)[C@@H](NC(=O)[C@H](NC(=O)[C@H](NC(=O)[C@@H](NC(=O)CCCC(C)C)C(C)C)[C@H](C)OC(C)=O)C(C)C)C(C)C)[C@@H](C)CC)[C@@H](C)OC(=O)[C@H](C(C)C)NC1=O": {
+        "class_results": [
+            "Cyclic peptides",
+            "Depsipeptides",
+            "Lipopeptides"
+        ],
+        "superclass_results": [
+            "Oligopeptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Polyketides"
+        ]
+    },
+    "O=C1O[C@@H](Cn2ccnn2)CN1c1ccc(-c2cccnc2)c(F)c1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C(c1ccc(-c2ccc(N3C[C@H](Cn4ccnn4)OC3=O)cc2F)cn1)C1CCNCC1": {
+        "class_results": [],
+        "superclass_results": [
+            "Tryptophan alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C(CC1CCNCC1)c1ccc(-c2ccc(N3C[C@H](Cn4ccnn4)OC3=O)cc2F)cn1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C(CCCN1CCOCC1)c1ccc(-c2ccc(N3C[C@H](Cn4ccnn4)OC3=O)cc2F)cn1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CN1CCN(CCCC(=O)c2ccc(-c3ccc(N4C[C@H](Cn5ccnn5)OC4=O)cc3F)cn2)CC1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1cnc(C)n1CC(=O)c1ccc(-c2ccc(N3C[C@H](Cn4ccnn4)OC3=O)cc2F)cn1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CCc1nccn1CC(=O)c1ccc(-c2ccc(N3C[C@H](Cn4ccnn4)OC3=O)cc2F)cn1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1nccn1CC(=O)c1ccc(-c2ccc(N3C[C@H](Cn4ccnn4)OC3=O)cc2F)cn1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1cn(CC(=O)c2ccc(-c3ccc(N4C[C@H](Cn5ccnn5)OC4=O)cc3F)cn2)c(C)n1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1cn(CC(=O)c2ccc(-c3ccc(N4C[C@H](Cn5ccnn5)OC4=O)cc3F)cn2)cn1": {
+        "class_results": [],
+        "superclass_results": [
+            "Histidine alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C(Cn1ccnc1)c1ccc(-c2ccc(N3C[C@H](Cn4ccnn4)OC3=O)cc2F)cn1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C(c1ccc(-c2ccc(N3C[C@H](Cn4ccnn4)OC3=O)cc2F)cn1)C1CNC1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CC(=O)c1ccc(-c2ccc(N3C[C@H](Cn4ccnn4)OC3=O)cc2F)cn1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CN(C)CC(O)c1ccc(-c2ccc(N3C[C@H](Cn4ccnn4)OC3=O)cc2F)cn1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CC(C)NCC(O)c1ccc(-c2ccc(N3C[C@H](Cn4ccnn4)OC3=O)cc2F)cn1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C1O[C@@H](Cn2ccnn2)CN1c1ccc(-c2ccc(C(O)CN3CCOCC3)nc2)c(F)c1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C1O[C@@H](Cn2ccnn2)CN1c1ccc(-c2ccc(C(O)C3CCNCC3)nc2)c(F)c1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CN1CCN(CCCC(O)c2ccc(-c3ccc(N4C[C@H](Cn5ccnn5)OC4=O)cc3F)cn2)CC1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C1O[C@@H](Cn2ccnn2)CN1c1ccc(-c2ccc(C(O)C3CNC3)nc2)c(F)c1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C1O[C@@H](Cn2ccnn2)CN1c1ccc(-c2ccc(C(O)CO)nc2)c(F)c1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CC(C)(O)c1ccc(-c2ccc(N3C[C@H](Cn4ccnn4)OC3=O)cc2F)cn1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CC(C)C(O)c1ccc(-c2ccc(N3C[C@H](Cn4ccnn4)OC3=O)cc2F)cn1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CO[C@@H](C)c1ccc(-c2ccc(N3C[C@H](Cn4ccnn4)OC3=O)cc2F)cn1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "C[C@H](O)c1ccc(-c2ccc(N3C[C@H](Cn4ccnn4)OC3=O)cc2F)cn1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CO[C@H](C)c1ccc(-c2ccc(N3C[C@H](Cn4ccnn4)OC3=O)cc2F)cn1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "C[C@@H](O)c1ccc(-c2ccc(N3C[C@H](Cn4ccnn4)OC3=O)cc2F)cn1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COCc1ccc(-c2ccc(N3C[C@H](Cn4ccnn4)OC3=O)cc2F)cn1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C1O[C@@H](Cn2ccnn2)CN1c1ccc(-c2ccc(CO)nc2)c(F)c1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C1CC(c2ccco2)NC(c2ccco2)C1Cc1ccccc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "O=CN1C(c2ccccc2)C/C(=N\\O)C(Cc2ccccc2)C1c1ccccc1": {
+        "class_results": [
+            "Flavanones"
+        ],
+        "superclass_results": [
+            "Flavonoids"
+        ],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "O=CN1C(c2ccccc2)CC(=O)C(Cc2ccccc2)C1c1ccccc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "O/N=C1\\CC(c2ccccc2)NC(c2ccccc2)C1Cc1ccccc1": {
+        "class_results": [
+            "Flavanones"
+        ],
+        "superclass_results": [
+            "Flavonoids"
+        ],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "O=C1CC(c2ccccc2)NC(c2ccccc2)C1Cc1ccccc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "O=C1CC(c2ccco2)NC(c2ccco2)C1Cc1ccccc1.O=[N+]([O-])c1cc([N+](=O)[O-])c(O)c([N+](=O)[O-])c1": null,
+    "O/N=C1\\CC(c2ccco2)NC(c2ccco2)C1Cc1ccccc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids",
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "Nc1ccc(O)c(NC(=O)c2ccccc2)c1": {
+        "class_results": [],
+        "superclass_results": [
+            "Anthranilic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CC(C)(C)c1ccc(C(=O)Nc2ccc([N+](=O)[O-])cc2O)cc1": null,
+    "O=C(Nn1cnnc1)c1ccoc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc2oc(=O)sc2c1C(=O)/C=C/c1ccc(OCCN2CCOCC2)cc1": {
+        "class_results": [
+            "Chalcones"
+        ],
+        "superclass_results": [
+            "Flavonoids"
+        ],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "COc1ccc2oc(=O)sc2c1C(=O)/C=C/c1ccc(OCCN(C)C)cc1": {
+        "class_results": [
+            "Chalcones"
+        ],
+        "superclass_results": [
+            "Flavonoids"
+        ],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "COc1ccc2oc(=O)sc2c1C(=O)/C=C/c1ccccc1Cl": {
+        "class_results": [
+            "Chalcones"
+        ],
+        "superclass_results": [
+            "Flavonoids"
+        ],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "COc1ccc2oc(=O)sc2c1C(=O)/C=C/c1cccc(Cl)c1": {
+        "class_results": [
+            "Chalcones"
+        ],
+        "superclass_results": [
+            "Flavonoids"
+        ],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "COc1ccc2oc(=O)sc2c1C(=O)/C=C/c1ccc(Cl)cc1": {
+        "class_results": [
+            "Chalcones"
+        ],
+        "superclass_results": [
+            "Flavonoids"
+        ],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "O=C(CS(=O)(=O)c1ccc(Cl)cc1)c1ccc([N+](=O)[O-])cc1": null,
+    "O=C(CS(=O)(=O)c1ccc([N+](=O)[O-])cc1)c1ccc([N+](=O)[O-])cc1": null,
+    "O=C(NCCC1CCN(Cc2ccccc2)CC1)c1ccoc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C(OCc1ccccc1)N1CCN(c2ccc(N3C[C@H](Cn4ccnn4)OC3=O)cc2F)CC1": {
+        "class_results": [],
+        "superclass_results": [
+            "Tryptophan alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Nc1cccc(S(=O)(=O)N2CCN(c3ccc(N4C[C@H](Cn5ccnn5)OC4=O)cc3F)CC2)c1": {
+        "class_results": [],
+        "superclass_results": [
+            "Tryptophan alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "N#Cc1ccc(S(=O)(=O)N2CCN(c3ccc(N4C[C@H](Cn5ccnn5)OC4=O)cc3F)CC2)cc1": {
+        "class_results": [
+            "Aminoacids"
+        ],
+        "superclass_results": [
+            "Small peptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides",
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "O=C1O[C@@H](Cn2ccnn2)CN1c1ccc(N2CCN(S(=O)(=O)c3ccc([N+](=O)[O-])cc3)CC2)c(F)c1": null,
+    "O=C1O[C@@H](Cn2ccnn2)CN1c1ccc(N2CCN(S(=O)(=O)c3cccc([N+](=O)[O-])c3)CC2)c(F)c1": null,
+    "O=C1O[C@@H](Cn2ccnn2)CN1c1ccc(N2CCN(S(=O)(=O)c3ccccc3[N+](=O)[O-])CC2)c(F)c1": null,
+    "O=C1O[C@@H](Cn2ccnn2)CN1c1ccc(N2CCN(S(=O)(=O)c3ccc(C(F)(F)F)cc3)CC2)c(F)c1": {
+        "class_results": [],
+        "superclass_results": [
+            "Tryptophan alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C1O[C@@H](Cn2ccnn2)CN1c1ccc(N2CCN(S(=O)(=O)c3cccc(C(F)(F)F)c3)CC2)c(F)c1": {
+        "class_results": [],
+        "superclass_results": [
+            "Tryptophan alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C1O[C@@H](Cn2ccnn2)CN1c1ccc(N2CCN(S(=O)(=O)c3ccccc3C(F)(F)F)CC2)c(F)c1": {
+        "class_results": [],
+        "superclass_results": [
+            "Tryptophan alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc(S(=O)(=O)N2CCN(c3ccc(N4C[C@H](Cn5ccnn5)OC4=O)cc3F)CC2)cc1": {
+        "class_results": [
+            "Carboline alkaloids"
+        ],
+        "superclass_results": [
+            "Tryptophan alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C1O[C@@H](Cn2ccnn2)CN1c1ccc(N2CCN(S(=O)(=O)c3ccc(F)cc3F)CC2)c(F)c1": {
+        "class_results": [
+            "Carboline alkaloids"
+        ],
+        "superclass_results": [
+            "Tryptophan alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C1O[C@@H](Cn2ccnn2)CN1c1ccc(N2CCN(S(=O)(=O)c3ccc(F)cc3)CC2)c(F)c1": {
+        "class_results": [],
+        "superclass_results": [
+            "Tryptophan alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C1O[C@@H](Cn2ccnn2)CN1c1ccc(N2CCN(S(=O)(=O)c3cccc(F)c3)CC2)c(F)c1": {
+        "class_results": [
+            "Carboline alkaloids"
+        ],
+        "superclass_results": [
+            "Tryptophan alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C1O[C@@H](Cn2ccnn2)CN1c1ccc(N2CCN(S(=O)(=O)c3ccc(Br)cc3)CC2)c(F)c1": {
+        "class_results": [],
+        "superclass_results": [
+            "Tryptophan alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C1O[C@@H](Cn2ccnn2)CN1c1ccc(N2CCN(S(=O)(=O)c3ccc(Cl)cc3)CC2)c(F)c1": {
+        "class_results": [],
+        "superclass_results": [
+            "Tryptophan alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C1O[C@@H](Cn2ccnn2)CN1c1ccc(N2CCNCC2)c(F)c1": {
+        "class_results": [
+            "Simple indole alkaloids"
+        ],
+        "superclass_results": [
+            "Tryptophan alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1ccc(C)c(C(=O)Nc2ccc3oc(Cc4ccc(Cl)cc4)nc3c2)c1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "Cc1ccc(CC(=O)Nc2ccc3oc(Cc4ccc(Cl)cc4)nc3c2)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "O=C(Cc1ccc([N+](=O)[O-])cc1)Nc1ccc2oc(Cc3ccc(Cl)cc3)nc2c1": null,
+    "O=C(Cc1ccc(Cl)cc1)Nc1ccc2oc(Cc3ccc(Cl)cc3)nc2c1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "O=C(Cc1ccccc1)Nc1ccc2oc(Cc3ccc(Cl)cc3)nc2c1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "O=C(Cc1ccc(F)cc1)Nc1ccc2oc(Cc3ccc(Cl)cc3)nc2c1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "O=C(Cc1ccc(Br)cc1)Nc1ccc2oc(Cc3ccc(Cl)cc3)nc2c1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "O=C(Nc1ccc2oc(Cc3ccc(Cl)cc3)nc2c1)c1ccc(F)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "O=C(Nc1ccc2oc(Cc3ccc(Cl)cc3)nc2c1)c1ccc(Br)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CC(C)(C)c1ccc(C(=O)Nc2ccc3oc(Cc4ccc(Cl)cc4)nc3c2)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "O=C(Nc1ccc2oc(Cc3ccc(Cl)cc3)nc2c1)c1ccc([N+](=O)[O-])cc1": null,
+    "CCc1ccc(C(=O)Nc2ccc3oc(Cc4ccc(Cl)cc4)nc3c2)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "O=C(Nc1ccc2oc(Cc3ccc(Cl)cc3)nc2c1)c1ccccc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "Cc1ccc(CC(=O)Nc2ccc3oc(Cc4ccccc4)nc3c2)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C(Cc1ccc(Cl)cc1)Nc1ccc2oc(Cc3ccccc3)nc2c1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "O=C(Cc1ccccc1)Nc1ccc2oc(Cc3ccccc3)nc2c1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "O=C(Cc1ccc(F)cc1)Nc1ccc2oc(Cc3ccccc3)nc2c1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "O=C(Cc1ccc(Br)cc1)Nc1ccc2oc(Cc3ccccc3)nc2c1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "O=C(Nc1ccc2oc(Cc3ccccc3)nc2c1)c1ccc(F)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "O=C(Nc1ccc2oc(Cc3ccccc3)nc2c1)c1ccc(Br)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CC(C)(C)c1ccc(C(=O)Nc2ccc3oc(Cc4ccccc4)nc3c2)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "O=C(Nc1ccc2oc(Cc3ccccc3)nc2c1)c1ccc([N+](=O)[O-])cc1": null,
+    "CCc1ccc(C(=O)Nc2ccc3oc(Cc4ccccc4)nc3c2)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "O=C(Nc1ccc2oc(Cc3ccccc3)nc2c1)c1ccccc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "O=C(Cc1ccc([N+](=O)[O-])cc1)Nc1ccc2oc(Cc3ccccc3)nc2c1": null,
+    "O=C(CSc1ccccc1)Nc1ccc2oc(Cc3ccccc3)nc2c1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "O=C(CSc1ccccc1)Nc1ccc2oc(Cc3ccc(Cl)cc3)nc2c1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "Cc1ccc(C(=O)Nc2ccc3oc(Cc4ccccc4)nc3c2)cc1C": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "Cc1ccc(C(=O)Nc2ccc3oc(Cc4ccc(Cl)cc4)nc3c2)cc1C": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "O=C(Nc1ccc2oc(Cc3ccccc3)nc2c1)c1ccc(Cl)c([N+](=O)[O-])c1": null,
+    "O=C(Nc1ccc2oc(Cc3ccc(Cl)cc3)nc2c1)c1ccc(Cl)c([N+](=O)[O-])c1": null,
+    "Cc1ccc(C)c(C(=O)Nc2ccc3oc(Cc4ccccc4)nc3c2)c1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1ccc(C(=O)Nc2ccc3oc(Cc4ccccc4)nc3c2)s1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "N=C(NC(=O)c1ccoc1)c1ccccc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "CCCCCCCCCCCCCCCCCC(=O)N(CCO)C[C@H]1O[C@@H]2OC(C)(C)O[C@@H]2[C@H]2OC(C)(C)O[C@H]21": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "CCCCCCCCCCCCCCCCCC(=O)NCCCNC[C@H]1O[C@@H]2OC(C)(C)O[C@@H]2[C@H]2OC(C)(C)O[C@H]21": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "C[C@@H](O)C1C(=O)N2C(C(=O)O)=C(S[C@@H]3CN[C@H](CN4CCN(C)S4(=O)=O)C3)[C@H](C)C12": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "C[C@@H](O)C1C(=O)N2C(C(=O)O)=C(S[C@@H]3CN[C@H](CN4CCCN(C)S4(=O)=O)C3)[C@H](C)C12": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "C[C@@H](O)C1C(=O)N2C(C(=O)O)=C(S[C@@H]3CN[C@H](CN4CCCNS4(=O)=O)C3)[C@H](C)C12": {
+        "class_results": [
+            "Piperidine alkaloids"
+        ],
+        "superclass_results": [
+            "Lysine alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "C[C@@H](O)C1C(=O)N2C(C(=O)O)=C(S[C@@H]3CN[C@H](CN4CCOS4(=O)=O)C3)[C@H](C)C12": {
+        "class_results": [],
+        "superclass_results": [
+            "Lysine alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "C[C@@H](O)C1C(=O)N2C(C(=O)O)=C(S[C@@H]3CN[C@H](CN4CCN(Cc5ccccc5)S4(=O)=O)C3)[C@H](C)C12": {
+        "class_results": [],
+        "superclass_results": [
+            "Pseudoalkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "C[C@@H](O)C1C(=O)N2C(C(=O)O)=C(S[C@@H]3CN[C@H](CN4CCNS4(=O)=O)C3)[C@H](C)C12": {
+        "class_results": [
+            "Piperidine alkaloids"
+        ],
+        "superclass_results": [
+            "Lysine alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "C[C@@H](O)C1C(=O)N2C(C(=O)O)=C(S[C@@H]3CN[C@H](CN4CC(C)(C)NS4(=O)=O)C3)[C@H](C)C12": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids",
+            "Amino acids and Peptides"
+        ]
+    },
+    "CC1CN(C[C@@H]2C[C@H](SC3=C(C(=O)O)C4C(=O)C([C@@H](C)O)C4[C@H]3C)CN2)S(=O)(=O)N1": {
+        "class_results": [],
+        "superclass_results": [
+            "Pseudoalkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CCN1CCN(C[C@@H]2C[C@H](SC3=C(C(=O)O)N4C(=O)C([C@@H](C)O)C4[C@H]3C)CN2)S1(=O)=O": {
+        "class_results": [],
+        "superclass_results": [
+            "Pseudoalkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "C[C@H]1COc2c(N3CCN(CC(=O)c4ccccc4)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "C[C@H]1COc2c(N3CCNCC3)c(F)cc3c(=O)c(C(=O)O)cn1c23": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "C[C@H]1COc2c(N3CCN(C/C(=N\\O)c4ccc(Cl)cc4Cl)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1ccc(/C(CN2CCN(c3c(F)cc4c(=O)c(C(=O)O)cn5c4c3OC[C@@H]5C)CC2)=N/O)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc(/C(CN2CCN(c3c(F)cc4c(=O)c(C(=O)O)cn5c4c3OC[C@@H]5C)CC2)=N/O)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "C[C@H]1COc2c(N3CCN(C/C(=N\\O)c4ccc(F)cc4)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "C[C@H]1COc2c(N3CCN(C/C(=N\\O)c4ccc(Cl)cc4)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "C[C@H]1COc2c(N3CCN(C/C(=N\\O)c4ccc(Br)cc4)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "C[C@H]1COc2c(N3CCN(C/C(=N\\O)c4ccccc4)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "C[C@H]1COc2c(N3CCN(CC(=O)c4ccc(Cl)cc4Cl)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1ccc(C(=O)CN2CCN(c3c(F)cc4c(=O)c(C(=O)O)cn5c4c3OC[C@@H]5C)CC2)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc(C(=O)CN2CCN(c3c(F)cc4c(=O)c(C(=O)O)cn5c4c3OC[C@@H]5C)CC2)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "C[C@H]1COc2c(N3CCN(CC(=O)c4ccc(F)cc4)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "C[C@H]1COc2c(N3CCN(CC(=O)c4ccc(Cl)cc4)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "C[C@H]1COc2c(N3CCN(CC(=O)c4ccc(Br)cc4)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C(Nc1nc[nH]n1)c1ccoc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=[N+]([O-])c1ccc(-c2nnc3n2ccc2nnc(-c4ccc([N+](=O)[O-])o4)n23)o1": null,
+    "c1coc(-c2nnc3n2ccc2nnc(-c4ccco4)n23)c1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "O=[N+]([O-])c1ccc(-c2nnc3n2ccc2nnc(-c4ccc([N+](=O)[O-])cc4)n23)cc1": null,
+    "Fc1ccc(-c2nnc3n2ccc2nnc(-c4ccc(F)cc4)n23)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Clc1ccc(-c2nnc3n2ccc2nnc(-c4ccc(Cl)cc4)n23)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc(OC)c(-c2nnc3n2ccc2nnc(-c4cc(OC)ccc4OC)n23)c1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc(-c2nnc3n2ccc2nnc(-c4ccc(OC)cc4)n23)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Brc1ccc(-c2nnc3n2ccc2nnc(-c4ccc(Br)cc4)n23)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "Cc1ccc(-c2nnc3n2ccc2nnc(-c4ccc(C)cc4)n23)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COC(=O)[C@@H]1CCCN1C(=O)c1ccc(-c2nc3cc(C)c(C)cc3[nH]2)cc1": {
+        "class_results": [],
+        "superclass_results": [
+            "Tryptophan alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1cc2nc(-c3ccc(O)c(C(=O)NCC(=O)N[C@@H](Cc4c[nH]c5ccccc45)C(=O)NCC(=O)N[C@@H](Cc4cnc[nH]4)C(=O)O)c3)[nH]c2cc1C": {
+        "class_results": [
+            "Tripeptides"
+        ],
+        "superclass_results": [
+            "Small peptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "Cc1cc2nc(-c3ccc(O)c(C(=O)N[C@@H](C)C(=O)N[C@H](C(=O)N[C@@H](C)C(=O)O)C(C)C)c3)[nH]c2cc1C": {
+        "class_results": [
+            "Tripeptides"
+        ],
+        "superclass_results": [
+            "Small peptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "Cc1cc2nc(-c3ccc(O)c(C(=O)N[C@@H](Cc4c[nH]c5ccccc45)C(=O)N[C@@H](C)C(=O)N[C@@H](Cc4ccc(O)cc4)C(=O)O)c3)[nH]c2cc1C": {
+        "class_results": [
+            "Tripeptides"
+        ],
+        "superclass_results": [
+            "Small peptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "COC(=O)[C@H](Cc1cnc[nH]1)NC(=O)CNC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)CNC(=O)c1cc(-c2nc3cc(C)c(C)cc3[nH]2)ccc1O": {
+        "class_results": [
+            "Tripeptides"
+        ],
+        "superclass_results": [
+            "Small peptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "COC(=O)[C@H](C)NC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)c1cc(-c2nc3cc(C)c(C)cc3[nH]2)ccc1O)C(C)C": {
+        "class_results": [
+            "Tripeptides"
+        ],
+        "superclass_results": [
+            "Small peptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "COC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@H](C)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)c1cc(-c2nc3cc(C)c(C)cc3[nH]2)ccc1O": {
+        "class_results": [
+            "Tripeptides"
+        ],
+        "superclass_results": [
+            "Small peptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "CC[C@H](C)[C@H](NC(=O)[C@H](CC(C)C)NC(=O)c1cc(-c2nc3cc(C)c(C)cc3[nH]2)ccc1O)C(=O)OC": {
+        "class_results": [],
+        "superclass_results": [
+            "Peptide alkaloids",
+            "Small peptides"
+        ],
+        "pathway_results": [
+            "Alkaloids",
+            "Amino acids and Peptides"
+        ]
+    },
+    "COC(=O)[C@H](Cc1cnc[nH]1)NC(=O)[C@H](Cc1cnc[nH]1)NC(=O)c1cc(-c2nc3cc(C)c(C)cc3[nH]2)ccc1O": {
+        "class_results": [
+            "Imidazole alkaloids"
+        ],
+        "superclass_results": [
+            "Histidine alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COC(=O)[C@H](C)NC(=O)[C@H](CCCNC(=N)N[N+](=O)[O-])NC(=O)c1cc(-c2nc3cc(C)c(C)cc3[nH]2)ccc1O": null,
+    "COC(=O)[C@H](Cc1ccccc1)NC(=O)c1cc(-c2nc3cc(C)c(C)cc3[nH]2)ccc1O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C(O)[C@@H]1CCCN1C(=O)[C@@H]1CCCN1C(=O)[C@@H]1CCCN1C(=O)c1cc(-c2nc3ccc([N+](=O)[O-])cc3[nH]2)ccc1O": null,
+    "C[C@H](NC(=O)[C@@H]1CCCN1C(=O)c1cc(-c2nc3ccc([N+](=O)[O-])cc3[nH]2)ccc1O)C(=O)O": null,
+    "O=C(O)CNC(=O)CNC(=O)c1cc(-c2nc3ccc([N+](=O)[O-])cc3[nH]2)ccc1O": null,
+    "COC(=O)CNC(=O)[C@H](CC(C)C)NC(=O)[C@@H]1CCCN1C(=O)[C@H](Cc1cnc[nH]1)NC(=O)c1cc(-c2nc3ccc([N+](=O)[O-])cc3[nH]2)ccc1O": null,
+    "CC(C)[C@H](NC(=O)c1cc(-c2nc3ccc([N+](=O)[O-])cc3[nH]2)ccc1O)C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H](Cc1cnc[nH]1)C(=O)O": null,
+    "COC(=O)[C@@H]1CCCN1C(=O)[C@@H]1CCCN1C(=O)[C@@H]1CCCN1C(=O)c1cc(-c2nc3ccc([N+](=O)[O-])cc3[nH]2)ccc1O": null,
+    "COC(=O)[C@H](C)NC(=O)[C@@H]1CCCN1C(=O)c1cc(-c2nc3ccc([N+](=O)[O-])cc3[nH]2)ccc1O": null,
+    "COC(=O)CNC(=O)CNC(=O)c1cc(-c2nc3ccc([N+](=O)[O-])cc3[nH]2)ccc1O": null,
+    "COC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)c1cc(-c2nc3ccc([N+](=O)[O-])cc3[nH]2)ccc1O": null,
+    "COC(=O)[C@H](CCCNC(=N)N[N+](=O)[O-])NC(=O)c1cc(-c2nc3ccc([N+](=O)[O-])cc3[nH]2)ccc1O": null,
+    "Cc1cc2nc(-c3c(I)cc(C(=O)N[C@@H](Cc4ccccc4)C(=O)N[C@H](C(=O)N4CCC[C@H]4C(=O)O)C(C)C)cc3I)[nH]c2cc1C": {
+        "class_results": [
+            "Tripeptides"
+        ],
+        "superclass_results": [
+            "Small peptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "Cc1cc2nc(-c3c(I)cc(C(=O)N[C@@H](C)C(=O)N[C@@H](Cc4ccc(O)cc4)C(=O)NCC(=O)O)cc3I)[nH]c2cc1C": {
+        "class_results": [
+            "Tripeptides"
+        ],
+        "superclass_results": [
+            "Small peptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "Cc1cc2nc(-c3c(I)cc(C(=O)N[C@@H](Cc4cnc[nH]4)C(=O)N4CCC[C@H]4C(=O)O)cc3I)[nH]c2cc1C": {
+        "class_results": [],
+        "superclass_results": [
+            "Tryptophan alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CC[C@H](C)[C@H](NC(=O)CNC(=O)c1cc(I)c(-c2nc3cc(C)c(C)cc3[nH]2)c(I)c1)C(=O)NCC(=O)N[C@H](C(=O)OC)[C@@H](C)O": {
+        "class_results": [
+            "Tripeptides"
+        ],
+        "superclass_results": [
+            "Small peptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "COC(=O)[C@@H]1CCCN1C(=O)[C@@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)c1cc(I)c(-c2nc3cc(C)c(C)cc3[nH]2)c(I)c1)C(C)C": {
+        "class_results": [
+            "Tripeptides"
+        ],
+        "superclass_results": [
+            "Small peptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "COC(=O)CNC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@H](C)NC(=O)c1cc(I)c(-c2nc3cc(C)c(C)cc3[nH]2)c(I)c1": {
+        "class_results": [
+            "Tripeptides"
+        ],
+        "superclass_results": [
+            "Small peptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "COC(=O)[C@@H]1CCCN1C(=O)[C@H](Cc1cnc[nH]1)NC(=O)c1cc(I)c(-c2nc3cc(C)c(C)cc3[nH]2)c(I)c1": {
+        "class_results": [],
+        "superclass_results": [
+            "Tryptophan alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COC(=O)[C@H](CCCNC(=N)N[N+](=O)[O-])NC(=O)[C@@H]1CCCN1C(=O)c1cc(I)c(-c2nc3cc(C)c(C)cc3[nH]2)c(I)c1": null,
+    "COC(=O)[C@@H](NC(=O)c1cc(I)c(-c2nc3cc(C)c(C)cc3[nH]2)c(I)c1)[C@@H](C)O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)c1cc(I)c(-c2nc3cc(C)c(C)cc3[nH]2)c(I)c1": {
+        "class_results": [
+            "Carbazole alkaloids"
+        ],
+        "superclass_results": [
+            "Tryptophan alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COC(=O)[C@H](Cc1cnc[nH]1)NC(=O)c1cc(I)c(-c2nc3cc(C)c(C)cc3[nH]2)c(I)c1": {
+        "class_results": [
+            "Imidazole alkaloids"
+        ],
+        "superclass_results": [
+            "Histidine alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1cc2nc(-c3ccc(C(=O)N[C@@H](Cc4cnc[nH]4)C(=O)N[C@@H](Cc4ccc(O)cc4)C(=O)O)cc3)[nH]c2cc1C": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids",
+            "Amino acids and Peptides"
+        ]
+    },
+    "Cc1cc2nc(-c3ccc(C(=O)N[C@@H](CC(C)C)C(=O)NCC(=O)O)cc3)[nH]c2cc1C": {
+        "class_results": [],
+        "superclass_results": [
+            "Small peptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "Cc1cc2nc(-c3ccc(C(=O)N[C@@H](CCCNC(=N)N[N+](=O)[O-])C(=O)O)cc3)[nH]c2cc1C": null,
+    "CC[C@H](C)[C@H](NC(=O)CNC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)c1ccc(-c2nc3cc(C)c(C)cc3[nH]2)cc1)C(=O)N[C@@H](C)C(=O)OC": {
+        "class_results": [
+            "Tripeptides"
+        ],
+        "superclass_results": [
+            "Small peptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "COC(=O)[C@H](Cc1ccccc1)NC(=O)[C@@H]1CCCN1C(=O)[C@@H]1CCCN1C(=O)c1ccc(-c2nc3cc(C)c(C)cc3[nH]2)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@H](Cc1cnc[nH]1)NC(=O)c1ccc(-c2nc3cc(C)c(C)cc3[nH]2)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids",
+            "Amino acids and Peptides"
+        ]
+    },
+    "COC(=O)CNC(=O)[C@H](CC(C)C)NC(=O)c1ccc(-c2nc3cc(C)c(C)cc3[nH]2)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COC(=O)[C@H](CCCNC(=N)N[N+](=O)[O-])NC(=O)c1ccc(-c2nc3cc(C)c(C)cc3[nH]2)cc1": null,
+    "CC(=O)O[C@@H]1[C@@H](OC(C)=O)[C@H](Sc2nnc3sc(-c4ccc(Cl)cc4)nn23)OC[C@@H]1OC(C)=O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "COC1=CC(=O)C[C@@H](C)[C@]12Oc1c(Cl)c(OC)cc(OC)c1C2=O": {
+        "class_results": [
+            "Griseofulvins"
+        ],
+        "superclass_results": [
+            "Aromatic polyketides"
+        ],
+        "pathway_results": [
+            "Polyketides"
+        ]
+    },
+    "C=CCn1c(-c2cc(-c3ccc(F)cc3F)ccc2O)n[nH]c1=S": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc(-n2c(-c3cc(-c4ccc(F)cc4F)ccc3O)n[nH]c2=S)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Oc1ccc(-c2ccc(F)cc2F)cc1-c1nnc(Nc2ccccc2)s1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "Cn1c(-c2cc(-c3ccc(F)cc3F)ccc2O)n[nH]c1=S": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Oc1ccc(-c2ccc(F)cc2F)cc1-c1n[nH]c(=S)n1C1CCCCC1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CCn1c(-c2cc(-c3ccc(F)cc3F)ccc2O)n[nH]c1=S": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C1CC(c2ccccc2)N(C(=O)CN2CCOCC2)C(c2ccccc2)C1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1ccc(C2C(C)C(=O)C(C)C(c3ccc(C)cc3)N2C(=O)CN2CCOCC2)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc(C2C(C)C(=O)C(C)C(c3ccc(OC)cc3)N2C(=O)CN2CCOCC2)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1ccc(C2CC(=O)C(C)C(c3ccc(OC)cc3)N2C(=O)CN2CCOCC2)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CC1C(=O)C(C)C(c2ccc(Cl)cc2)N(C(=O)CN2CCOCC2)C1c1ccc(Cl)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CC1C(=O)C(C)C(c2ccccc2)N(C(=O)CN2CCOCC2)C1c1ccccc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CC(C)C1C(=O)CC(c2ccccc2)N(C(=O)CN2CCOCC2)C1c1ccccc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CCC1C(=O)CC(c2ccccc2)N(C(=O)CN2CCOCC2)C1c1ccccc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CC1C(=O)CC(c2ccccc2)N(C(=O)CN2CCOCC2)C1c1ccccc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1cc(C)cc(-c2nn3c(=O)c4c5c(sc4nc3s2)CCCC5)c1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "O=c1c2c3c(sc2nc2sc(-c4ccccc4)nn12)CCCC3": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1nn2c(=O)c3c4c(sc3nc2s1)CCCC4": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CCCc1nn2c(=O)c3c4c(sc3nc2s1)CCCC4": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CCc1nn2c(=O)c3c4c(sc3nc2s1)CCCC4": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "COc1ccc(C(=O)CSc2nc3sc4c(c3c(=O)n2N)CCCC4)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cl.c1ccc2[nH]c(CCSSCCc3nc4ccccc4[nH]3)nc2c1": {
+        "class_results": [
+            "Quinazoline alkaloids"
+        ],
+        "superclass_results": [
+            "Anthranilic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "c1ccc2[nH]c(CCSSCCc3nc4ccccc4[nH]3)nc2c1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1cc(C2=NN(C(N)=S)C(c3ccccc3)C2)ccc1OCC(=O)O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1cc(C2=NN(C(N)=O)C(c3cccc([N+](=O)[O-])c3)C2)ccc1OCC(=O)O": null,
+    "COc1cc(C2=NN(C(N)=O)C(c3ccccc3O)C2)ccc1OCC(=O)O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1cc(C2=NN(C(N)=O)C(Cc3ccccc3)C2)ccc1OCC(=O)O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1cc(C2=NN(C(N)=O)C(c3ccc(N)cc3)C2)ccc1OCC(=O)O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "COc1cc(C2=NN(C(N)=O)C(c3ccccc3Cl)C2)ccc1OCC(=O)O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1cc(C2=NN(C(N)=O)C(c3ccc(Cl)cc3)C2)ccc1OCC(=O)O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1cc(C2=NN(C(N)=O)C(c3ccc(C)cc3)C2)ccc1OCC(=O)O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1cc(C2=NN(C(N)=O)C(c3ccc(F)cc3)C2)ccc1OCC(=O)O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1cc(C2=NN(C(N)=O)C(c3ccc([N+](=O)[O-])cc3)C2)ccc1OCC(=O)O": null,
+    "COc1cc(C2=NN(C(N)=O)C(c3ccc(O)cc3)C2)ccc1OCC(=O)O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1cc(C2=NN(C(N)=O)C(c3ccccc3)C2)ccc1OCC(=O)O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1cc(C2=NN(C(N)=S)C(c3cccc([N+](=O)[O-])c3)C2)ccc1OCC(=O)O": null,
+    "COc1cc(C2=NN(C(N)=S)C(c3ccccc3O)C2)ccc1OCC(=O)O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1cc(C2=NN(C(N)=S)C(Cc3ccccc3)C2)ccc1OCC(=O)O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1cc(C2=NN(C(N)=S)C(c3ccc(N)cc3)C2)ccc1OCC(=O)O": {
+        "class_results": [],
+        "superclass_results": [
+            "Small peptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "COc1cc(C2=NN(C(N)=S)C(c3ccccc3Cl)C2)ccc1OCC(=O)O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1cc(C2=NN(C(N)=S)C(c3ccc(Cl)cc3)C2)ccc1OCC(=O)O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1cc(C2=NN(C(N)=S)C(c3ccc(C)cc3)C2)ccc1OCC(=O)O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1cc(C2=NN(C(N)=S)C(c3ccc(F)cc3)C2)ccc1OCC(=O)O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "COc1cc(C2=NN(C(N)=S)C(c3ccc([N+](=O)[O-])cc3)C2)ccc1OCC(=O)O": null,
+    "COc1cc(C2=NN(C(N)=S)C(c3ccc(O)cc3)C2)ccc1OCC(=O)O": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C(NCCCO)c1ccoc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C(NNc1c(F)c(F)c(F)c(F)c1F)c1ccoc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C(NNc1ccccc1)c1ccoc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "CN(C)c1ccc(CNC(=O)c2ccoc2)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "O=C(Nc1ccccc1O)c1ccoc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "O=C(NCc1ccncc1)c1ccoc1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C(NCc1cccnc1)c1ccoc1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CN(C)C(=O)c1ccoc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "O=C(NCc1ccccn1)c1ccoc1": {
+        "class_results": [
+            "Pyridine alkaloids"
+        ],
+        "superclass_results": [
+            "Nicotinic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Cc1ccc(S(=O)(=O)NNC(=O)c2ccoc2)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "NS(=O)(=O)c1ccc(NC(=O)c2ccoc2)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](N)c3ccccc3)C(=O)N2[C@H]1C(=O)O.O.O.O": {
+        "class_results": [
+            "Penicillins"
+        ],
+        "superclass_results": [
+            "β-lactams"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "Nc1cccc(O)c1NC(=O)Cc1ccc(F)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "Cc1ccc(CC(=O)Nc2c(N)cccc2O)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Nc1ccc(NC(=O)Cc2ccc(F)cc2)c(O)c1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "Cc1ccc(CC(=O)Nc2ccc(N)cc2O)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "Nc1ccc(NC(=O)Cc2ccc(Cl)cc2)c(O)c1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "Nc1ccc(NC(=O)Cc2ccc(Br)cc2)c(O)c1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "Nc1ccc(O)c(NC(=O)c2ccc(F)cc2)c1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CCc1ccc(C(=O)Nc2cc(N)ccc2O)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CCc1ccc(C(=O)Nc2ccc(N)cc2O)cc1": {
+        "class_results": [
+            "Aminoacids"
+        ],
+        "superclass_results": [
+            "Small peptides"
+        ],
+        "pathway_results": [
+            "Amino acids and Peptides"
+        ]
+    },
+    "Nc1ccc(NC(=O)c2ccc(Br)cc2)c(O)c1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "Nc1ccc(NC(=O)c2ccc(F)cc2)c(O)c1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": []
+    },
+    "Nc1ccc(NC(=O)c2ccccc2)c(O)c1": {
+        "class_results": [
+            "Anthranillic acid derivatives"
+        ],
+        "superclass_results": [
+            "Anthranilic acid alkaloids"
+        ],
+        "pathway_results": [
+            "Alkaloids"
+        ]
+    },
+    "CC(C)(C)c1ccc(C(=O)Nc2ccc(N)cc2O)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids",
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "O=C(Cc1ccc(F)cc1)Nc1cc([N+](=O)[O-])ccc1O": null,
+    "Cc1ccc(CC(=O)Nc2cc([N+](=O)[O-])ccc2O)cc1": null,
+    "O=C(Cc1ccc(F)cc1)Nc1ccc([N+](=O)[O-])cc1O": null,
+    "Cc1ccc(CC(=O)Nc2ccc([N+](=O)[O-])cc2O)cc1": null,
+    "O=C(Cc1ccc(Cl)cc1)Nc1ccc([N+](=O)[O-])cc1O": null,
+    "O=C(Cc1ccc(Br)cc1)Nc1ccc([N+](=O)[O-])cc1O": null,
+    "O=C(Nc1cc([N+](=O)[O-])ccc1O)c1ccc(F)cc1": null,
+    "CCc1ccc(C(=O)Nc2cc([N+](=O)[O-])ccc2O)cc1": null,
+    "O=C(Nc1cc([N+](=O)[O-])ccc1O)c1ccccc1": null,
+    "CCc1ccc(C(=O)Nc2ccc([N+](=O)[O-])cc2O)cc1": null,
+    "O=C(Nc1ccc([N+](=O)[O-])cc1O)c1ccc(Br)cc1": null,
+    "O=C(Nc1ccc([N+](=O)[O-])cc1O)c1ccc(F)cc1": null,
+    "O=C(Nc1ccc([N+](=O)[O-])cc1O)c1ccccc1": null,
+    "CCOC(=O)/C(=C/Nc1ccc(Cl)cc1)c1ccc(Cl)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CCOC(=O)/C(=C/Nc1ccccc1Cl)c1ccc(Cl)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CCOC(=O)/C(=C/Nc1cc(F)cc(F)c1)c1ccc(Cl)cc1": {
+        "class_results": [
+            "Chalcones"
+        ],
+        "superclass_results": [
+            "Flavonoids"
+        ],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CCOC(=O)/C(=C/Nc1cc(Cl)cc(Cl)c1)c1ccc(OC)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CCOC(=O)/C(=C\\Nc1ccccc1Cl)c1ccc(Cl)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CCOC(=O)/C(=C/Nc1cc(OC)cc(OC)c1)c1ccc(OC)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CCOC(=O)/C(=C\\Nc1ccc(Cl)cc1)c1ccc(Cl)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CCOC(=O)/C(=C/Nc1cc(Cl)cc(Cl)c1)c1ccc(Cl)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CCOC(=O)/C(=C/Nc1ccc(Br)cc1)c1ccc(OC)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CCOC(=O)/C(=C/Nc1cc(F)cc(F)c1)c1ccc(OC)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CCOC(=O)/C(=C\\Nc1cc(Cl)cc(Cl)c1)c1ccc(OC)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CCOC(=O)/C(=C\\Nc1cc(OC)cc(OC)c1)c1ccc(OC)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CCOC(=O)/C(=C/Nc1cc(Br)c(OC)c(Br)c1)c1ccc(OC)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Alkaloids",
+            "Shikimates and Phenylpropanoids"
+        ]
+    },
+    "CCOC(=O)/C(=C/Nc1ccc(C)cc1)c1ccc(Cl)cc1": {
+        "class_results": [],
+        "superclass_results": [],
+        "pathway_results": [
+            "Shikimates and Phenylpropanoids"
+        ]
+    }
 }
