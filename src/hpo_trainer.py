@@ -103,7 +103,7 @@ def objective_rf(trial, study_name, X_train, y_train):
     return mean_cv_accuracy
 
 
-def objective_xgboost(trial, study_name, X_train, y_train):
+def objective_xgboost(trial, study_name, X_train, y_train, label_to_idx):
     """Objective function for the XGBoost classifier."""
     params = {
         "verbosity": 0,
@@ -116,13 +116,6 @@ def objective_xgboost(trial, study_name, X_train, y_train):
         "colsample_bytree": trial.suggest_float(
             "colsample_bytree", 0.1, 0.7
         ),  # Percentage of features used per tree.
-    }
-
-    label_to_idx = {
-        "gram-negative": 0,
-        "gram-positive": 1,
-        "acid-fast": 2,
-        "unselective": 3,
     }
 
     # Training data
