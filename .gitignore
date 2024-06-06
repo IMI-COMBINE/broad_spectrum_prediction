@@ -166,3 +166,12 @@ data/raw/*
 .metadata/*
 data/fingerprints/*
 *.pkl
+
+# Additional directories
+experiments/*
+models/*
+figures/*
+data/benchmark/*
+data/chembl_33/*
+data/splits/*
+data/reports/*
