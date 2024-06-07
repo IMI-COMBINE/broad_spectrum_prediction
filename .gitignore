@@ -174,4 +174,4 @@ figures/scaffolds/*
 data/benchmark/*
 data/chembl_33/*
 data/splits/*
-data/reports/*
+reports/*
