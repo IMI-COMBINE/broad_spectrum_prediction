@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 from matplotlib.patches import Ellipse
 
-DATA_DIR = "../data"
+DATA_DIR = "../figures"
 
 
 # get shared elements for each combination of sets
@@ -53,7 +53,7 @@ def get_unique(shared):
 
 
 # plot Venn
-def draw_venn(sets={}, size=3.5):
+def draw_venn(sets={}, size=3.5, save=False):
     shared = get_shared(sets)
     unique = get_unique(shared)
     ce = "bgrc"  # colors
@@ -294,3 +294,6 @@ def draw_venn(sets={}, size=3.5):
         columnspacing=cs,
         handletextpad=0.5,
     )
+    plt.tight_layout()
+    if save:
+        plt.savefig(f"{DATA_DIR}/figure_1.png", dpi=400)
