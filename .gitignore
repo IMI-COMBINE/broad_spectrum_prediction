@@ -170,7 +170,7 @@ data/fingerprints/*
 # Additional directories
 experiments/*
 models/*
-figures/*
+figures/scaffolds/*
 data/benchmark/*
 data/chembl_33/*
 data/splits/*
