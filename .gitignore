@@ -172,6 +172,10 @@ experiments/*
 models/*
 figures/scaffolds/*
 data/benchmark/*
-data/chembl_33/*
+data/chembl_34/*
 data/splits/*
 reports/*
+data/processed/chembl34_raw_data.tsv
+data/processed/coadd_raw_data.tsv
+data/processed/spark_raw_data.tsv
+*.html
