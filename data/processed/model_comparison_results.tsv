@@ -14,7 +14,7 @@ ECFP4	SMOTE	Naive Bayes	0.34
 RDKit	Orginal	Random Forest Classifier	0.7
 RDKit	Orginal	Extreme Gradient Boosting	0.69
 RDKit	Orginal	Light Gradient Boosting Machine	0.62
-RDKit	Orginal	Decision Tree Classifier	0.55
+RDKit	Orginal	Decision Tree Classifier	0.54
 RDKit	Orginal	Logistic Regression	0.46
 RDKit	Orginal	Naive Bayes	0.17
 RDKit	SMOTE	Random Forest Classifier	0.89
@@ -38,7 +38,7 @@ MACCS	SMOTE	Naive Bayes	0.14
 MHFP6	Orginal	Extreme Gradient Boosting	0.7
 MHFP6	Orginal	Random Forest Classifier	0.69
 MHFP6	Orginal	Light Gradient Boosting Machine	0.67
-MHFP6	Orginal	Decision Tree Classifier	0.51
+MHFP6	Orginal	Decision Tree Classifier	0.5
 MHFP6	Orginal	Logistic Regression	0.47
 MHFP6	Orginal	Naive Bayes	0.13
 MHFP6	SMOTE	Random Forest Classifier	0.89
