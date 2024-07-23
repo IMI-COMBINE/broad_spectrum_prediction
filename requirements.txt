@@ -6,11 +6,11 @@ fastparquet
 mhfp==1.9.6
 neomodel==5.2.1
 seaborn==0.13.1
-imbalanced-learn
-scikit-learn
+imbalanced-learn==0.11.0
+scikit-learn==1.2.2
 pycaret==3.2.0
 ipywidgets==8.1.1
-torch
+torch==2.1.2
 optuna==3.5.0
 openpyxl==3.1.2
 matplotlib_venn==0.11.10
