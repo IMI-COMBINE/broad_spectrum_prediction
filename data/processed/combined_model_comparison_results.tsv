@@ -1,0 +1,73 @@
+fingerprint	Train type	Model	kappa
+ECFP4	Orginal	Random Forest Classifier	0.62
+ECFP4	Orginal	Extreme Gradient Boosting	0.58
+ECFP4	Orginal	Light Gradient Boosting Machine	0.54
+ECFP4	Orginal	Decision Tree Classifier	0.46
+ECFP4	Orginal	Logistic Regression	0.41
+ECFP4	Orginal	Naive Bayes	0.27
+ECFP4	SMOTE	Random Forest Classifier	0.81
+ECFP4	SMOTE	Extreme Gradient Boosting	0.72
+ECFP4	SMOTE	Decision Tree Classifier	0.7
+ECFP4	SMOTE	Light Gradient Boosting Machine	0.67
+ECFP4	SMOTE	Logistic Regression	0.51
+ECFP4	SMOTE	Naive Bayes	0.31
+RDKit	Orginal	Random Forest Classifier	0.62
+RDKit	Orginal	Extreme Gradient Boosting	0.62
+RDKit	Orginal	Light Gradient Boosting Machine	0.56
+RDKit	Orginal	Decision Tree Classifier	0.48
+RDKit	Orginal	Logistic Regression	0.41
+RDKit	Orginal	Naive Bayes	0.17
+RDKit	SMOTE	Random Forest Classifier	0.83
+RDKit	SMOTE	Extreme Gradient Boosting	0.78
+RDKit	SMOTE	Decision Tree Classifier	0.74
+RDKit	SMOTE	Light Gradient Boosting Machine	0.7
+RDKit	SMOTE	Logistic Regression	0.51
+RDKit	SMOTE	Naive Bayes	0.17
+MACCS	Orginal	Random Forest Classifier	0.61
+MACCS	Orginal	Extreme Gradient Boosting	0.56
+MACCS	Orginal	Decision Tree Classifier	0.52
+MACCS	Orginal	Light Gradient Boosting Machine	0.51
+MACCS	Orginal	Logistic Regression	0.29
+MACCS	Orginal	Naive Bayes	0.1
+MACCS	SMOTE	Random Forest Classifier	0.81
+MACCS	SMOTE	Decision Tree Classifier	0.73
+MACCS	SMOTE	Extreme Gradient Boosting	0.68
+MACCS	SMOTE	Light Gradient Boosting Machine	0.62
+MACCS	SMOTE	Logistic Regression	0.34
+MACCS	SMOTE	Naive Bayes	0.14
+MHFP6	Orginal	Random Forest Classifier	0.62
+MHFP6	Orginal	Extreme Gradient Boosting	0.62
+MHFP6	Orginal	Light Gradient Boosting Machine	0.6
+MHFP6	Orginal	Decision Tree Classifier	0.44
+MHFP6	Orginal	Logistic Regression	0.42
+MHFP6	Orginal	Naive Bayes	0.14
+MHFP6	SMOTE	Random Forest Classifier	0.84
+MHFP6	SMOTE	Extreme Gradient Boosting	0.8
+MHFP6	SMOTE	Light Gradient Boosting Machine	0.75
+MHFP6	SMOTE	Decision Tree Classifier	0.67
+MHFP6	SMOTE	Logistic Regression	0.57
+MHFP6	SMOTE	Naive Bayes	0.16
+ErG	Orginal	Random Forest Classifier	0.6
+ErG	Orginal	Extreme Gradient Boosting	0.56
+ErG	Orginal	Light Gradient Boosting Machine	0.52
+ErG	Orginal	Decision Tree Classifier	0.51
+ErG	Orginal	Logistic Regression	0.29
+ErG	Orginal	Naive Bayes	0.06
+ErG	SMOTE	Random Forest Classifier	0.81
+ErG	SMOTE	Decision Tree Classifier	0.7
+ErG	SMOTE	Extreme Gradient Boosting	0.7
+ErG	SMOTE	Light Gradient Boosting Machine	0.66
+ErG	SMOTE	Logistic Regression	0.34
+ErG	SMOTE	Naive Bayes	0.08
+ChemPhys	Orginal	Random Forest Classifier	0.54
+ChemPhys	Orginal	Extreme Gradient Boosting	0.47
+ChemPhys	Orginal	Light Gradient Boosting Machine	0.44
+ChemPhys	Orginal	Decision Tree Classifier	0.42
+ChemPhys	Orginal	Logistic Regression	0.13
+ChemPhys	Orginal	Naive Bayes	0.06
+ChemPhys	SMOTE	Random Forest Classifier	0.72
+ChemPhys	SMOTE	Extreme Gradient Boosting	0.58
+ChemPhys	SMOTE	Decision Tree Classifier	0.57
+ChemPhys	SMOTE	Light Gradient Boosting Machine	0.52
+ChemPhys	SMOTE	Logistic Regression	0.22
+ChemPhys	SMOTE	Naive Bayes	0.07
