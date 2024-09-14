@@ -1,11 +1,13 @@
 """Python script with util functions."""
 
+import os
 from itertools import combinations
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 from matplotlib.patches import Ellipse
 
 DATA_DIR = "../figures"
+os.makedirs(DATA_DIR, exist_ok=True)
 
 
 # get shared elements for each combination of sets
