@@ -1,5 +1,6 @@
 """Python script with for generation of property Graph."""
 
+import os
 import pandas as pd
 from tqdm import tqdm
 from ast import literal_eval
@@ -41,7 +42,7 @@ class Activity(StructuredRel):
 
 
 # Defining the nodes
-class BacteriaStrain(StructuredNode):
+class PathogenClass(StructuredNode):
     name = StringProperty(required=True, unique_index=True, unique=True)
 
 
@@ -49,7 +50,7 @@ class Bacteria(StructuredNode):
     name = StringProperty(required=True, unique_index=True, unique=True)
 
     # outgoing relations
-    strain = RelationshipTo(BacteriaStrain, "IS_A")
+    strain = RelationshipTo(PathogenClass, "IS_A")
 
 
 class Chemical(StructuredNode):
@@ -66,11 +67,12 @@ class Chemical(StructuredNode):
 
 def load_data():
     """Load the data from the processed files."""
-    DATA_DIR = "../data"
+    DATA_DIR = os.path.dirname(os.path.abspath(__file__)).split("/preprocess")[0]
+    DATA_DIR = f"{DATA_DIR}/data"
 
     """ChEMBL data"""
     chembl_df = pd.read_csv(
-        f"{DATA_DIR}/processed/chembl33_raw_data.tsv", sep="\t", low_memory=False
+        f"{DATA_DIR}/processed/chembl34_raw_data.tsv", sep="\t", low_memory=False
     )
     chembl_df.rename(
         columns={
@@ -203,9 +205,9 @@ if __name__ == "__main__":
     for bact_name in tqdm(bact_nodes):
         b = Bacteria(name=bact_name).save()
 
-    # Bacteria strain nodes
-    for bact_strain_name in tqdm(df["bact_class"].unique()):
-        b = BacteriaStrain(name=bact_strain_name).save()
+    # Pathogen class nodes
+    for pathogen_name in tqdm(df["bact_class"].unique()):
+        b = PathogenClass(name=pathogen_name).save()
 
     # Connecting the nodes based on schema
     for row in tqdm(df.values, desc="Generating relationships"):
@@ -227,7 +229,7 @@ if __name__ == "__main__":
         ) = row
         c = Chemical.nodes.get(name=cmp_id)
         b = Bacteria.nodes.get(name=bact)
-        s = BacteriaStrain.nodes.get(name=bact_class)
+        s = PathogenClass.nodes.get(name=bact_class)
 
         c.activity.connect(
             b,
