@@ -4,12 +4,13 @@ import json
 import os
 import pickle
 import torch
-
+import numpy as np
 import optuna
 import xgboost as xgb
 
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import cross_val_score
+from sklearn.metrics import make_scorer, cohen_kappa_score
 
 SEED = 3544
 
@@ -56,7 +57,7 @@ def save_rf_trial(trial, model, study_name, trial_dir: str):
 
 
 def objective_rf(trial, study_name, X_train, y_train, exp_type: str):
-    """Objective function for the random forest classifier."""
+    """Objective function for the Random Forest classifier with final eval metric as kappa."""
     # Number of trees in random forest
     n_estimators = trial.suggest_int(name="n_estimators", low=100, high=500, step=100)
 
@@ -91,8 +92,8 @@ def objective_rf(trial, study_name, X_train, y_train, exp_type: str):
     # Save model and trial
     save_rf_trial(trial=trial, model=model, study_name=study_name, trial_dir=trial_path)
 
-    mean_cv_accuracy = cv_score.mean()
-    return mean_cv_accuracy
+    cv_mean_kappa = cv_score.mean()
+    return cv_mean_kappa
 
 
 def save_xgboost_trial(trial, model, study_name, trial_dir: str):
@@ -107,19 +108,26 @@ def save_xgboost_trial(trial, model, study_name, trial_dir: str):
         json.dump(trial.params, f, indent=4, sort_keys=True, ensure_ascii=False)
 
 
+def kappa_scorer(preds, dtrain):
+    """Kappa scorer for the XGBoost model."""
+    labels = dtrain.get_label()
+    y_true = np.argmax(preds, axis=1)
+    return "kappa", cohen_kappa_score(y_true, labels)
+
+
 def objective_xgboost(trial, study_name, X_train, y_train, label_to_idx, exp_type: str):
-    """Objective function for the XGBoost classifier."""
+    """Objective function for the XGBoost classifier with final eval metric as Kappa."""
     params = {
         "verbosity": 0,
         "objective": "multi:softmax",
         "num_class": len(label_to_idx),
-        "eval_metric": "auc",
         "n_estimators": 1000,
         "eta": trial.suggest_float("learning_rate", 1e-2, 0.1, log=True),
         "max_depth": trial.suggest_int("max_depth", 2, 10),
         "colsample_bytree": trial.suggest_float(
             "colsample_bytree", 0.1, 0.7
         ),  # Percentage of features used per tree.
+        "disable_default_eval_metric": 1,
     }
 
     # Training data
@@ -128,9 +136,15 @@ def objective_xgboost(trial, study_name, X_train, y_train, label_to_idx, exp_typ
     dtrain = xgb.DMatrix(X_train, label=y_train)
 
     # Optimization of kappa scoe
-    pruning_callback = optuna.integration.XGBoostPruningCallback(trial, "test-auc")
+    pruning_callback = optuna.integration.XGBoostPruningCallback(trial, "test-kappa")
     xgboost_model = xgb.cv(
-        params, dtrain, callbacks=[pruning_callback], seed=SEED, nfold=5
+        params,
+        dtrain,
+        callbacks=[pruning_callback],
+        seed=SEED,
+        nfold=5,
+        maximize=True,
+        feval=kappa_scorer,
     )
 
     # Save model
@@ -139,6 +153,6 @@ def objective_xgboost(trial, study_name, X_train, y_train, label_to_idx, exp_typ
         trial=trial, model=xgboost_model, study_name=study_name, trial_dir=trial_path
     )
 
-    mean_auc = xgboost_model["test-auc-mean"].values[-1]  # Optimized for kappa
+    mean_kappa = xgboost_model["test-kappa-mean"].values[-1]  # Optimized for kappa
 
-    return mean_auc
+    return mean_kappa

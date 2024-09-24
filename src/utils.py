@@ -1,6 +1,8 @@
 """Python script with util functions."""
 
 import os
+import pandas as pd
+from tqdm import tqdm
 from itertools import combinations
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
@@ -8,6 +10,14 @@ from matplotlib.patches import Ellipse
 
 DATA_DIR = "../figures"
 os.makedirs(DATA_DIR, exist_ok=True)
+
+label_to_idx = {
+    "gram-negative": 0,
+    "gram-positive": 1,
+    "acid-fast": 2,
+    "fungi": 3,
+    "inactive": 4,
+}
 
 
 # get shared elements for each combination of sets
@@ -299,3 +309,105 @@ def draw_venn(sets={}, size=3.5, save=False):
     plt.tight_layout()
     if save:
         plt.savefig(f"{DATA_DIR}/figure_1.png", dpi=400)
+
+
+def _process_euos_data():
+    euos_df = pd.DataFrame()
+
+    for file in os.listdir("../data/benchmark"):
+        if "EOS" not in file:
+            continue
+        df = pd.read_csv(f"../data/benchmark/{file}")
+        df = df[["eos", "activity", "smiles", "inchikey"]]
+        df.rename(columns={"activity": file.split(".")[0]}, inplace=True)
+        df.set_index("eos", inplace=True)
+        if euos_df.empty:
+            euos_df = df
+        else:
+            euos_df = euos_df.join(df, how="outer", lsuffix="{file}_")
+
+    cols_to_keep = [i for i in euos_df.columns if "{file}_" not in i]
+    euos_df = euos_df[cols_to_keep]
+
+    # Adding in latest results
+    gram_negative_actives = """EOS2202
+    EOS24472
+    EOS100321
+    EOS100573
+    EOS100586
+    EOS100698
+    EOS100925
+    EOS100994
+    EOS101209
+    EOS101641
+    EOS101978
+    EOS102146
+    EOS102156
+    EOS102273"""
+    gram_negative_actives = gram_negative_actives.split("\n")
+
+    euos_df["gram_negative"] = euos_df.index.isin(gram_negative_actives)
+    euos_df["gram_negative"] = euos_df["gram_negative"].apply(
+        lambda x: "active" if x else "inactive"
+    )
+
+    # cleaning
+    euos_df.rename(
+        columns={
+            "CandidaAlb_fungi_EOS300076_65": "Fungi_candida",
+            "AspFumigatus_fungi_EOS300074_64": "Fungi_aspergillus",
+            "CandidaAuris_fungi_EOS300072_63": "Fungi_candida_auris",
+            "StaphA_EOS300078_66_GPlus": "Gram_positive_staph",
+            "E_faecalis_EOS300080_67_GPlus": "Gram_positive_enterococcus",
+        },
+        inplace=True,
+    )
+
+    final_class = []
+
+    for fungi_1, fungi_2, fungi_2, gp1, gp2, gn in tqdm(
+        euos_df[
+            [
+                "Fungi_candida",
+                "Fungi_aspergillus",
+                "Fungi_candida_auris",
+                "Gram_positive_staph",
+                "Gram_positive_enterococcus",
+                "gram_negative",
+            ]
+        ].values
+    ):
+        if "active" in [fungi_1, fungi_2, fungi_2]:
+            fungi = True
+        elif "inactive" in [fungi_1, fungi_2, fungi_2]:
+            fungi = False
+
+        if "active" in [gp1, gp2]:
+            gp = True
+        elif "inactive" in [gp1, gp2]:
+            gp = False
+
+        if "active" in [gn]:
+            gn = True
+        elif "inactive" in [gn]:
+            gn = False
+
+        if fungi and gp and gn:
+            final_class.append("fungi, gram-positive, gram-negative")
+        elif fungi and gp:
+            final_class.append("fungi, gram-positive")
+        elif fungi and gn:
+            final_class.append("fungi, gram-negative")
+        elif gp and gn:
+            final_class.append("gram-positive, gram-negative")
+        elif fungi:
+            final_class.append("fungi")
+        elif gp:
+            final_class.append("gram-positive")
+        elif gn:
+            final_class.append("gram-negative")
+        else:
+            final_class.append("inactive")
+
+    euos_df["final_class"] = final_class
+    euos_df.to_csv("../data/benchmark/euos_data_cleaned.tsv", sep="\t", index=False)
