@@ -56,28 +56,26 @@ def save_rf_trial(trial, model, study_name, trial_dir: str):
         json.dump(trial.params, f, indent=4, sort_keys=True, ensure_ascii=False)
 
 
-def objective_rf(trial, study_name, X_train, y_train, exp_type: str):
+def objective_rf(
+    trial, study_name, X_train, y_train, exp_type: str, label_to_idx: dict
+):
     """Objective function for the Random Forest classifier with final eval metric as kappa."""
-    # Number of trees in random forest
-    n_estimators = trial.suggest_int(name="n_estimators", low=100, high=500, step=100)
-
-    # Maximum number of levels in tree
-    max_depth = trial.suggest_int(name="max_depth", low=10, high=110, step=20)
-
-    # Minimum number of samples required to split a node
-    min_samples_split = trial.suggest_int(
-        name="min_samples_split", low=2, high=10, step=2
-    )
-
-    # Minimum number of samples required at each leaf node
-    min_samples_leaf = trial.suggest_int(name="min_samples_leaf", low=1, high=4, step=1)
 
     params = {
-        "n_estimators": n_estimators,
+        "n_estimators": trial.suggest_int(
+            name="n_estimators", low=100, high=500, step=100
+        ),  # Number of trees in random forest
         "max_features": "sqrt",
-        "max_depth": max_depth,
-        "min_samples_split": min_samples_split,
-        "min_samples_leaf": min_samples_leaf,
+        "max_depth": trial.suggest_int(
+            name="max_depth", low=10, high=110, step=20
+        ),  # Maximum number of levels in tree
+        "min_samples_split": trial.suggest_int(
+            name="min_samples_split", low=2, high=10, step=2
+        ),  # Minimum number of samples required to split a node
+        "min_samples_leaf": trial.suggest_int(
+            name="min_samples_leaf", low=1, high=4, step=1
+        ),  # Minimum number of samples required at each leaf node
+        "num_class": len(label_to_idx),
     }
     model = RandomForestClassifier(random_state=SEED, **params)
 
@@ -115,7 +113,9 @@ def kappa_scorer(preds, dtrain):
     return "kappa", cohen_kappa_score(y_true, labels)
 
 
-def objective_xgboost(trial, study_name, X_train, y_train, label_to_idx, exp_type: str):
+def objective_xgboost(
+    trial, study_name, X_train, y_train, label_to_idx: dict, exp_type: str
+):
     """Objective function for the XGBoost classifier with final eval metric as Kappa."""
     params = {
         "verbosity": 0,
