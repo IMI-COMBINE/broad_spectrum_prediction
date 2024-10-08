@@ -104,7 +104,7 @@ def run_model_selection(experiment_type: str, metric: str = "Kappa"):
         train_with_smote = pd.read_csv(
             f"{split_dir}/{fingerprint_name}_smote_train.csv"
         )
-        smote_train_data, smote_valid_data = train_test_split(
+        _, smote_valid_data = train_test_split(
             train_with_smote,
             test_size=0.2,
             stratify=train_with_smote["label"],
