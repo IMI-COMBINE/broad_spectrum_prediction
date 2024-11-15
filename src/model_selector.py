@@ -71,7 +71,7 @@ def _process_results(eval_results: dict):
     final_eval_df = pd.DataFrame(final_eval_df)
     final_eval_df["fingerprint"] = final_eval_df["fingerprint"].map(
         {
-            "ecfp4": "ECFP4",
+            "ecfp8": "ECFP8",
             "rdkit": "RDKit",
             "maccs": "MACCS",
             "mhfp6": "MHFP6",
@@ -91,7 +91,7 @@ def run_model_selection(experiment_type: str, metric: str = "Kappa"):
     eval_results = {}
 
     for fingerprint_name in tqdm(
-        ["ecfp4", "rdkit", "maccs", "mhfp6", "erg", "chem_phys"]
+        ["ecfp8", "rdkit", "maccs", "mhfp6", "erg", "chem_phys"]
     ):
         # Splitting train data into train and validation sets
         split_dir = f"../data/splits/{experiment_type}"

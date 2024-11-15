@@ -1,16 +1,16 @@
 fingerprint	Train type	Model	kappa
-ECFP4	Orginal	Random Forest Classifier	0.62
-ECFP4	Orginal	Extreme Gradient Boosting	0.58
-ECFP4	Orginal	Light Gradient Boosting Machine	0.54
-ECFP4	Orginal	Decision Tree Classifier	0.46
-ECFP4	Orginal	Logistic Regression	0.41
-ECFP4	Orginal	Naive Bayes	0.27
-ECFP4	SMOTE	Random Forest Classifier	0.81
-ECFP4	SMOTE	Extreme Gradient Boosting	0.72
-ECFP4	SMOTE	Decision Tree Classifier	0.7
-ECFP4	SMOTE	Light Gradient Boosting Machine	0.67
-ECFP4	SMOTE	Logistic Regression	0.51
-ECFP4	SMOTE	Naive Bayes	0.31
+ECFP8	Orginal	Random Forest Classifier	0.62
+ECFP8	Orginal	Extreme Gradient Boosting	0.58
+ECFP8	Orginal	Light Gradient Boosting Machine	0.54
+ECFP8	Orginal	Decision Tree Classifier	0.46
+ECFP8	Orginal	Logistic Regression	0.41
+ECFP8	Orginal	Naive Bayes	0.27
+ECFP8	SMOTE	Random Forest Classifier	0.81
+ECFP8	SMOTE	Extreme Gradient Boosting	0.72
+ECFP8	SMOTE	Decision Tree Classifier	0.7
+ECFP8	SMOTE	Light Gradient Boosting Machine	0.67
+ECFP8	SMOTE	Logistic Regression	0.51
+ECFP8	SMOTE	Naive Bayes	0.31
 RDKit	Orginal	Random Forest Classifier	0.62
 RDKit	Orginal	Extreme Gradient Boosting	0.62
 RDKit	Orginal	Light Gradient Boosting Machine	0.56
@@ -53,7 +53,7 @@ ErG	Orginal	Light Gradient Boosting Machine	0.52
 ErG	Orginal	Decision Tree Classifier	0.51
 ErG	Orginal	Logistic Regression	0.29
 ErG	Orginal	Naive Bayes	0.06
-ErG	SMOTE	Random Forest Classifier	0.81
+ErG	SMOTE	Random Forest Classifier	0.8
 ErG	SMOTE	Decision Tree Classifier	0.7
 ErG	SMOTE	Extreme Gradient Boosting	0.7
 ErG	SMOTE	Light Gradient Boosting Machine	0.66
@@ -67,7 +67,7 @@ ChemPhys	Orginal	Logistic Regression	0.13
 ChemPhys	Orginal	Naive Bayes	0.06
 ChemPhys	SMOTE	Random Forest Classifier	0.72
 ChemPhys	SMOTE	Extreme Gradient Boosting	0.58
-ChemPhys	SMOTE	Decision Tree Classifier	0.56
+ChemPhys	SMOTE	Decision Tree Classifier	0.57
 ChemPhys	SMOTE	Light Gradient Boosting Machine	0.52
 ChemPhys	SMOTE	Logistic Regression	0.22
 ChemPhys	SMOTE	Naive Bayes	0.07
