@@ -1,13 +1,13 @@
 	accuracy	cohen_kappa	macro_precision	macro_recall	macro_f1	roc_auc	experiment
 mhfp6_rf	0.759	0.678	0.775	0.756	0.764	0.845	combined
-ecfp4_rf	0.752	0.67	0.765	0.753	0.758	0.843	combined
+ecfp8_rf	0.752	0.67	0.765	0.753	0.758	0.843	combined
 rdkit_rf	0.743	0.659	0.752	0.746	0.749	0.838	combined
 rdkit_xgboost	0.743	0.658	0.751	0.744	0.748	0.837	combined
 maccs_rf	0.732	0.645	0.728	0.739	0.733	0.834	combined
 mhfp6_xgboost	0.732	0.645	0.736	0.736	0.734	0.832	combined
 erg_rf	0.725	0.636	0.727	0.725	0.726	0.826	combined
 maccs_xgboost	0.706	0.614	0.692	0.719	0.703	0.821	combined
-ecfp4_xgboost	0.686	0.587	0.68	0.691	0.682	0.804	combined
+ecfp8_xgboost	0.686	0.587	0.68	0.691	0.682	0.804	combined
 chem_phys_rf	0.686	0.585	0.671	0.68	0.675	0.799	combined
 erg_xgboost	0.658	0.553	0.642	0.671	0.651	0.791	combined
 chem_phys_xgboost	0.634	0.519	0.61	0.631	0.617	0.768	combined
