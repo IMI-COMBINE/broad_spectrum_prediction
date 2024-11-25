@@ -603,7 +603,7 @@ The notebooks in the (`src`)[src] folder include all the notebooks numbered in t
 
 It is great that you would like to benefit from our trained models. You can find the individual models on [Zenodo](https://zenodo.org/records/13868088) for local testing. Additionally, we have deployed the models online at https://antimicrobial-kg.serve.scilifelab.se/Model_Prediction. 
 
-> [!DISCLAIMER]  
+> [!IMPORTANT]  
 > **We do not collect any SMILES submitted to our platform.**
 
 # Funding
