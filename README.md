@@ -73,10 +73,6 @@ The file and folder structure for the models processed through the training and 
 │   │   ├── SPARK Data Novartis Contribution.csv
 │   │   ├── SPARK Data Quave Lab {Emory University} Publications.csv
 │   │   ├── SPARK MIC Data.csv
-│   │   ├── drug.target.interaction.tsv.gz
-│   │   ├── ecbd_dump_public_2024-08-19_12-34-44.sql
-│   │   ├── ecbd_query.ipynb
-│   │   └── structures.smiles.tsv
 │   └── splits
 │       ├── acid-fast
 │       │   ├── chem_phys_smote_train.csv
@@ -615,4 +611,4 @@ The work reflects the author's view and that neither IMI nor the European Union,
 
 # More information
 If you use our work, please consider citing us:
->
+> will be updated soon
