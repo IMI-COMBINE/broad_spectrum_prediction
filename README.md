@@ -611,4 +611,4 @@ The work reflects the author's view and that neither IMI nor the European Union,
 
 # More information
 If you use our work, please consider citing us:
-> will be updated soon
+> Gadiya, Y., Genilloud, O., Bilitewski, U., Brönstrup, M., von Berlin, L., Attwood, M., Gribbon, P. and Zaliani, A.. Predicting antimicrobial class specificity of small molecules using machine learning. *Journal of Chemical Information and Modeling* 2025, 65, 5, 2416–2431. DOI: [10.1021/acs.jcim.4c02347](https://doi.org/10.1021/acs.jcim.4c02347).
